@@ -76,11 +76,13 @@ According to Jean-Marie de la Mure, he dies on August 12 1239. In his chronicles
 
 The presence of another will, dated August 12 1241 - the same date, but two years later - suggests that his is simply an error. August 12 1241 is also the date inscribed on his tomb in the Montbrison church. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that he was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
 
+*!!! try to find the original of the 1241 will - this one is now very important*
+
 All this means that he likely did depart on the Barons Crusade - and the decision to replace him with his son was taken after the main crusader force had left.
 
 This theory is also confirmed by another independent source - the Eracles chronicles written in the Holy Lands. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [#5]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
 
-Thus we conclude that Guigues IV did leave on the Barons Crusade.
+Thus we conclude that Guigues IV did leave on the Barons Crusade. It is very likely that de la Mure concluded himself that Guigues never left according to the erroneous year of death - 1239.
 
 ### Guigues V, Count of Forez and Nevers
 
@@ -93,6 +95,8 @@ According to Jean-Marie de la Mure, he leaves after the main crusader force had 
 The other corroborating evidence for such change of command is that in the Holy Lands, he is referred as Count Guy of Nevers (citation needed!!!).
 
 While Count Guy IV of Forez was also Count of Nevers - by right of his third marriage - he was not the title holder. It is very unlikely that he would have styled himself Guy of Nevers - nobles would usually choose their most important title to be part of their name. However, it was his wife who was the actual title holder. On the other side, Guy V had inherited both titles and it is likely he styled himself Guy of Nevers - as Nevers was the larger county. This is the other evidence that the Guy in the Holy Lands was not the same Guy as the one who had departed from France.
+
+After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died childless (*check mention of her own will filed in Fontevraud*).
 
 #### Illness in Apulia
 
