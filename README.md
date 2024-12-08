@@ -96,7 +96,7 @@ The other corroborating evidence for such change of command is that in the Holy 
 
 While Count Guy IV of Forez was also Count of Nevers - by right of his third marriage - he was not the title holder. It is very unlikely that he would have styled himself Guy of Nevers - nobles would usually choose their most important title to be part of their name. However, it was his wife who was the actual title holder. On the other side, Guy V had inherited both titles and it is likely he styled himself Guy of Nevers - as Nevers was the larger county. This is the other evidence that the Guy in the Holy Lands was not the same Guy as the one who had departed from France.
 
-After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died childless (*check mention of her own will filed in Fontevraud*).
+After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died childless (*check mention of her own will filed in Fontevraud*).
 
 #### Illness in Apulia
 
