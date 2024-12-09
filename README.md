@@ -204,7 +204,7 @@ There are also two possible explanations why Guy V is not mentioned in any battl
 
 The chronicles of Jean-Marie de la Mure are quite detailed when it comes to the lives of the Forez family in France - however they contain nothing about their military campaigns far from home. The only historical sources documenting what happened in the East were not available to him. Likely, the knights themselves told their story - but these stories were not written.
 
-No one chronicled the Constantinople diversion (Greek sources?? to check??). In only one century both the Bulgarian and the Greek kingdoms were going to be no more - destroyed by the invasion of the Ottomans - with most of their archives gone.
+No one chronicled the Constantinople diversion itself, but there is [#7] in which the Count of Forez is never mentioned. The actual crusade to Constantinople is discussed, but very few actual people are mentioned - besides its top leaders. No one of count level or lower is mentioned at all.
 
 This means that if we try to reason the other way around - if Guy IV de Forez was indeed in Bulgaria, would there be any sources that could say the contrary - the answer would still be negative (more research!!!).
 
@@ -227,3 +227,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 4 Histoire des ducs de Bourgogne et les Comtes de Forez, Jean-Marie de la Mure, 1675
 
 6 Who was the eponym of the village with the enigmatic name of Kondofrej in the valley of the Strymon? / Thomas Tomov 2014
+
+7 Histoire de l'empire de Constantinople sous les empereurs françois [Texte imprimé] / [par C. Du Fresne Du Cange] 1657
