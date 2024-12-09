@@ -100,7 +100,7 @@ The other corroborating evidence for such change of command is that in the Holy 
 
 While Count Guy IV of Forez was also Count of Nevers - by right of his third marriage - he was not the title holder. It is very unlikely that he would have styled himself Guy of Nevers - nobles would usually choose their most important title to be part of their name. However, it was his wife who was the actual title holder. On the other side, Guy V had inherited both titles and it is likely he styled himself Guy of Nevers - as Nevers was the larger county. This is the other evidence that the Guy in the Holy Lands was not the same Guy as the one who had departed from France.
 
-After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died childless (*check mention of her own will filed in Fontevraud*).
+After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died with no male heirs. Her Fontevraud will passes her title to her grand-daughter Matilda, married to Odo of Burgundy [#8].(*This would mean that counts of Forez after Guy V do not have this title?? Clarify the succession of the Nevers title!!*)
 
 #### Illness in Apulia
 
@@ -229,3 +229,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 6 Who was the eponym of the village with the enigmatic name of Kondofrej in the valley of the Strymon? / Thomas Tomov 2014
 
 7 Histoire de l'empire de Constantinople sous les empereurs françois [Texte imprimé] / [par C. Du Fresne Du Cange] 1657
+
+8 The Crusading Counts of Nevers / Elizabeth Siberry, Nottingham Medieval Studies 1990 34:, 64-70
