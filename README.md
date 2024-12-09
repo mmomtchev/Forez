@@ -88,9 +88,13 @@ Thus we conclude that Guigues IV did leave on the Barons Crusade. It is very lik
 
 1220-1222 - 1259
 
-Guigues V was groomed for a military commander by his father. He accompanied his father during his campaigns in France "as soon as his age allowed him to bear arms" ([#4], page, 244). Still, he must have been about 10 to 12 years old during this campaign and it is unlikely to have had significant combat experience before the Barons Crusade.
+Guigues V was groomed for a military commander by his father. He accompanied his father during his campaigns in France "as soon as his age allowed him to bear arms" ([#4], page, 244). Still, he must have been about 13 to 14 years old during this campaign and it is unlikely to have had significant combat experience before the Barons Crusade.
+
+The marriage between Guy IV and Ermengarde lasts from 1220 to 1224 and Guy V has a younger brother, which means that he is probably born either in 1221 or in 1222.
 
 According to Jean-Marie de la Mure, he leaves after the main crusader force had already departed - and **finds the Christian army in very bad shape** [#4, page 245] - this statement is highly indicative of an actual change of command ***during*** the Crusade.
+
+He must be 18 to 20 years old at the time of his father death.
 
 The other corroborating evidence for such change of command is that in the Holy Lands, he is referred as Count Guy of Nevers (citation needed!!!).
 
@@ -144,7 +148,7 @@ A Count of Forez took part in all of these crusades: Guy III during the Fourth C
 
 The only one to have died from illness while traveling was Guy IV. Guy III died next to Jerusalem and it is buried in the church in Acre. Guy V returned to France where he is buried. Guy IV's coffin was famously carried (still left to check the church records in Montbrison!!!) from Italy, which makes him a very probable candidate.
 
-### In which military campaign did Guy IV take part?
+### In which military campaign did Guy IV and Guy V take part?
 
 Count Guy IV of Forez was probably the most influential count among the leaders of the crusade - and his army was second only to that of the princes themselves. Thus he can be considered to have been the 4th most senior leader of the Crusade.
 
@@ -157,6 +161,10 @@ Modern sources are unanimous - he was part of Thibault IV's force. However this 
 ### Possible theories
 
 From this point on, only speculation is possible. Is it possible that Guy's army decided to take a different route? It is possible that they had to wait somewhere for his son to arrive? Is is possible that they went through Bulgaria with the other crusader force?
+
+Pope Gregory IX tried very hard to coerce the knights to consider going to Constantinople instead of Palestine. Most refused since they believed that only dying in the Holy Land secured God's pardon for their sins. Thibault IV refused despite the fact that he needed Papal protection for his transgression against the crown. Guy IV was also in a difficult position because of his debts - is it possible that he conceded? Is it possible that Guy V did take a different decision?
+
+There are also two possible explanations why Guy V is not mentioned in any battle in Palestine: either his very young age and no previous military command experience meant that he did not play a significant role - or maybe he could have been in Bulgaria?
 
 The chronicles of Jean-Marie de la Mure are quite detailed when it comes to the lives of the Forez family in France - however they contain nothing about their military campaigns far from home. The only historical sources documenting what happened in the East were not available to him. Likely, the knights themselves told their story - but these stories were not written.
 
