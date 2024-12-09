@@ -156,7 +156,7 @@ In this case all modern sources will be completely wrong on the identity of the 
 
 Clearly, this version presents a very large number of conflicts.
 
-### Version 2: Only Guy IV went on the Barons Crusade and he died on his way back
+### Version 2: Only Guy IV went on the Barons Crusade and he died on his way back (most modern sources' version)
 
 This version is the one which is the best match for most modern sources. However it also means that de la Mure was completely wrong about the very identity of the knight who went on this crusade. Although his work presents a number of small inaccuracies, this is an absolutely glaring error which appears difficult to explain.
 
