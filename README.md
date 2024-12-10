@@ -16,7 +16,7 @@ Still, unable to believe this similarity to be a simple coincidence, I started r
 
 Trying to clarify it led to my first discovery - in fact, the Forez from the Fourth Crusade and the Barons Crusade were not father and son - but rather father, son and a great-son - three successive generations took part in those two Crusades, with the great-son taking part in two different crusades - the Barons Crusade and the Seventh Crusade. This was the actual source of confusion - and not a difference between the Anglo-Saxon and the French numbering style.
 
-This paper has two mains goals:
+This paper has two main goals:
 
 * Completely rebuild the genealogy of the Forez family during the period of the Crusades entirely from primary sources and serve as a definite reference on this subject.
 
@@ -105,6 +105,10 @@ The other corroborating evidence for such change of command is that in the Holy 
 While Count Guy IV of Forez was also Count of Nevers - by right of his third marriage - he was not the title holder. It is very unlikely that he would have styled himself Guy of Nevers - nobles would usually choose their most important title to be part of their name. However, it was his wife who was the actual title holder. On the other side, Guy V had inherited both titles and it is likely he styled himself Guy of Nevers - as Nevers was the larger county. This is the other evidence that the Guy in the Holy Lands was not the same Guy as the one who had departed from France.
 
 After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died with no male heirs. Her Fontevraud will passes her title to her grand-daughter Matilda, married to Odo of Burgundy [#8].(*This would mean that counts of Forez after Guy V do not have this title?? Clarify the succession of the Nevers title!!*)
+
+#### In the Holy Land
+
+In book 33, chapter 44, Erakles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([#3], page 127).
 
 #### Illness in Apulia
 
