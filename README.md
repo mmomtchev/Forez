@@ -108,7 +108,7 @@ After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from s
 
 #### Departing from France
 
-He is mentioned as "Guigues V, count of Forez and Nevers" being in Marseille - the port of departure for the crusade in ([#10], page 312). This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. This is a critical source, since it confirms de la Mure's version - that Guy IV never left France.
+He is mentioned as "Guigues V, count of Forez and Nevers" being in Marseille - the port of departure for the crusade in ([#10], page 312). This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. This is a critical source, since it confirms de la Mure's version - that Guy IV never left France (*or this could be a mistake and the original source of the confusion!!*).
 
 #### In the Holy Land
 
