@@ -66,7 +66,7 @@ The construction of the church - major landmark of this town - starts in 1223 ([
 
 #### Third marriage in 1226
 
-His third marriage is to Princess Mahault of Courtenay, countess of Nevers. This marriage does not produce any children, and it is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most important French counts.
+His third marriage is to Princess Mahault of Courtenay, countess of Nevers. This marriage does not produce any children, and it is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
 
 #### Feudal wars of 1230s
 
@@ -108,7 +108,7 @@ After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from s
 
 #### Departing from France
 
-He is mentioned as "Guigues V, count of Forez and Nevers" traveling from Lyon to Marseille - the port of departure for the crusade in ([#10], page 312). The group of crusaders led by Thibault IV met in Lyon and traveled together to Marseille where they met with the rest of the French knights. This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. If this is true, it could confirm de la Mure's version that Guy IV never left France. There is however one critical detail - Thibault IV left from Champagne in June 1239 and the group arrived in Marseille in August 1239. This is right before the earliest possible date of death of Guy IV - and one which is widely discounted as being a mistake. *It is very possible that this was in fact Guy IV and that this is the original source of the confusion.* Or - it could also mean that Guy IV was already on his death bed and decided to send his son instead.
+He is mentioned as "Guigues V, count of Forez and Nevers" traveling from Lyon to Marseille - the port of departure for the crusade in ([#10], page 312). The group of crusaders led by Thibault IV met in Lyon and traveled together to Marseille where they met with the rest of the French knights. This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. If this is true, it could confirm de la Mure's version that Guy IV never left France. There is however one critical detail - Thibault IV left from Champagne in June 1239 and the group arrived in Marseille in August 1239. This is right before the earliest possible date of death of Guy IV - and one which is widely discounted as being a mistake ([#4], page 240). **It is very possible that this was in fact Guy IV and that this is the original source of the confusion.**
 
 What is even more puzzling is that [#10], which describes the feudal conflicts of 1229-1235 in great detail - which pitted Guy IV against Thibault IV - Guy IV is sometimes referred as the Count of Nevers. Nevers played an important role in those conflicts - as the marriage of 1226 made that it was not considered anymore part of Champagne ([#10], page 252).
 
