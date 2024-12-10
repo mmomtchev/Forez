@@ -138,7 +138,13 @@ The Barons Crusade is a relatively lesser known crusade that is considered to be
 
 It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1205. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
 
-Thus, both armies shared the same funding and left about the same time. Both of them had to travel by sea from Italy, since the Holy Roman Empire and its emperor, Frederick II, were very hostile to the idea of the Pope gaining control of Constantinople, as they saw themselves as the true holders of the Roman Empire legacy.
+Thus, both armies shared the same funding and left about the same time.
+
+The army to the Holy Land assembled in Marseille - a fact mentioned both by Erakles and [#7].
+
+(!!check the exact route of the army going to Constantinople!!)
+
+~~Both of them had to travel by sea from Italy, since the Holy Roman Empire and its emperor, Frederick II, were very hostile to the idea of the Pope gaining control of Constantinople, as they saw themselves as the true holders of the Roman Empire legacy.~~
 
 ### The Diversion to Constantinople
 
