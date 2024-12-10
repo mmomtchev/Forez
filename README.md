@@ -84,7 +84,7 @@ The presence of another will, dated August 12 1241 - the same date, but two year
 
 All this means that he likely did depart on the Barons Crusade - and the decision to replace him with his son was taken after the main crusader force had left.
 
-This theory is also confirmed by another independent source - the Eracles chronicles written in the Holy Lands. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [#5]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
+This theory is also confirmed by another independent source - the Eracles chronicles. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [#5]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
 
 Thus we conclude that Guigues IV did leave on the Barons Crusade. It is very likely that de la Mure concluded himself that Guigues never left according to the erroneous year of death - 1239.
 
@@ -106,9 +106,13 @@ While Count Guy IV of Forez was also Count of Nevers - by right of his third mar
 
 After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died with no male heirs. Her Fontevraud will passes her title to her grand-daughter Matilda, married to Odo of Burgundy [#8].(*This would mean that counts of Forez after Guy V do not have this title?? Clarify the succession of the Nevers title!!*)
 
+#### Departing from France
+
+He is mentioned as "Guigues V, count of Forez and Nevers" being in Marseille - the port of departure for the crusade in ([#10], page 312). This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. This is a critical source, since it confirms de la Mure's version - that Guy IV never left France.
+
 #### In the Holy Land
 
-In book 33, chapter 44, Erakles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([#3], page 127).
+In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([#3], page 127). ([#9], page 481).
 
 #### Illness in Apulia
 
@@ -126,11 +130,11 @@ He returns to the Holy Land in 1248, joining the Seventh Crusade led by the Fren
 
 #### Maimed
 
-He loses a leg during a battle in the Holy Land in 1250 and has to return to Europe ([#4], page 250)
+He loses a leg during a battle in the Holy Land in 1250 and has to return to Europe ([#4], page 250).
 
 #### Death
 
-He dies without issue in 1251 and he is succeeded by his brother, Renaud I de Forez ([#4], page 254)
+He dies without issue in 1251 and he is succeeded by his brother, Renaud I de Forez ([#4], page 254).
 
 ## The Barons Crusade
 
@@ -140,7 +144,7 @@ It consists of two separate and largely independent military campaigns - one to 
 
 Thus, both armies shared the same funding and left about the same time.
 
-The army to the Holy Land assembled in Marseille - a fact mentioned both by Erakles and [#7].
+The army to the Holy Land assembled in Marseille - a fact mentioned both by Eracles and [#7].
 
 (!!check the exact route of the army going to Constantinople!!)
 
@@ -160,7 +164,7 @@ The only historical mention of illness is [#4], where there are two separate ins
 
 ### Version 1: Only Guy V went on the Barons Crusade with Guy IV dying shortly before its departure (aka de la Mure's version)
 
-In this case the Erakles comment can be attributed to a messenger being sent before the departure of the crusade and containing information which was correct at this moment - as Guy IV was supposed to join it.
+In this case the Eracles comment can be attributed to a messenger being sent before the departure of the crusade and containing information which was correct at this moment - as Guy IV was supposed to join it.
 
 In this case Guy IV's death occurred right before the departure - and it took a few years for Guy V to prepare himself. Or, on the other hand, Guy V left with the main army - in which case de la Mure is wrong about him joining the crusader at a later date. 
 
@@ -245,3 +249,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 7 Histoire de l'empire de Constantinople sous les empereurs françois [Texte imprimé] / [par C. Du Fresne Du Cange] 1657
 
 8 The Crusading Counts of Nevers / Elizabeth Siberry, Nottingham Medieval Studies 1990 34:, 64-70
+
+9 A History of the Crusades - Volume II: The Later Crusades 1189-1311 / Robert Lee Wolff and Harry W. Hazard, 1962
+
+10 Histoire des ducs et des comtes de Champagne : depuis le VIe siècle jusqu'à la fin du XIe. Tome 4, Partie 1 / Arbois de Jubainville, 1859-1869
