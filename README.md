@@ -16,11 +16,15 @@ Still, unable to believe this similarity to be a simple coincidence, I started r
 
 Trying to clarify it led to my first discovery - in fact, the Forez from the Fourth Crusade and the Barons Crusade were not father and son - but rather father, son and a great-son - three successive generations took part in those two Crusades, with the great-son taking part in two different crusades - the Barons Crusade and the Seventh Crusade. This was the actual source of confusion - and not a difference between the Anglo-Saxon and the French numbering style.
 
-This paper tries to establish the following new facts:
+This paper has two mains goals:
 
-* That during the Barons Crusade, there was an unexpected change of command, as Count Guigues IV died while traveling and was replaced - in-extremis - by his son Count Guigues of Forez. There is very compelling evidence for this fact.
+* Completely rebuild the genealogy of the Forez family during the period of the Crusades entirely from primary sources and serve as a definite reference on this subject.
 
-* That the Count of Forez, whether it was Guigues IV or Guigues V, was the actual eponym of the village of Kondofrey. Alas, the evidence for this remains very inconclusive and largely circumstantial. Still, the Count of Forez is to be considered a very strong candidate.
+  Scarce primary data, at least three different numbering schemes and years of cross-citing have led to extreme confusion in all modern sources.
+
+  This paper uses Jean-Marie de la Mure work as a framework. As a priest with access to the church records in the very church the Forez family built during this period, he is likely to be the best source when it comes to their births, marriages and deaths. Then overlay all the Eastern primary sources onto this framework trying to match each record to a family member.
+
+* Use this data to try to link one the crusading knights to the village of Kondodrey.
 
 ## The Crusading Family of Forez
 
