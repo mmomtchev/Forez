@@ -44,7 +44,12 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession to the Forez family following the 1226 marriage of his son, Guy IV.
 
-It shall also be noted that Eude (Odo) of Nevers, the next count of Nevers following the will of Princess Mahault (Matilda), also died in Acre - in 1265 or 1266 ([#2], page 176) - which means that there might be confusion between the two. There is also an earlier Guy of Nevers, who also died in Acre in 1167.
+Three explanations for this confusion are possible:
+* The confusion is due to Guy IV of Forez - who seem to be the most notable one - was also count of Nevers - and these chronicles were actually written after the fact
+* An earlier count of Nevers, William IV of Nevers, died of fever in Jerusalem in 1167 ([#8], page 66), the statement can be traced back to Chronicon Turonense
+* A later of count of Nevers, Eude (Odo) of Nevers, also died in Acre - in 1265 or 1266 ([#2], page 176)
+
+Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers and he never reached the Holy Land ([#8], page 66).
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -74,9 +79,9 @@ His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Ne
 
 According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy of Nevers (*try to find a more accurate, peer-reviewed reference for this fact than #11*)
 
-#### Feudal wars of 1230s
+#### Feudal wars of 1229
 
-He takes part in a number of small feudal conflicts during the 1230s against his neighbors - including Prince Thibault 4 of Champagne - the future leader of the Barons Crusade. Previously, they had been close allies. He is considered an accomplished military commander.
+He takes part in a number of small feudal conflicts during the 1229 against his neighbors - including Prince Thibault IV of Champagne - the future leader of the Barons Crusade. Previously, they had been close allies. He is considered an accomplished military commander.
 
 #### The Barons Crusade and Death
 
@@ -114,6 +119,14 @@ All of these sources confirm the expected conflict between Guy of Forez and Thib
 
 This can also be interpreted as another sign that this must be in fact the old Forez - Guy IV. It is difficult to imagine a 19-year old count successfully challenging the military command of a king. Thibault IV was selected as a military leader of the crusade because he was the only knight holding a king-level title ([#10], page 312) - being also king of Navarre. History remembers him as a great poet, but both his military campaigns ended in disaster. Still, challenging his leadership would have been possible only for a very experienced military commander.
 
+[#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which might be completely fictitious.
+
+#### Death
+
+The fact that Guy of Forez could write a will - the one from 1241 - the day before his death, indicates that he indeed died from a long illness.
+
+According to #11, page 167, it is Princess Mahault who organizes the transport of his coffin from Italy.
+
 ### Guigues V, Count of Forez
 
 1220-1222 - 1259
@@ -122,7 +135,7 @@ Guigues V was groomed for a military commander by his father. He accompanied his
 
 The marriage between Guy IV and Ermengarde lasts from 1220 to 1224 and Guy V has a younger brother, which means that he is probably born either in 1221 or in 1222.
 
-According to Jean-Marie de la Mure, he leaves after the main crusader force had already departed - and **finds the Christian army in very bad shape** [#4, page 245] - this statement is highly indicative of an actual change of command ***during*** the Crusade.
+According to Jean-Marie de la Mure, he leaves after the main crusader force had already departed - and **finds the Christian army in very bad shape** [#4, page 245] - this statement is currently discounted as being completely fictitious.
 
 He must be 18 to 20 years old at the time of his father death.
 
@@ -139,6 +152,8 @@ Most modern sources cite this illness as the cause of death of Guy IV and we als
 #### Seventh Crusade
 
 He returns to the Holy Land in 1248, joining the Seventh Crusade led by the French King Louis IX. He travels alone in 1250 and join Louis in Palestine, unable to depart with the main crusader force in 1248 ([#4], page 247-248).
+
+This is likely linked to the confusion about him taking part in the Barons Crusade.
 
 #### Maimed
 
