@@ -42,7 +42,7 @@ Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 
 
 Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death ([#2], page 5). 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
 
-A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession to the Forez family following the 1226 marriage of his son, Guy IV.
+A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession of the Forez family following the 1226 marriage of his son, Guy IV.
 
 Three explanations for this confusion are possible:
 * The confusion is due to Guy IV of Forez - who seem to be the most notable one - was also count of Nevers - and these chronicles were actually written after the fact
@@ -83,7 +83,7 @@ According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy o
 
 He takes part in a number of small feudal conflicts during the 1229 against his neighbors - including Prince Thibault IV of Champagne - the future leader of the Barons Crusade. Previously, they had been close allies. He is considered an accomplished military commander.
 
-#### The Barons Crusade and Death
+#### The Barons Crusade
 
 He takes part in the organization of the Barons Crusade and it is eager to follow the steps of his father who he barely knew. However there might have been other, more Earthly reasons for his decision. As was the case for many crusader knights, the privileges of the special legal status that they enjoyed also played a major role. Some sources mention a possible - and very serious - sentence of excommunication for harboring heretics ([2], page 726, [3], page 416, to check!!!). Other sources cite large debts, for which a crusader did not have to pay interest ([#3], page 546). The debt theory is further corroborated by administrative acts mentioned by de la Mure ([#4], page 246). There are however no traces of any sentence of excommunication in the original sources.
 
