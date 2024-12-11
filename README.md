@@ -77,7 +77,11 @@ The construction of the church - major landmark of this town - starts in 1223 ([
 
 His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. This marriage does not produce any children, and it is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
 
-According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy of Nevers (*try to find a more accurate, peer-reviewed reference for this fact than #11*)
+According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy of Nevers (*try to find a more accurate, peer-reviewed reference for this fact than #11*).
+
+#### Personality
+
+The only account of the personality of Guy IV that has reached us comes from the King Louis himself ([#11], page 133 *try to find the original source*). It was the King who arranged the marriage between Guy IV and Princess Mahault - because he considered that his blunt and direct personality would make a perfect match for the strong-willed Mahault who had a reputation for being a difficult wife. Mahault, a remarkable woman and a very significant character of her era, was one of the very few women who had taken part in a crusade herself - she had been in the Holy Land as part of the Fifth Crusade. The blessing of the King was very important, since this marriage between two powerful nobles had significant implications for the power status-quo in France, creating a new very powerful count. This description of Guy IV's personality is consistent with that of a military commander and not a court player or politician.
 
 #### Feudal wars of 1229
 
