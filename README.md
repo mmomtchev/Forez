@@ -108,13 +108,19 @@ After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from s
 
 #### Departing from France
 
-He is mentioned as "Guigues V, count of Forez and Nevers" traveling from Lyon to Marseille - the port of departure for the crusade in ([#10], page 312). The group of crusaders led by Thibault IV met in Lyon and traveled together to Marseille where they met with the rest of the French knights. This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. If this is true, it could confirm de la Mure's version that Guy IV never left France. There is however one critical detail - Thibault IV left from Champagne in June 1239 and the group arrived in Marseille in August 1239. This is right before the earliest possible date of death of Guy IV - and one which is widely discounted as being a mistake ([#4], page 240). **It is very possible that this was in fact Guy IV and that this is the original source of the confusion.**
+He is mentioned as "Guigues V, count of Forez and Nevers" traveling from Lyon to Marseille - the port of departure for the crusade in ([#10], page 312). The group of crusaders led by Thibault IV met in Lyon and traveled together to Marseille where they met with the rest of the French knights. This work, very similar to the one by de la Mure, is written at a much later date during the 19th century, with the author having access to the Eracles chronicles. It is safe to assume that was using the same numbering scheme as de la Mure, given that the confusion is in the 20th and later century English language works. If this is true, it could confirm de la Mure's version that Guy IV never left France. There is however one critical detail - Thibault IV left from Champagne in June 1239 and the group arrived in Marseille in August 1239. This is right before the earliest possible date of death of Guy IV - and one which is widely discounted as being a mistake ([#4], page 240).
 
 What is even more puzzling is that [#10], which describes the feudal conflicts of 1229-1235 in great detail - which pitted Guy IV against Thibault IV - Guy IV is sometimes referred as the Count of Nevers. Nevers played an important role in those conflicts - as the marriage of 1226 made that it was not considered anymore part of Champagne ([#10], page 252).
+
+In [#2], page 118, there is also a list of the departing knights from Marseille that mentions "..., the count of Forez, the count of Nevers, ..." without a name and listing these as if they were two different persons. The author of the 1887 edition identifies him as Guy V - and he too is unlikely to have used anything but the French numbering scheme.
 
 #### In the Holy Land
 
 In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([#3], page 127), [#9], page 481 which cites [#10], page 315-316 as source, leads back to Eracles.
+
+[#2], page 122 also includes an identical mention, naming him simply the Count of Nevers. (*what is the relation between the Rothelin manuscript and Gestes Chyprois? Same source?*).
+
+All of these sources confirm the expected conflict between Guy de Forez and Thibault IV de Champagne. At this point of the campaign the command authority of Thibault IV must be significantly eroded and Guy de Forez is refusing to follow orders and the two cannot agree on a common defense plan. He and the Knights Templar sign a separate truce with the Saracens and stay in Jaffa, while Thibault IV de Champagne and the Knights Hospitaliers decide to leave and try to defend Acre. The fact that the Templars are siding with Guy de Forez is indicative of serious lack of command authority by Thibault IV.
 
 #### Illness in Apulia
 
@@ -240,7 +246,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 # Sources
 1 The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005
 
-2 Gestes des Chiprois
+2 Les gestes des Chiprois : recueil de chroniques françaises écrites en Orient aux XIIIe et XIVe siècles (Philippe de Navarre et Gérard de Monréal) / Gaston Raynaud, 1887 edition of the original manuscripts written from XIIIth to XVIth century
 
 3 Crusader Syria in the thirteenth century [Texte imprimé] : the Rothelin continuation of the History of William of Tyre with part of the Eracles or Acre text / transl. by Janet Shirley
 
