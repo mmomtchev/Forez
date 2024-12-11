@@ -44,7 +44,7 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession to the Forez family following the 1226 marriage of his son, Guy IV.
 
-It shall also be noted that Eude (Odo) of Nevers, the next count of Nevers following the will of Princess Mahault (Matilda), also died in Acre - in 1265 or 1266 ([#2], page 176) - which means that there might be confusion between the two.
+It shall also be noted that Eude (Odo) of Nevers, the next count of Nevers following the will of Princess Mahault (Matilda), also died in Acre - in 1265 or 1266 ([#2], page 176) - which means that there might be confusion between the two. There is also an earlier Guy de Nevers, who also died in Acre in 1167.
 
 ### Count Guigues (Guy) IV of Forez
 
@@ -125,6 +125,8 @@ In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaf
 [#2], page 122 also includes an identical mention, naming him simply the Count of Nevers. (*what is the relation between the Rothelin manuscript and Gestes Chyprois? Same source?*).
 
 All of these sources confirm the expected conflict between Guy de Forez and Thibault IV de Champagne. At this point of the campaign the command authority of Thibault IV must be significantly eroded and Guy de Forez is refusing to follow orders and the two cannot agree on a common defense plan. He and the Knights Templar sign a separate truce with the Saracens and stay in Jaffa, while Thibault IV de Champagne and the Knights Hospitaliers decide to leave and try to defend Acre. The fact that the Templars are siding with Guy de Forez is indicative of serious lack of command authority by Thibault IV.
+
+This can also be interpreted as another sign that this must be in fact the old Forez - Guy IV. It is difficult to imagine a 19-year old count successfully challenging the military command of a king. Thibault IV was selected as a military leader of the crusade because he was the only knight holding a king-level title ([#10], page 312) - being also king of Navarre. History remembers him as a great poet, but both his military campaigns ended in disaster. Still, challenging his leadership would have been possible only for a very experienced military commander.
 
 #### Illness in Apulia
 
