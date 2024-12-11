@@ -44,7 +44,7 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession to the Forez family following the 1226 marriage of his son, Guy IV.
 
-It shall also be noted that Eude of Nevers, the next count of Nevers following the will of Princess Mahault, also died in Acres - in 1265 or 1266 ([#2], page 176) - which means that there might be confusion between the two.
+It shall also be noted that Eude (Odo) of Nevers, the next count of Nevers following the will of Princess Mahault (Matilda), also died in Acre - in 1265 or 1266 ([#2], page 176) - which means that there might be confusion between the two.
 
 ### Count Guigues (Guy) IV of Forez
 
@@ -70,7 +70,7 @@ The construction of the church - major landmark of this town - starts in 1223 ([
 
 #### Third marriage in 1226
 
-His third marriage is to Princess Mahault of Courtenay, countess of Nevers. This marriage does not produce any children, and it is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
+His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. This marriage does not produce any children, and it is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
 
 #### Feudal wars of 1230s
 
