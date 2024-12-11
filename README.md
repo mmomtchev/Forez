@@ -237,7 +237,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 3 Crusader Syria in the thirteenth century [Texte imprimé] : the Rothelin continuation of the History of William of Tyre with part of the Eracles or Acre text / transl. by Janet Shirley
 
-4 Histoire des ducs de Bourgogne et les Comtes of Forez, Jean-Marie de la Mure, 1675
+4 Histoire des ducs de Bourgogne et les Comtes of Forez, Jean-Marie de la Mure, 1860 edition of the 1675 manuscript
 
 6 Who was the eponym of the village with the enigmatic name of Kondofrej in the valley of the Strymon? / Thomas Tomov 2014
 
