@@ -167,15 +167,15 @@ He dies without issue in 1251 and he is succeeded by his brother, Renaud I of Fo
 
 The Barons Crusade is a relatively lesser known crusade that is considered to be a failure by most scholars. Militarily, it was very well prepared and consisted of a very sizeable and capable armed force. However because of various organizational problems, it failed to achieve any goals. It is studied very extensively by Lower in his 2005 book.
 
-It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1205. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
+It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. Both armies shared the same funding and left about the same time. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1205. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
 
-Thus, both armies shared the same funding and left about the same time.
+Count Guy IV of Forez was probably the most influential count among the leaders of the crusade - and his army was second only to that of the princes themselves. Thus he can be considered to have been the 4th most senior leader of the Crusade.
+
+Tensions among the leaders of the Barons Crusade were very high. Many of the knights had been at war just a few years earlier - because of the failed attempt of Thibault IV to seize the throne of France from Louis. They quickly formed three factions, led by each of the princes and the three armies marched separately and never fought as a single unit [#1, page 51].
 
 The army to the Holy Land assembled in Marseille - a fact mentioned both by Eracles and [#7].
 
-(!!check the exact route of the army going to Constantinople!!)
-
-~~Both of them had to travel by sea from Italy, since the Holy Roman Empire and its emperor, Frederick II, were very hostile to the idea of the Pope gaining control of Constantinople, as they saw themselves as the true holders of the Roman Empire legacy.~~
+Guy IV of Forez traveled in Thibault IV's group, but tensions between them led to further fragmentation of the crusader force once in the Holy Land. They used to be close allies, but because Guy of Forez's marriage in 1226 and Thibault's rebellion against the king, they fought a brief war in 1229.
 
 ### The Diversion to Constantinople
 
@@ -212,16 +212,6 @@ The village appeared in historical records for the first time in the 13th centur
 A Count of Forez took part in all of these crusades: Guy III during the Fourth Crusade, both Guy IV and Guy V - according to this new theory - during the Barons Crusade and only Guy V during the Seventh Crusade.
 
 The only one to have died from illness while traveling was Guy IV. Guy III died next to Jerusalem and it is buried in the church in Acre. Guy V returned to France where he is buried. Guy IV's coffin was famously carried (still left to check the church records in Montbrison!!!) from Italy, which makes him a very probable candidate.
-
-### In which military campaign did Guy IV and Guy V take part?
-
-Count Guy IV of Forez was probably the most influential count among the leaders of the crusade - and his army was second only to that of the princes themselves. Thus he can be considered to have been the 4th most senior leader of the Crusade.
-
-Tensions among the leaders of the Barons Crusade were very high. Many of the knights had been at war just a few years earlier - because of the failed attempt of Thibault IV to seize the throne of France from Louis. They quickly formed three factions, led by each of the princes and the three armies marched separately and never fought as a single unit [#1, page 51].
-
-In which military campaign did Guy IV take part?
-
-Modern sources are unanimous - he was part of Thibault IV's force. However this assumption - no matter how logical - is not confirmed by any original historical source. Guy IV and Thibault IV used to be close allies, but had a falling out in 1235, just a few years before the crusade, when they went to war over a land dispute. Guy V, still a child, was also present at the battlefield. It is also known that Gregory IX tried to pressure Thibault IV to be part of the Constantinople diversion. Thibault IV was in difficult position because of his failed attempt to seize the French crown. Still he preferred to go to the Holy Land - and this is very well documented.
 
 ### Possible theories
 
