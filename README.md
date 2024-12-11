@@ -164,41 +164,25 @@ The army to the Holy Land assembled in Marseille - a fact mentioned both by Erac
 
 Both military campaigns were not very successful. The campaign to Constantinople crossed the Adriatic. Historic sources (citations?) record Tzar Ivan Asen II meeting the crusaders at the western border of Bulgaria. At this moment Ivan Asen II was allied to Ioan Vatatzes of Nicaea against the Latin Empire. His predecessor - Tzar Kaloyan had successfully defeated the crusaders 35 years earlier. It is still unclear how the crusaders and Tzar Ivan Asen II reached an agreement. Bulgarian sources (citation?) speculate that Tzar Ivan Asen II did not wish to fight fellow Christians en route to the Holy Land. Crusader sources (citation?) indicate that the crusaders definitely considered the option of meeting the combined Bulgarian and Greek armies on the battlefield - but quickly realized that they were hopelessly outnumbered. Finally, Tzar Ivan Asen II made one of the most significant contributions the Barons Crusade - a squadron of Cuman light cavalry for which the Bulgarians were famous - thus turning his back on the Greeks. It seems that the alliance between the Bulgarians and the Greeks against the Latin Empire was a very precarious one, since both sides coveted Constantinople. Although the subject is interesting, it is beyond the scope of the current paper.
 
-## The case for a change of command during the crusade
+## Identity of the knight who left on the Barons Crusade
 
-As this theory is quite unusual, in order to really bring it forward, we will try to proceed by considering every single other possibility in order to ensure that this version is the one with the least conflicts with the historical sources.
+### Guy V (aka de la Mure's version)
 
-First of all, it should be noted that most modern sources mention a Guy of Forez dying from illness on his way back from a crusade.
+It is very difficult to imagine de la Mure, priest in the church of Montbrison, built by Guy IV, being mistaken on the identity of the knight who went on a crusade - between Guy IV and his son Guy V.
 
-The only historical mention of illness is [#4], where there are two separate instances: Guy III who dies during a military campaign near Jerusalem and Guy V who falls ill but recovers in Apulia.
+Still, every other source is either influenced by him or states the contrary.
 
-### Version 1: Only Guy V went on the Barons Crusade with Guy IV dying shortly before its departure (aka de la Mure's version)
+There seems to be a particularly enduring confusion, starting with him, between Guy IV and Guy V.
 
-In this case the Eracles comment can be attributed to a messenger being sent before the departure of the crusade and containing information which was correct at this moment - as Guy IV was supposed to join it.
+There are factual documents - from "Trésor des Chartes du Roi" - which dispute him claims of Guy IV dying right before the crusade. (*check if the originals can be examined*).
 
-In this case Guy IV's death occurred right before the departure - and it took a few years for Guy V to prepare himself. Or, on the other hand, Guy V left with the main army - in which case de la Mure is wrong about him joining the crusader at a later date. 
-
-There are factual documents - from "Trésor des Chartes du Roi" - which dispute this claim (*check if the originals can be examined*).
-
-In this case all modern sources will be completely wrong on the identity of the knight who took part in the crusade.
+The fact that most crusader sources refer to Guy as a count of Forez and Nevers - or sometimes exclusively as count of Nevers - is particularly important.
 
 Clearly, this version presents a very large number of conflicts.
 
-### Version 2: Only Guy IV went on the Barons Crusade and he died on his way back (most modern sources' version)
+### Guy IV (most modern sources' version)
 
-This version is the one which is the best match for most modern sources. However it also means that de la Mure was completely wrong about the very identity of the knight who went on this crusade. Although his work presents a number of small inaccuracies, this is an absolutely glaring error which appears difficult to explain.
-
-In this case, at least one chronicler also made a glaring mistake about his name - calling him Guy de Nevers.
-
-### Version 3: Both father and son left together on the crusade and the father died en route
-
-Although this version appears logical, it also means that de la Mure made a glaring and difficult mistake. It is also somewhat unlikely that no one mentioned the presence of two Guy de Forez at the same time.
-
-### Proposal: the succession happened during the crusade
-
-This is the only version that does not present almost any conflicts with the written sources - besides the year of death of Guy IV in de la Mure's work. For it to be realistic, a number of assumptions must be made. It appears difficult to imagine the crusader army stopping in the middle of a military campaign to wait for 6 or even 12 months for a messenger to be sent across Europe - especially given the reliability of the communications during this era. However had the army been occupying a castle - or a permanent camp near a natural strong-point - for another reason - and the news about the death of a commander had reached back to France - then the possibility of the son deciding to replace his father might be realistic.
-
-If such change of command happened, it must have happened outside the sight of any chronicler as no one ever mentions it directly. And in this case Constantinople would be a prime location.
+If one eliminates de la Mure's account of the Barons Crusade - as well as all other sources influenced by him - than the result is unanimous without any conflicts.
 
 ## The village of Kondofrey
 
