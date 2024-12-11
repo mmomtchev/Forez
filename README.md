@@ -40,7 +40,9 @@ This is the first study of the Forez family since the chronicles of Jean-Marie d
 
 Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 1202 and reached Acre in Palestine. He died of illness during a military campaign near Jerusalem and his remains were transported back to Acre. There is little doubt about the circumstances of his death and his place of burial is well known - in the church "The Knights of Saint-John of Jerusalem".
 
-Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death. 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
+Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death ([#2], page 5). 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
+
+A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession to the Forez family following the 1226 marriage of his son, Guy IV.
 
 ### Count Guigues (Guy) IV of Forez
 
