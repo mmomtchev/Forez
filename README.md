@@ -225,17 +225,7 @@ Modern sources are unanimous - he was part of Thibault IV's force. However this 
 
 ### Possible theories
 
-From this point on, only speculation is possible. Is it possible that Guy's army decided to take a different route? It is possible that they had to wait somewhere for his son to arrive? Is is possible that they went through Bulgaria with the other crusader force?
-
-Pope Gregory IX tried very hard to coerce the knights to consider going to Constantinople instead of Palestine. Most refused since they believed that only dying in the Holy Land secured God's pardon for their sins. Thibault IV refused despite the fact that he needed Papal protection for his transgression against the crown. Guy IV was also in a difficult position because of his debts - is it possible that he conceded? Is it possible that Guy V did take a different decision?
-
-There are also two possible explanations why Guy V is not mentioned in any battle in Palestine: either his very young age and no previous military command experience meant that he did not play a significant role - or maybe he could have been in Bulgaria?
-
-The chronicles of Jean-Marie de la Mure are quite detailed when it comes to the lives of the Forez family in France - however they contain nothing about their military campaigns far from home. The only historical sources documenting what happened in the East were not available to him. Likely, the knights themselves told their story - but these stories were not written.
-
-No one chronicled the Constantinople diversion itself, but there is [#7] in which the Count of Forez is never mentioned. The actual crusade to Constantinople is discussed, but very few actual people are mentioned - besides its top leaders. No one of count level or lower is mentioned at all.
-
-This means that if we try to reason the other way around - if Guy IV of Forez was indeed in Bulgaria, would there be any sources that could say the contrary - the answer would still be negative (more research!!!).
+From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
