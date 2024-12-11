@@ -28,7 +28,7 @@ This paper has two main goals:
 
 ## The Crusading Family of Forez
 
-The counts of Forez were one of the most active crusading families of the Middle Ages. In fact, after the counties of Forez and Nevers were merged in 1226, the new combined family had sent a family member to every single major crusade in the Holy Lands - very often the title-bearer himself.
+The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
 
 In this paper, we will focus on the three (and not two) most famous knights, and we will try to settle a number of problems and cases of mistaken identity between them. Traditionally these have been attributes to problems with the numbering scheme, but it seems that most of the confusion is due to the change of command during the Barons Crusade - a fact that it not mentioned in any modern sources - including the very exhaustive *The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005 [1]*.
 
@@ -46,7 +46,7 @@ A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" 
 
 It shall also be noted that Eude (Odo) of Nevers, the next count of Nevers following the will of Princess Mahault (Matilda), also died in Acre - in 1265 or 1266 ([#2], page 176) - which means that there might be confusion between the two. There is also an earlier Guy de Nevers, who also died in Acre in 1167.
 
-### Count Guigues (Guy) IV of Forez
+### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
 1196 or 1199 - 1240 or 1241
 
@@ -92,7 +92,7 @@ This theory is also confirmed by another independent source - the Eracles chroni
 
 Thus we conclude that Guigues IV did leave on the Barons Crusade. It is very likely that de la Mure concluded himself that Guigues never left according to the erroneous year of death - 1239.
 
-### Guigues V, Count of Forez and Nevers
+### Guigues V, Count of Forez
 
 1220-1222 - 1259
 
@@ -104,11 +104,7 @@ According to Jean-Marie de la Mure, he leaves after the main crusader force had 
 
 He must be 18 to 20 years old at the time of his father death.
 
-The other corroborating evidence for such change of command is that in the Holy Lands, he is referred as Count Guy of Nevers (citation needed!!!).
-
-While Count Guy IV of Forez was also Count of Nevers - by right of his third marriage - he was not the title holder. It is very unlikely that he would have styled himself Guy of Nevers - nobles would usually choose their most important title to be part of their name. However, it was his wife who was the actual title holder. On the other side, Guy V had inherited both titles and it is likely he styled himself Guy of Nevers - as Nevers was the larger county. This is the other evidence that the Guy in the Holy Lands was not the same Guy as the one who had departed from France.
-
-After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. This would explain why her title was passed onto Guy V immediately after his father's death - normally he wouldn't had inherited it until the death of his mother-in-law. Princess Mahault died with no male heirs. Her Fontevraud will passes her title to her grand-daughter Matilda, married to Odo of Burgundy [#8].(*This would mean that counts of Forez after Guy V do not have this title?? Clarify the succession of the Nevers title!!*)
+After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. She had only a single daughter from her first marriage - Agnes of Donzy - who died at the age of 24. She passed her title to Mahault of Borbon-Dampierre - her great grand-daughter ([#11], page 205). **Thus, the title Count of Nevers left the Forez family and the only Forez to ever hold it was Guy IV, by right of his marriage with his third wife.**
 
 #### Departing from France
 
@@ -267,3 +263,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 9 A History of the Crusades - Volume II: The Later Crusades 1189-1311 / Robert Lee Wolff and Harry W. Hazard, 1962
 
 10 Histoire des ducs et des comtes de Champagne : depuis le VIe siècle jusqu'à la fin du XIe. Tome 4, Partie 1 / Arbois de Jubainville, 1859-1869
+
+11 Mahaut de Courtenay : 1188-1257 : comtesse de Nevers, Auxerre et Tonnerre / Hubert Verneret, 2002
