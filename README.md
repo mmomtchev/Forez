@@ -95,9 +95,9 @@ He takes part in the organization of the Barons Crusade and it is eager to follo
 
 According to Jean-Marie de la Mure, he dies on August 12 1239. In his chronicles from 1675, de la Mure asserts that Guy IV never had the chance to depart on the Crusade, as he died shortly before its departure. On the other side, in the 1860 revised edition of his manuscript, this most likely wrong statement is attributed to an administrative act - the execution of his will - dated May 8 1240.
 
-The presence of another will, dated August 12 1241 - the same date, but two years later - suggests that his is simply an error. August 12 1241 is also the date inscribed on his tomb in the Montbrison church. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that he was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
+The presence of another will, dated August 12 1241 - the same date, but two years later - suggests that his is simply an error. August 12 1241 is also the date inscribed on his tomb in the Montbrison church. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that Guy IV was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
 
-All this means that he likely did depart on the Barons Crusade.
+All this means that Guy IV did depart on the Barons Crusade and died on its way back.
 
 This theory is also confirmed by another independent source - the Eracles chronicles. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [#5]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
 
@@ -127,7 +127,11 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 #### Death
 
-The fact that Guy of Forez could write a will - the one from 1241 - the day before his death, indicates that he indeed died from a long illness.
+The fact that Guy of Forez could write a will - the one from 1241 - the day or two days before his death, indicates that he indeed died from a long illness.
+
+The original document from 1241 is not well preserved and some parts of it are missing. One can find a partial transcription in [#12], page 46 which indeed starts with:
+
+"In nomine sancte et in[*dividue Trinitiatis, e*]go Guido comes Nivernensis et Forensis" (*extrapolated part*). As Guy IV of Forez is the only Forez who is also count of Nevers, this is clearly his will. The will also mentions being written Apulia with the town of Castellaneta being extrapolated from the missing text by the authors of the 1867 edition. The will is written on cotton paper which was widely used in Naples during this period ([#12], page 47).
 
 According to #11, page 167, it is Princess Mahault who organizes the transport of his coffin from Italy.
 
@@ -250,3 +254,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 10 Histoire des ducs et des comtes de Champagne : depuis le VIe siècle jusqu'à la fin du XIe. Tome 4, Partie 1 / Arbois de Jubainville, 1859-1869
 
 11 Mahaut de Courtenay : 1188-1257 : comtesse de Nevers, Auxerre et Tonnerre / Hubert Verneret, 2002
+
+12 Titres de la maison ducale de Bourbon, Volume 1 / H. Plon, 1867-1874
