@@ -163,13 +163,13 @@ This confirms his previous will of 1239, just before setting on the crusade, tha
 
 #### Mention of Frederick II in his will
 
-The will also contains a quite puzzling mention of Emperor Frederick II:
+The will also contains a mention of Emperor Frederick II who may have been Guy's host:
 
 > In primo legavi domino imperatori Alemannie unum diamantum quem multum diligebam et unum cinctorium argenti dearauti
 
 *In the first place I bequeathed to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
 
-The emperor of the Holy Roman Empire was at this time in Sicily. He was a sworn enemy to Pope Gregory IX who had him excommunicated on four different occasions. Crusader himself - but during a previous crusade - his relation with Guy IV of Forez is a mystery.
+The emperor of the Holy Roman Empire was at this time in Sicily. He was a sworn enemy to Pope Gregory IX who had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth Crusade.
 
 #### Death
 
