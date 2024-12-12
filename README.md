@@ -77,7 +77,7 @@ The construction of the church - major landmark of this town - starts in 1223 ([
 
 #### Third marriage in 1226
 
-His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. This marriage does not produce any children, and it is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
+His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. Princess Mahault is 38 years old and this marriage does not produce any children. It is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
 
 According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy of Nevers (*try to find a more accurate, peer-reviewed reference for this fact than #11*).
 
@@ -111,7 +111,19 @@ He is mentioned as "Guigues V, count of Forez and Nevers" traveling from Lyon to
 
 Another fact supporting this theory in [#10], which describes the feudal conflicts of 1229 in great detail - which pitted Guy IV against Thibault IV - Guy IV is sometimes referred as the Count of Nevers. Nevers played an important role in those conflicts - as the marriage of 1226 made that it was not considered anymore part of Champagne ([#10], page 252). The only Forez that was also count of Nevers is Guy IV.
 
-In [#2], page 118, there is also a list of the departing knights from Marseille that mentions "..., the count of Forez, the count of Nevers, ..." without a name and listing these as if they were two different persons. The author of the 1887 edition identifies him as Guy V - which should also be attributed to de la Mure's influence. Although one may be tempted to try to interpret this mistake as a sign that both Guy IV and Guy V might have been traveling together, this is not very likely, since Guy V could not have been referred as Count of Forez until the death of his father.
+In [#2], page 118, there is also a list of the departing knights from Marseille that mentions "..., the count of Forez, the count of Nevers, ..." without a name and listing these as if they were two different persons:
+
+    ...que l'en clamoit Piere Mauclerc,
+    li cuens de Bretaigne,
+    Johans de Dreues, cuens de Mascon,
+    li cuens de Foroys,
+    li cuens de Nevers,
+    Henris, li cuens de Bar le duc
+    Amaury, li cuens de Monfort &
+    autres plusors riches homes,
+    des quels li cuens de Bar...
+
+The author of the 1887 edition identifies him as Guy V - which should also be attributed to de la Mure's influence. Although one may be tempted to try to interpret this mistake as a sign that both Guy IV and Guy V might have been traveling together, this is not very likely, since Guy V could not have been referred as Count of Forez until the death of his father. As these two counts are the only ones that are not explicitly named, this is indicative of the author not really knowing their identities.
 
 Also, according to [#11], page 163, Guy of Forez point of departure for the crusade was Nevers and he was accompanied by the bishop of Nevers.
 
