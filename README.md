@@ -77,7 +77,7 @@ The construction of the church - major landmark of this town - starts in 1223 ([
 
 #### Third marriage in 1226
 
-His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. Princess Mahault is 38 years old and this marriage does not produce any children. It is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
+His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. Princess Mahault is 38 years old and this marriage produces one daughter. It is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
 
 According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy of Nevers (*try to find a more accurate, peer-reviewed reference for this fact than #11*).
 
@@ -161,7 +161,7 @@ According to Jean-Marie de la Mure, he leaves after the main crusader force had 
 
 He must be 18 to 20 years old at the time of his father death.
 
-After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. She had only a one daughter from her first marriage - Agnes of Donzy - who died at the age of 24. She passed her title to Mahault of Borbon-Dampierre - her great grand-daughter ([#11], page 205). **Thus, the title Count of Nevers left the Forez family and the only Forez to ever hold it was Guy IV, by right of his marriage with his third wife.**
+After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. She had a son, who died very young without marrying and a daughter from her first marriage - Agnes of Donzy - who died at the age of 24. She passed her title to Mahault of Borbon-Dampierre - her great grand-daughter ([#11], page 205). **Thus, the title Count of Nevers left the Forez family and the only Forez to ever hold it was Guy IV, by right of his marriage with his third wife.**
 
 #### Illness in Apulia according to de la Mure
 
