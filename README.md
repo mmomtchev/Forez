@@ -141,7 +141,7 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 #### Guy of Acre
 
-(*do not forget Guy of Acre adopted by either Guy IV or Guy V in the Holy Land*)
+De la Mure mentions the adoption of a certain Guy of Acre, a damoiseau or a squire. Born in the Holy Land he traveled back to France with him. He is mentioned on two separate occasions - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V (*!!find the references*). The will of Guy IV mentions a certain Guillaume, but it is not clear of this is the same one (!!*reference*). Some scholars have linked him to Alfonso of Brienne (*!!citations needed*).
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
@@ -156,10 +156,10 @@ The will contains indeed such a mention:
  [#14], page 1241, 10 août
 
 ...
- *To Renaud, my son, [to join] the clergy, a good emerald and the True Cross that the Master of the Temple militia gave me*
+ *To Renaud, my son, [to join] the clergy, a very good emerald and the True Cross that the Master of the Temple militia gave me*
 ...
 
-This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy. The passing of a relic of this magnitude is however much more interesting - especially since this is the only time that it is mentioned. The relic the Templars called the *True Cross* (its authenticiy is far beyond the scope of this paper) has been lost since the Battle of Hattin in 1187 and its whereabouts - or ultimate fate - are still unknown to this date (*more research, the True Cross has been extensively researched, this is very strange*).
+This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy. The passing of a relic of this magnitude is however much more interesting - especially since this is the only time that it is mentioned. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. Its authenticiy is far beyond the scope of this paper. Although there are recorded occasions of the Knights Templar gifting splinters to important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. While it is very likely that Guy of Forez was indeed carrying a relic received by the Knights Templar, the fact that this relic is absent from any later records casts doubts about its authenticiy as being a real splinter from the True Cross.
 
 #### Mention of Frederick II in his will
 
