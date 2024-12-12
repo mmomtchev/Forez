@@ -51,6 +51,8 @@ Three explanations for this confusion are possible:
 
 Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers and he never reached the Holy Land ([#8], page 66).
 
+Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained. 
+
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
 1196 or 1199 - 1240 or 1241
@@ -109,7 +111,7 @@ He is mentioned as "Guigues V, count of Forez and Nevers" traveling from Lyon to
 
 Another fact supporting this theory in [#10], which describes the feudal conflicts of 1229 in great detail - which pitted Guy IV against Thibault IV - Guy IV is sometimes referred as the Count of Nevers. Nevers played an important role in those conflicts - as the marriage of 1226 made that it was not considered anymore part of Champagne ([#10], page 252). The only Forez that was also count of Nevers is Guy IV.
 
-In [#2], page 118, there is also a list of the departing knights from Marseille that mentions "..., the count of Forez, the count of Nevers, ..." without a name and listing these as if they were two different persons. The author of the 1887 edition identifies him as Guy V - which should also be attributed to de la Mure's influence.
+In [#2], page 118, there is also a list of the departing knights from Marseille that mentions "..., the count of Forez, the count of Nevers, ..." without a name and listing these as if they were two different persons. The author of the 1887 edition identifies him as Guy V - which should also be attributed to de la Mure's influence. Although one may be tempted to try to interpret this mistake as a sign that both Guy IV and Guy V might have been traveling together, this is not very likely, since Guy V could not have been referred as Count of Forez until the death of his father.
 
 Also, according to [#11], page 163, Guy of Forez point of departure for the crusade was Nevers and he was accompanied by the bishop of Nevers.
 
@@ -203,7 +205,7 @@ There are factual documents - from "Trésor des Chartes du Roi" - which dispute 
 
 The fact that most crusader sources refer to Guy as a count of Forez and Nevers - or sometimes exclusively as count of Nevers - is particularly important as Guy V was never count of Nevers.
 
-Clearly, this version presents a very large number of conflicts and it is corroborated only by a single source - de la Mure - based on an year of death that is proven to be incorrect.
+De la Mure's work was written about 400 years after the events of the Barons Crusade. The main source of his work was the church and the administrative records - which are currently part of the French national archives and - certainly - orally transmitted tales. There were no written records about what happened in the East that were available to him. This can explain the fact that otherwise real events that happened during the Seventh Crusade are misattrbuted to the Barons Crusade.
 
 ### Guy IV (most modern sources' version)
 
