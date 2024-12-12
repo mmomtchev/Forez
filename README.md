@@ -139,6 +139,10 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 [#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which might be completely fictitious.
 
+#### Guy of Acre
+
+(*do not forget Guy of Acre adopted by either Guy IV or Guy V in the Holy Land*)
+
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
 [#13], page 204 contains a mention of Guy IV receiving a piece of the True Cross and then passing it to his son. The source cited is the 1241 will.
@@ -165,7 +169,7 @@ The will also contains a quite puzzling mention of Emperor Frederick II:
 
 *In the first place I bequeathed to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
 
-The emperor of the Holy Roman Empire was at this time in Sicily. He was a sworn enemy to the Pope Gregory IX who had him excommunicated on four different occasions. Crusader himself - but during a previous crusade - his relation with Guy IV of Forez is a mystery.
+The emperor of the Holy Roman Empire was at this time in Sicily. He was a sworn enemy to Pope Gregory IX who had him excommunicated on four different occasions. Crusader himself - but during a previous crusade - his relation with Guy IV of Forez is a mystery.
 
 #### Death
 
@@ -173,7 +177,11 @@ The currently accepted date for this will is August 12 1241. However the officia
 
 The original document from 1241 is not well preserved and some parts of it are missing. One can find a partial transcription in [#12], page 46 which indeed starts with:
 
-"In nomine sancte et in[*dividue Trinitiatis, e*]go Guido comes Nivernensis et Forensis" (*extrapolated part*). As Guy IV of Forez is the only Forez who is also count of Nevers, this is clearly his will. The will also mentions being written Apulia with the town of Castellaneta being extrapolated from the missing text by the authors of the 1867 edition. The will is written on cotton paper which was widely used in Naples during this period ([#12], page 47).
+> In nomine sancte et in[*dividue Trinitiatis, e*]go Guido comes Nivern[*ensis*] et Foren[*sis*]" 
+
+(*extrapolated parts*)
+
+As Guy IV of Forez is the only Forez who is also count of Nevers, this is clearly his will. The will also mentions being written Apulia with the town of Castellaneta being extrapolated from the missing text by the authors of the 1867 edition. The will is written on cotton paper which was widely used in Naples during this period ([#12], page 47).
 
 According to #11, page 167, it is Princess Mahault who organizes the transport of his coffin from Italy.
 
