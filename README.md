@@ -157,6 +157,16 @@ The will contains indeed such a mention:
 
 This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy. The passing of a relic of this magnitude is however much more interesting - especially since this is the only time that it is mentioned. The relic the Templars called the *True Cross* (its authenticiy is far beyond the scope of this paper) has been lost since the Battle of Hattin in 1187 and its whereabouts - or ultimate fate - are still unknown to this date (*more research, the True Cross has been extensively researched, this is very strange*).
 
+#### Mention of Frederick II in his will
+
+The will also contains a quite puzzling mention of Emperor Frederick II:
+
+> In primo legavi domino imperatori Alemannie unum diamantum quem multum diligebam et unum cinctorium argenti dearauti
+
+*In the first place I bequeathed to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
+
+The emperor of the Holy Roman Empire was at this time in Sicily. He was a sworn enemy to the Pope Gregory IX who had him excommunicated on four different occasions. Crusader himself - but during a previous crusade - his relation with Guy IV of Forez is a mystery.
+
 #### Death
 
 The currently accepted date for this will is August 12 1241. However the official mess marking his death is on October 29. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([#14], page 1241, 10 août).
