@@ -151,6 +151,10 @@ The will contains indeed such a mention:
 
  [#14], page 1241, 10 août
 
+...
+ *To Renaud, my son, [to join] the clergy, a good emerald and the True Cross that the Master of the Temple militia gave me*
+...
+
 This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy. The passing of a relic of this magnitude is however much more interesting - especially since this is the only time that it is mentioned. The relic the Templars called the *True Cross* (its authenticiy is far beyond the scope of this paper) has been lost since the Battle of Hattin in 1187 and its whereabouts - or ultimate fate - are still unknown to this date (*more research, the True Cross has been extensively researched, this is very strange*).
 
 #### Death
