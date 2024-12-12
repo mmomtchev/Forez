@@ -139,9 +139,23 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 [#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which might be completely fictitious.
 
+#### Recipient of a relic, piece of the True Cross from the Knights Templar
+
+[#13], page 204 contains a mention of Guy IV receiving a piece of the True Cross and then passing it to his son. The source cited is the 1241 will.
+
+The will contains indeed such a mention:
+
+> ...
+> Ranaldo filio meo, clerico, snaraldinum meliorem et veram crucem quam magister militie Templi dedit mihi.
+> ...
+
+ [#14], page 1241, 10 août
+
+This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy. The passing of a relic of this magnitude is however much more interesting - especially since this is the only time that it is mentioned. The relic the Templars called the *True Cross* (its authenticiy is far beyond the scope of this paper) has been lost since the Battle of Hattin in 1187 and its whereabouts - or ultimate fate - are still unknown to this date (*more research, the True Cross has been extensively researched, this is very strange*).
+
 #### Death
 
-The fact that Guy of Forez could write a will - the one from 1241 - the day or two days before his death, indicates that he indeed died from a long illness.
+The currently accepted date for this will is August 12 1241. However the official mess marking his death is on October 29. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([#14], page 1241, 10 août).
 
 The original document from 1241 is not well preserved and some parts of it are missing. One can find a partial transcription in [#12], page 46 which indeed starts with:
 
@@ -270,3 +284,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 11 Mahaut de Courtenay : 1188-1257 : comtesse de Nevers, Auxerre et Tonnerre / Hubert Verneret, 2002
 
 12 Titres de la maison ducale de Bourbon, Volume 1 / H. Plon, 1867-1874
+
+13 Templar families : landowning families and the Order of the Temple in France, c.1120-1307 / Jochen Schenk, 2012
+
+14 Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
