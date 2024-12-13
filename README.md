@@ -131,9 +131,11 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 [#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which might be completely fictitious.
 
+The departure of Thibault IV from Jaffa is dated September 1240 [Eracles, find it] - and this is the last mention of Guy IV in the Holy Land. It is also a further indication that the year of his death is 1241 and not 1240.
+
 #### Guy of Acre
 
-De la Mure mentions the adoption of a certain Guy of Acre, a damoiseau or a squire. Born in the Holy Land he traveled back to France with him. He is mentioned on two separate occasions - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([#4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume, but it is not clear of this is the same one (!!*reference*). De la Mure, in his account of the Barons Crsuade, that he misattrbuts to Guy V, mentions immediately after his return from the Holy Land, Guy of Forez grants a domain to Alfonso of Brienne ([#4], page 246). Some scholars presume that this might be Guy of Acre (!!*who?*).
+De la Mure mentions the adoption of a certain Guy of Acre, a damoiseau or a squire. Born in the Holy Land he traveled back to France with him. He is mentioned on two separate occasions - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([#4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume, but it is not clear of this is the same one (!!*reference*). De la Mure, in his account of the Barons Crsuade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([#4], page 246). Some scholars presume that this might be Guy of Acre (!!*who?*).
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
