@@ -159,7 +159,11 @@ The will contains indeed such a mention:
  *To Renaud, my son, [to join] the clergy, a very good emerald and the True Cross that the Master of the Temple militia gave me*
 ...
 
-This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy. The passing of a relic of this magnitude is however much more interesting - especially since this is the only time that it is mentioned. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. Its authenticiy is far beyond the scope of this paper. Although there are recorded occasions of the Knights Templar gifting splinters to important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. While it is very likely that Guy of Forez was indeed carrying a relic received by the Knights Templar, the fact that this relic is absent from any later records casts doubts about its authenticiy as being a real splinter from the True Cross.
+This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy.
+
+Analyzing the authenticity of the relic is beyond the scope of this article, but it is certainly debatable. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. Its authenticiy is far beyond the scope of this paper. Although there are recorded occasions of the Knights Templar gifting splinters to important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date.
+
+The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [#15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [#4] which we discount as being errenous.
 
 #### Mention of Frederick II in his will
 
@@ -310,3 +314,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 13 Templar families : landowning families and the Order of the Temple in France, c.1120-1307 / Jochen Schenk, 2012
 
 14 Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
+
+15 IM42002138, Inventaire Général du Patrimone Culturel, Région Rhône-Alpes
