@@ -161,13 +161,13 @@ The relic - and its current casing dating from the XIXth century is currently in
 
 #### Mention of Frederick II in his will
 
-The will also contains a mention of Emperor Frederick II who may have been Guy's host:
+The will also contains a mention of Emperor Frederick II. His inheritors being cited by rank, he is at the very top, before his sons. This is a sign that Frederick II may have been Guy's host and that he died while being a guest at his court:
 
 > In primo legavi domino imperatori Alemannie unum diamantum quem multum diligebam et unum cinctorium argenti dearauti
 
 *In the first place I bequeathed to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
 
-The emperor of the Holy Roman Empire was at this time in Sicily. He was a sworn enemy to Pope Gregory IX who had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth Crusade.
+The political context of this will is quite intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
 #### Death
 
