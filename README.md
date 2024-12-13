@@ -51,7 +51,11 @@ Three explanations for this confusion are possible:
 
 Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers and he never reached the Holy Land ([#8], page 66).
 
-Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained. 
+Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained.
+
+#### Supervising the construction of the Ascalon fortress
+
+(*might actually be Guy IV during the next crusade??*)
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -161,11 +165,13 @@ The relic - and its current casing dating from the XIXth century is currently in
 
 #### Mention of Frederick II in his will
 
-The will also contains a mention of Emperor Frederick II. His inheritors being cited by rank, he is at the very top, before his sons. This is a sign that Frederick II may have been Guy's host and that he died while being a guest at his court:
+The will also contains a mention of Emperor Frederick II. His inheritors being cited by rank, he is at the very top, before his sons:
 
 > In primo legavi domino imperatori Alemannie unum diamantum quem multum diligebam et unum cinctorium argenti dearauti
 
 *In the first place I bequeathed to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
+
+This is a sign that Frederick II may have been Guy's host and that he died while being a guest at his court. Frederick II had agreed, before the start of the crusade, to allow all crusaders to use his ports in southern Italy ([#1], page 159 traced back to [#16]). Still, it is probably not enough to explain Guy of Forez passing his favorite ring to him.
 
 The political context of this will is quite intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
@@ -238,7 +244,7 @@ Guy IV of Forez traveled in Thibault IV's group, but tensions between them led t
 
 ### The Diversion to Constantinople
 
-Both military campaigns were not very successful. The campaign to Constantinople crossed the Adriatic. Historic sources (citations?) record Tzar Ivan Asen II meeting the crusaders at the western border of Bulgaria. At this moment Ivan Asen II was allied to Ioan Vatatzes of Nicaea against the Latin Empire. His predecessor - Tzar Kaloyan had successfully defeated the crusaders 35 years earlier. It is still unclear how the crusaders and Tzar Ivan Asen II reached an agreement. Bulgarian sources (citation?) speculate that Tzar Ivan Asen II did not wish to fight fellow Christians en route to the Holy Land. Crusader sources (citation?) indicate that the crusaders definitely considered the option of meeting the combined Bulgarian and Greek armies on the battlefield - but quickly realized that they were hopelessly outnumbered. Finally, Tzar Ivan Asen II made one of the most significant contributions the Barons Crusade - a squadron of Cuman light cavalry for which the Bulgarians were famous - thus turning his back on the Greeks. It seems that the alliance between the Bulgarians and the Greeks against the Latin Empire was a very precarious one, since both sides coveted Constantinople. Although the subject is interesting, it is beyond the scope of the current paper.
+Both military campaigns were not very successful. A potential crusader himself, Frederick II decides to not join the crusade because of his ongoing conflict with Pope Gregory IX. He is initially very hostile and refuses safe passage to the crusaders ([#1], page 150). Finally, Louis IX of France secures permission for the crusade to pass and the main force leaves in July 1239 - at the same time as the one bound for the Holy Land. They cross Germany and Hungary and meet Tzar Ivan Asen II at the western border of Bulgaria ([#1], page 156). At this moment Ivan Asen II was allied to Ioan Vatatzes of Nicaea against the Latin Empire. His predecessor - Tzar Kaloyan had successfully defeated the crusaders 35 years earlier. It is still unclear how the crusaders and Tzar Ivan Asen II reached an agreement. Bulgarian sources (citation?) speculate that Tzar Ivan Asen II did not wish to fight fellow Christians en route to the Holy Land. Crusader sources (citation?) indicate that the crusaders definitely considered the option of meeting the combined Bulgarian and Greek armies on the battlefield - but quickly realized that they were hopelessly outnumbered. Finally, Tzar Ivan Asen II made one of the most significant contributions the Barons Crusade - a squadron of Cuman light cavalry for which the Bulgarians were famous - thus turning his back on the Greeks. It seems that the alliance between the Bulgarians and the Greeks against the Latin Empire was a very precarious one, since both sides coveted Constantinople. Although the subject is interesting, it is beyond the scope of the current paper.
 
 ## Identity of the knight who left on the Barons Crusade
 
@@ -313,3 +319,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 14 Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
 
 15 IM42002138, Inventaire Général du Patrimone Culturel, Région Rhône-Alpes
+
+16 Historia Diplomatica Frederici secundi, H. Plon / 1852-61
