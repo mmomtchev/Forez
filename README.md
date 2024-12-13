@@ -133,7 +133,7 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 #### Guy of Acre
 
-De la Mure mentions the adoption of a certain Guy of Acre, a damoiseau or a squire. Born in the Holy Land he traveled back to France with him. He is mentioned on two separate occasions - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V (*!!find the references*). The will of Guy IV mentions a certain Guillaume, but it is not clear of this is the same one (!!*reference*). Some scholars have linked him to Alfonso of Brienne (*!!citations needed*).
+De la Mure mentions the adoption of a certain Guy of Acre, a damoiseau or a squire. Born in the Holy Land he traveled back to France with him. He is mentioned on two separate occasions - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([#4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume, but it is not clear of this is the same one (!!*reference*). De la Mure, in his account of the Barons Crsuade, that he misattrbuts to Guy V, mentions immediately after his return from the Holy Land, Guy of Forez grants a domain to Alfonso of Brienne ([#4], page 246). Some scholars presume that this might be Guy of Acre (!!*who?*).
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
@@ -205,13 +205,16 @@ Most modern sources cite this illness as the cause of death of Guy IV and we als
 
 #### Seventh Crusade
 
-He returns to the Holy Land in 1248, joining the Seventh Crusade led by the French King Louis IX. He travels alone in 1250 and join Louis in Palestine, unable to depart with the main crusader force in 1248 ([#4], page 247-248).
-
-This is likely linked to the confusion about him taking part in the Barons Crusade.
+According to de la Mure, he leaves for the Seventh Crusade in 1248 led by the French King Louis IX, but has to turn back in Marseille at stays in France until at least 1249 when he departs again ([#4], page 247-248). This is likely linked to the confusion about him taking part in the Barons Crusade. Once again, in his 1675 manuscript, de la Mure cites facts deduced from years and dates found on documents in the archives. According to the authors of the 1860 edition, some of these dates might be mistakes and it is possible that Guy V left with the main force led by the King.
 
 #### Maimed
 
 He loses a leg during a battle in the Holy Land in 1250 and has to return to Europe ([#4], page 250).
+
+#### Marriage
+
+After returning from the crusade, he is married to Alix of Chaceney in 1250 but this marriage does not produce any children.
+
 
 #### Death
 
