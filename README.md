@@ -169,11 +169,11 @@ The will also contains a mention of Emperor Frederick II. His inheritors being c
 
 > In primo legavi domino imperatori Alemannie unum diamantum quem multum diligebam et unum cinctorium argenti dearauti
 
-*In the first place I bequeathed to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
+*In the first place I bequeath to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
 
 This is a sign that Frederick II may have been Guy's host and that he died while being a guest at his court. Frederick II had agreed, before the start of the crusade, to allow all crusaders to use his ports in southern Italy ([#1], page 159 traced back to [#16]). Still, it is probably not enough to explain Guy of Forez passing his favorite ring to him.
 
-The political context of this will is quite intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
+The political context of this will is quite intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
 #### Death
 
