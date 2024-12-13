@@ -59,7 +59,7 @@ Thus, the first explanation is accepted as the most probable one. *Les gestes de
 
 #### Early life
 
-Count Guy IV was still a young child when his father set on the Fourth Crusade. His regent and tutor was his uncle, Renaud of Forez, archbishop of Lyon and younger brother of his father Guy III. According to de la Mure, he tutored him from 1205 to 1212 ([4], pages 203-204). However, in additional documents uncovered for the 1860 edition of the chronicles, indicate that he may have become of full legal age as late as 1217. This is the only direct source attesting his birth year - which must be either 1196 or 1199 ([#4], pages 203-204)
+Count Guy IV was still a young child when his father set on the Fourth Crusade. His regent and tutor was his uncle, Renaud of Forez, archbishop of Lyon and younger brother of his father Guy III. According to de la Mure, he tutored him from 1205 to 1212 ([4], pages 203-204). However, in additional documents uncovered for the 1860 edition of the chronicles, indicate that he may have become of full legal age as late as 1217. This is the only direct source attesting his birth year - which must be either 1196 or 1199 ([#4], pages 203-204).
 
 It is his uncle who incited him to build the church Notre-Dame-d'Espérance in Montbrison and to make Montbrison the capital of the Forez county ([4], page 205).
 
@@ -83,7 +83,7 @@ According to [#11], page 141, Guy IV of Forez would sometimes sign acts as Guy o
 
 #### Personality
 
-The only account of the personality of Guy IV that has reached us comes from the King Louis himself ([#11], page 133 *try to find the original source*). It was the King who arranged the marriage between Guy IV and Princess Mahault - because he considered that his blunt and direct personality would make a perfect match for the strong-willed Mahault who had a reputation for being a difficult wife. Mahault, a remarkable woman and a very significant character of her era, was one of the very few women who had taken part in a crusade herself - she had been in the Holy Land as part of the Fifth Crusade. The blessing of the King was very important, since this marriage between two powerful nobles had significant implications for the power status-quo in France, creating a new very powerful count. This description of Guy IV's personality is consistent with that of a military commander and not a court player or politician.
+The only account of the personality of Guy IV that has reached us comes from the King Louis himself ([#11], page 133 *try to find the original source*). It was the King who arranged the marriage between Guy IV and Princess Mahault - because he considered that his blunt and direct personality would make a perfect match for the strong-willed Mahault who had a reputation for being a difficult wife. Mahault, a remarkable woman and a very significant character of her era, was one of the very few women who had taken part in a crusade herself - she had been in the Holy Land as part of the Fifth Crusade. The blessing of the King was very important, since this marriage between two powerful nobles had significant implications for the power status-quo in France, creating a new very powerful count. This description of Guy IV's personality is consistent with that of a military commander and not a court player or a diplomat.
 
 #### Feudal wars of 1229
 
@@ -103,7 +103,7 @@ All this means that Guy IV did depart on the Barons Crusade and died on its way 
 
 This theory is also confirmed by another independent source - the Eracles chronicles. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [#5]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
 
-It is very likely that de la Mure concluded himself that Guigues never left according to the erroneous year of death - 1239. He then proceeded to write an account, which currently seems to be completely fictitious, of his son, Guigues V, joining the crusade at a later date (see the detailed discussion below).
+It is very likely that de la Mure concluded himself that Guigues never left on the crusade according to the erroneous year of death - 1239. He must have proceeded to write an account, which currently seems to be completely fictitious, of his son, Guigues V, joining the crusade at a later date (see the detailed discussion below).
 
 #### Departing from France
 
@@ -113,15 +113,7 @@ Another fact supporting this theory in [#10], which describes the feudal conflic
 
 In [#2], page 118, there is also a list of the departing knights from Marseille that mentions "..., the count of Forez, the count of Nevers, ..." without a name and listing these as if they were two different persons:
 
-    ...que l'en clamoit Piere Mauclerc,
-    li cuens de Bretaigne,
-    Johans de Dreues, cuens de Mascon,
-    li cuens de Foroys,
-    li cuens de Nevers,
-    Henris, li cuens de Bar le duc
-    Amaury, li cuens de Monfort &
-    autres plusors riches homes,
-    des quels li cuens de Bar...
+> ...que l'en clamoit Piere Mauclerc, li cuens de Bretaigne, Johans de Dreues, cuens de Mascon, li cuens de Foroys, li cuens de Nevers, Henris, li cuens de Bar le duc, Amaury, li cuens de Monfort & autres plusors riches homes, des quels li cuens de Bar...
 
 The author of the 1887 edition identifies him as Guy V - which should also be attributed to de la Mure's influence. Although one may be tempted to try to interpret this mistake as a sign that both Guy IV and Guy V might have been traveling together, this is not very likely, since Guy V could not have been referred as Count of Forez until the death of his father. As these two counts are the only ones that are not explicitly named, this is indicative of the author not really knowing their identities.
 
@@ -131,7 +123,7 @@ Also, according to [#11], page 163, Guy of Forez point of departure for the crus
 
 In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([#3], page 127), [#9], page 481 which cites [#10], page 315-316 as source, leads back to Eracles.
 
-[#2], page 122 also includes an identical mention, naming him simply the Count of Nevers. (*what is the relation between the Rothelin manuscript and Gestes Chyprois? Same source?*).
+[#2], page 122 also includes an identical mention, naming him simply the Count of Nevers. (*what is the relation between the Rothelin manuscript and Gestes Chyprois? Is copying possible?*).
 
 All of these sources confirm the expected conflict between Guy of Forez and Thibault IV de Champagne. At this point of the campaign the command authority of Thibault IV must be significantly eroded and Guy of Forez is refusing to follow orders and the two cannot agree on a common defense plan. He and the Knights Templar sign a separate truce with the Saracens and stay in Jaffa, while Thibault IV de Champagne and the Knights Hospitaliers decide to leave and try to defend Acre. The fact that the Templars are siding with Guy of Forez is indicative of serious lack of command authority by Thibault IV.
 
