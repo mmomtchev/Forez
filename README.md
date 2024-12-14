@@ -177,6 +177,8 @@ Frederick II was a very controversial figure during his time. Europe's most powe
 
 The political context of this will is even more intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
+At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles in the East - the Rothelin manuscript and Gestes des Chyprois - and main primary sources for this paper - were firmly in the Papal camp. ([#1], page 161).
+
 #### Death
 
 The currently accepted date for this will is August 12 1241. However the official mess marking his death is on October 29. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([#14], page 1241, 10 août).
