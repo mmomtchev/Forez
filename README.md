@@ -42,16 +42,16 @@ Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 
 
 Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death ([#2], page 5). 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
 
-A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession of the Forez family following the 1226 marriage of his son, Guy IV.
+~~A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [#2], page 5 - a title he definitely did not hold as this title came in possession of the Forez family following the 1226 marriage of his son, Guy IV.~~
 
-Three explanations for this confusion are possible:
-* The confusion is due to Guy IV of Forez - who seem to be the most notable one - was also count of Nevers - and these chronicles were actually written after the fact
-* An earlier count of Nevers, William IV of Nevers, died of fever in Jerusalem in 1167 ([#8], page 66), the statement can be traced back to Chronicon Turonense
-* A later of count of Nevers, Eude (Odo) of Nevers, also died in Acre - in 1265 or 1266 ([#2], page 176)
+~~Three explanations for this confusion are possible:~~
+~~* The confusion is due to Guy IV of Forez - who seem to be the most notable one - was also count of Nevers - and these chronicles were actually written after the fact~~
+~~* An earlier count of Nevers, William IV of Nevers, died of fever in Jerusalem in 1167 ([#8], page 66), the statement can be traced back to Chronicon Turonense~~
+~~* A later of count of Nevers, Eude (Odo) of Nevers, also died in Acre - in 1265 or 1266 ([#2], page 176)~~
 
-Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers and he never reached the Holy Land ([#8], page 66).
+~~Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers and he never reached the Holy Land ([#8], page 66).~~
 
-Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained.
+~~Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained.~~
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
