@@ -234,9 +234,11 @@ He dies without issue in 1251 and he is succeeded by his brother, Renaud I of Fo
 
 The Barons Crusade is a relatively lesser known crusade that is considered to be a failure by most scholars. Militarily, it was very well prepared and consisted of a very sizeable and capable armed force. However because of various organizational problems, it failed to achieve any goals. It is studied very extensively by Lower in his 2005 book.
 
+The bulk of the crusader force was composed of French knights joined by some English knights.
+
 It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. Both armies shared the same funding and left about the same time. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1205. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
 
-Count Guy IV of Forez was probably the most influential count among the leaders of the crusade - and his army was second only to that of the princes themselves. Thus he can be considered to have been the 4th most senior leader of the Crusade.
+Count Guy IV of Forez was probably the most influential count among the leaders of the crusade - and his army was second only to that of the princes themselves. Thus he can be considered to have been the 4th most senior French leader of the Crusade - and maybe the 5th overall since there was only one significant English noble - Earl Richard of Cromwell.
 
 Tensions among the leaders of the Barons Crusade were very high. Many of the knights had been at war just a few years earlier - because of the failed attempt of Thibault IV to seize the throne of France from Louis. They quickly formed three factions, led by each of the princes and the three armies marched separately and never fought as a single unit [#1, page 51].
 
