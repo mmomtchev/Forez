@@ -53,13 +53,9 @@ Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers 
 
 Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained.
 
-#### Supervising the construction of the Ascalon fortress
-
-(*might actually be Guy IV during the next crusade??*)
-
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
-1196 or 1199 - 1240 or 1241
+1196 or 1199 - 1241
 
 #### Early life
 
@@ -135,7 +131,11 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 [#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which might be completely fictitious.
 
-The departure of Thibault IV from Jaffa is dated September 1240 [Eracles, find it] - and this is the last mention of Guy IV in the Holy Land. It is also a further indication that the year of his death is 1241 and not 1240.
+The departure of Thibault IV from Jaffa is dated September 1240 [Eracles, find it] - and Thibault is eager to return to Europe.
+
+#### Supervising the construction of the Ascalon fortress
+
+There are different conflicting accounts when it comes to the construction of the castle in Ascalon - some citing Guy of Forez ([#9], page 481), others - Richard of Cornwall ([#1], page 176). The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land, but the actual work was postponed until the very end - most of the French had already left on their way back when it started. According to Eracles ([#3], chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - except the fact that it must be after September 1240, since Thibault left before him. This is another confirmation that the year of his death must be 1241.
 
 #### Guy of Acre
 
@@ -159,7 +159,7 @@ The will contains indeed such a mention:
 
 This confirms his previous will of 1239, just before setting on the crusade, that Renaud, his younger son, is destined to join the clergy.
 
-Analyzing the authenticity of the relic is beyond the scope of this article, but it is certainly debatable. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. There are recorded occasions of the Knights Templar gifting splinters to very important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. On the other side, it is entirely possible that the Templars preserved a number of splinters before its loss and that they held Guy of Forez in very high esteem. As the item can be traced back at least to the Knights Templar in Jaffa - and possibly - to the relic carried during the Battle of Montgisard, its authenticiy is definitely far above the average for splinters of the True Cross found throughout Western Europe.
+The master of the Templars is certainly Armand of Périgord. Analyzing the authenticity of the relic is beyond the scope of this article, but it is certainly debatable. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. There are recorded occasions of the Knights Templar gifting splinters to very important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. On the other side, it is entirely possible that the Templars preserved a number of splinters before its loss and that they held Guy of Forez in very high esteem. As the item can be traced back at least to the Knights Templar in Jaffa - and possibly - to the relic carried during the Battle of Montgisard, its authenticiy is definitely far above the average for splinters of the True Cross found throughout Western Europe.
 
 The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [#15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [#4] which we discount as being errenous.
 
