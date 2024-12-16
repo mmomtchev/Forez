@@ -42,16 +42,11 @@ Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 
 
 Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death ([2], page 5). 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
 
-~~A very notable fact is that Guy III is referred as "Guillaume, Count of Nevers" in [2], page 5 - a title he definitely did not hold as this title came in possession of the Forez family following the 1226 marriage of his son, Guy IV.~~
+#### The Fourth Crusade
 
-~~Three explanations for this confusion are possible:~~
-~~* The confusion is due to Guy IV of Forez - who seem to be the most notable one - was also count of Nevers - and these chronicles were actually written after the fact~~
-~~* An earlier count of Nevers, William IV of Nevers, died of fever in Jerusalem in 1167 ([8], page 66), the statement can be traced back to Chronicon Turonense~~
-~~* A later of count of Nevers, Eude (Odo) of Nevers, also died in Acre - in 1265 or 1266 ([2], page 176)~~
+The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. Although it is the military campaign to Constantinople that usually receives most of the attention, the military campaign to the Holy Land is where the bulk of the crusader force went [17]. 
 
-~~Besides Guy IV of Forez and Nevers, there has been only one other Guy of Nevers and he never reached the Holy Land ([8], page 66).~~
-
-~~Thus, the first explanation is accepted as the most probable one. *Les gestes des Chiprois* is considered to have been written between 1314 and 1321 and is attributed Gérard of Montréal. As the most notable Forez knight was count of both Nevers and Forez, which were a single feudal domain during his time, the mistake can be explained.~~
+Parts of the army that went to the Holy Land left from Marseille and other parts went from Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group (!!find Villehaurdouin reference). They left from Marseille in July or August 1202 and reached Acre in about 15 days ([17]).
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -249,7 +244,7 @@ The Barons Crusade is a relatively lesser known crusade that is considered to be
 
 The bulk of the crusader force was composed of French knights joined by some English knights.
 
-It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. Both armies shared the same funding and left about the same time. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1205. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
+It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. Both armies shared the same funding and left about the same time. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1204. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
 
 Count Guy IV of Forez was probably the most influential count among the leaders of the crusade - and his army was second only to that of the princes themselves. Thus he can be considered to have been the 4th most senior French leader of the Crusade - and maybe the 5th overall since there was only one significant English noble - Earl Richard of Cornwall.
 
@@ -327,6 +322,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 [14] Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
 
+[15] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 1951 edition of the 1208-1212 manuscripts
+
 # Modern Sources
 
 [1]: The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005
@@ -346,3 +343,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [15] IM42002138, Inventaire Général du Patrimone Culturel, Région Rhône-Alpes
 
 [16] Historia Diplomatica Frederici secundi, H. Plon / 1852-61
+
+[17] The Fourth Crusade: The Neglected Majority, Speculum, Vol. 49, No. 3 (Jul., 1974), pp. 441-465 (25 pages)
