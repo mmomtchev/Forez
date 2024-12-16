@@ -143,7 +143,7 @@ According to the Rothelin manuscript ([#3], Rothelin, chapter 33, 1240), it was 
 
 Gestes des Chiprois ([#2], page 123) also attributes the work to Richard of Cornwall.
 
-It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it.
+It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants.
 
 In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left and that Thibault IV departed before October 8 1240.
 
