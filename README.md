@@ -267,7 +267,7 @@ Still, every other source is either influenced by him or states the contrary.
 
 There seems to be a particularly enduring confusion, starting with him, between Guy IV and Guy V.
 
-There are factual documents - from "Trésor des Chartes du Roi" - which dispute him claims of Guy IV dying right before the crusade. (*check if the originals can be examined*).
+There are factual documents - from "Trésor des Chartes du Roi" - which dispute him claims of Guy IV dying right before the crusade.
 
 The fact that most crusader sources refer to Guy as a count of Forez and Nevers - or sometimes exclusively as count of Nevers - is particularly important as Guy V was never count of Nevers.
 
@@ -293,7 +293,7 @@ The only one to have died from illness while traveling was Guy IV. Guy III died 
 
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
-Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was also there a political side to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia.
+Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
@@ -303,8 +303,7 @@ Although this paper fails to establish a definite link between the name of the v
 
 It also clarifies the existing confusion about the numbering scheme for Counts of Forez, by linking mentions in all primary sources to a well-identified member of the Forez family - or discounting them as fictitious with an eventual theory on how this mistake was made in the first place.
 
-# Sources
-1 The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005
+# Primary Sources
 
 2 Les gestes des Chiprois : recueil de chroniques françaises écrites en Orient aux XIIIe et XIVe siècles (Philippe de Navarre et Gérard de Monréal) / Gaston Raynaud, 1887 edition of the original manuscripts written from XIIIth to XVIth century
 
@@ -312,9 +311,17 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 4 Histoire des ducs de Bourgogne et les Comtes of Forez, Jean-Marie de la Mure, 1860 edition of the 1675 manuscript
 
-6 Who was the eponym of the village with the enigmatic name of Kondofrej in the valley of the Strymon? / Thomas Tomov 2014
-
 7 Histoire de l'empire de Constantinople sous les empereurs françois [Texte imprimé] / [par C. Du Fresne Du Cange] 1657
+
+12 Titres de la maison ducale de Bourbon, Volume 1 / H. Plon, 1867-1874
+
+14 Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
+
+# Modern Sources
+
+1 The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005
+
+6 Who was the eponym of the village with the enigmatic name of Kondofrej in the valley of the Strymon? / Thomas Tomov 2014
 
 8 The Crusading Counts of Nevers / Elizabeth Siberry, Nottingham Medieval Studies 1990 34:, 64-70
 
@@ -324,11 +331,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 11 Mahaut de Courtenay : 1188-1257 : comtesse de Nevers, Auxerre et Tonnerre / Hubert Verneret, 2002
 
-12 Titres de la maison ducale de Bourbon, Volume 1 / H. Plon, 1867-1874
-
 13 Templar families : landowning families and the Order of the Temple in France, c.1120-1307 / Jochen Schenk, 2012
-
-14 Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
 
 15 IM42002138, Inventaire Général du Patrimone Culturel, Région Rhône-Alpes
 
