@@ -121,7 +121,9 @@ Also, according to [11], page 163, Guy of Forez point of departure for the crusa
 
 #### In the Holy Land
 
-In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([3], page 127), [9], page 481 which cites [10], page 315-316 as source, leads back to Eracles.
+The first crusaders arrive in Acre on September 1 1239 ([2], page 118).
+
+In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([3], page 127), [9], page 481 which cites [10], page 315-316 as source, leads back to Eracles. This is the only direct mention in a primary source of Guy IV of Forez in the Holy Land.
 
 [2], page 122 also includes an identical mention, naming him simply the Count of Nevers. As these texts are known to have been written independently, this is a very good indication of a reliable information.
 
@@ -149,7 +151,7 @@ In all cases, there are no direct mentions of Guy of Forez as being present duri
 
 #### Guy of Acre
 
-De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land he traveled back to France with him. De la Mure mentions him - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume, but it is not clear of this is the same one (!!*reference*). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). The most likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. However this is based on circumstantial evidence - which is the similarity of the background of Alfonso of Brienne to Guy of Acre and the fact that no other person has been identified as Guy of Acre.
+De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land he traveled back to France with him. De la Mure mentions him - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume, but it is not clear if this is the same one (!!*reference*). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). The most likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. However this is based on circumstantial evidence - which is the similarity of the background of Alfonso of Brienne to Guy of Acre and the fact that no other person has been identified as Guy of Acre.
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
@@ -253,7 +255,7 @@ Count Guy IV of Forez was probably the most influential count among the leaders 
 
 Tensions among the leaders of the Barons Crusade were very high. Many of the knights had been at war just a few years earlier - because of the failed attempt of Thibault IV to seize the throne of France from Louis. They quickly formed three factions, led by each of the princes and the three armies marched separately and never fought as a single unit ([1], page 51).
 
-The army to the Holy Land assembled in Marseille - a fact mentioned both by Eracles and [7].
+The army to the Holy Land is assembled in Marseille - a fact mentioned both by Eracles and [7].
 
 Guy IV of Forez traveled in Thibault IV's group, but tensions between them led to further fragmentation of the crusader force once in the Holy Land. They used to be close allies, but because Guy of Forez's marriage in 1226 and Thibault's rebellion against the king, they fought a brief war in 1229.
 
@@ -297,15 +299,17 @@ The only one to have died from illness while traveling was Guy IV. Guy III died 
 
 ### Possible theories
 
+Clearly, Count Guy IV of Forez is the only Forez who can be linked to Kondofrey. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. However his most likely route does not pass through Bulgaria.
+
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
-Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
+Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
 # Conclusion
 
-Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it definitely establishes him as another very strong potential candidate.
+Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it definitely establishes Guy IV as another very strong potential candidate.
 
 It also clarifies the existing confusion about the numbering scheme for Counts of Forez, by linking mentions in all primary sources to a well-identified member of the Forez family - or discounting them as fictitious with an eventual theory on how this mistake was made in the first place.
 
