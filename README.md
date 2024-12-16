@@ -123,19 +123,25 @@ Also, according to [#11], page 163, Guy of Forez point of departure for the crus
 
 In book 33, chapter 44, Eracles mentions the count of **Nevers** as being in Jaffa with the Knights Templar in 1240 ([#3], page 127), [#9], page 481 which cites [#10], page 315-316 as source, leads back to Eracles.
 
-[#2], page 122 also includes an identical mention, naming him simply the Count of Nevers. (*what is the relation between the Rothelin manuscript and Gestes Chyprois? Is copying possible?*).
+[#2], page 122 also includes an identical mention, naming him simply the Count of Nevers. As these texts are known to have been written independently, this is a very good indication of a reliable information.
 
 All of these sources confirm the expected conflict between Guy of Forez and Thibault IV de Champagne. At this point of the campaign the command authority of Thibault IV must be significantly eroded and Guy of Forez is refusing to follow orders and the two cannot agree on a common defense plan. He and the Knights Templar sign a separate truce with the Saracens and stay in Jaffa, while Thibault IV de Champagne and the Knights Hospitaliers decide to leave and try to defend Acre. The fact that the Templars are siding with Guy of Forez is indicative of serious lack of command authority by Thibault IV.
 
 This can also be interpreted as another sign that this must be in fact the old Forez - Guy IV. It is difficult to imagine a 19-year old count successfully challenging the military command of a king. Thibault IV was selected as a military leader of the crusade because he was the only knight holding a king-level title ([#10], page 312) - being also king of Navarre. History remembers him as a great poet, but both his military campaigns ended in disaster. Still, challenging his leadership would have been possible only for a very experienced military commander.
 
-[#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which might be completely fictitious.
-
-The departure of Thibault IV from Jaffa is dated September 1240 [Eracles, find it] - and Thibault is eager to return to Europe.
+[#11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which seems to be a work of fiction and not mentioned in any examined primary sources.
 
 #### Supervising the construction of the Ascalon fortress
 
-There are different conflicting accounts when it comes to the construction of the castle in Ascalon - some citing Guy of Forez ([#9], page 481), others - Richard of Cornwall ([#1], page 176). The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land, but the actual work was postponed until the very end - most of the French had already left on their way back when it started. According to Eracles ([#3], chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - except the fact that it must be after September 1240, since Thibault left before him. This is another confirmation that the year of his death must be 1241.
+There are different conflicting accounts when it comes to the construction of the castle in Ascalon - some citing Guy of Forez ([#9], page 481), others - Richard of Cornwall ([#1], page 176).
+
+The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land ([#3], Rothelin, chapter 22, 1239), but the actual work was postponed until the very end - most of the French had already left on their way back when it started.
+
+According to Eracles ([#3], chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrival in the Holy Land is dated October 8 1240 with a mention that by this time Thibault IV had already left for Europe.
+
+According to the Rothelin manuscript ([#3], Rothelin, chapter 33, 1240), it was the French army who rebuilt the castle, with Richard of Cornwall arriving when the work was almost finished.
+
+Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left and that Thibault IV departed before October 8 1240.
 
 #### Guy of Acre
 
@@ -177,7 +183,7 @@ Frederick II was a very controversial figure during his time. Europe's most powe
 
 The political context of this will is even more intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
-At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles in the East - the Rothelin manuscript and Gestes des Chyprois - and main primary sources for this paper - were firmly in the Papal camp. ([#1], page 161).
+At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles written in the East - Eracles and Gestes des Chyprois - as well as the Rothelin manuscript - main primary sources for this paper - were firmly in the Papal camp. ([#1], page 161).
 
 #### Death
 
@@ -226,7 +232,6 @@ He loses a leg during a battle in the Holy Land in 1250 and has to return to Eur
 #### Marriage
 
 After returning from the crusade, he is married to Alix of Chaceney in 1250 but this marriage does not produce any children.
-
 
 #### Death
 
