@@ -10,11 +10,11 @@ To my great surprise, there were already two scientific papers by serious resear
 
 I went rapidly through his list - Friaize, Flandre, ... Forez. Forez! *Comte of Forez*! As a native speaker of Bulgarian who had lived for most of his adult life in France, the similarity of the pronunciation to the Bulgarian Kondofre was striking. In fact, a Bulgarian, unfamiliar with the French mute E sound, simply couldn't pronounce it better than this.
 
-Alas, given it was impossible to match him - part of the Fourth Crusade - or his son - part of the Barons Crusade - to the legend given their biographies.
+Alas, it was impossible to match him - part of the Fourth Crusade - or his son - part of the Barons Crusade - to the legend given their biographies.
 
 Still, unable to believe this similarity to be a simple coincidence, I started researching it and rapidly found a number of discrepancies in all modern sources. A second-level commander of a lesser known Crusade - the Barons Crusade - no researcher had ever studied him in detail. There was also confusion in most sources about the numbering scheme used.
 
-Trying to clarify it led to my first discovery - in fact, the Forez from the Fourth Crusade and the Barons Crusade were not father and son - but rather father, son and a great-son - three successive generations took part in those two Crusades, with the great-son taking part in two different crusades - the Barons Crusade and the Seventh Crusade. This was the actual source of confusion - and not a difference between the Anglo-Saxon and the French numbering style.
+Trying to clarify it led to my first discovery - that the biographies of Guy IV and Guy V were widely inconsistent and full of contradictions - a fact this paper traces back to de la Mure's work from 1675 - the only previous attempt to establish clear biographies for the Forez family. This confusion - of which most modern sources were aware - was previously attributes to using different numbering schemes - as Guigues IV was the fifth Count of Forez. Although this might have contributed, the origin of this confusion seems to be de la Mure's work. In order to avoid any further misidentification, this paper sticks to the French tradition to number according to the previous title holders having the same name.
 
 This paper has two main goals:
 
@@ -22,7 +22,7 @@ This paper has two main goals:
 
   Scarce primary data, at least three different numbering schemes and years of cross-citing have led to extreme confusion in all modern sources.
 
-  This paper uses Jean-Marie de la Mure work as a framework. As a priest with access to the church records in the very church the Forez family built during this period, he is likely to be the best source when it comes to their births, marriages and deaths. Then overlay all the Eastern primary sources onto this framework trying to match each record to a family member.
+  This paper uses Jean-Marie de la Mure work as a framework. As a priest with access to the church records in the very church the Forez family built during this period, he is likely to be the best source when it comes to their births, marriages and deaths. As when it comes to the crusades themselves, for which de la Mure did not have any written sources, his account tends to be very light and with a large number of significant mistakes. Proper crusader sources are overlaid onto his framework, trying to identify each individual Count of Forez.
 
 * Use this data to try to link one the crusading knights to the village of Kondodrey.
 
@@ -293,14 +293,15 @@ The only one to have died from illness while traveling was Guy IV. Guy III died 
 
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
+Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was also there a political side to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia.
+
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
 # Conclusion
 
 Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it definitely establishes him as another very strong potential candidate.
 
-It also clarifies the existing confusion about the numbering scheme for Counts of Forez - and for this there is very compelling evidence.
-
+It also clarifies the existing confusion about the numbering scheme for Counts of Forez, by linking mentions in all primary sources to a well-identified member of the Forez family - or discounting them as fictitious with an eventual theory on how this mistake was made in the first place.
 
 # Sources
 1 The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005
