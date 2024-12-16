@@ -135,13 +135,17 @@ This can also be interpreted as another sign that this must be in fact the old F
 
 There are different conflicting accounts when it comes to the construction of the castle in Ascalon - some citing Guy of Forez ([#9], page 481), others - Richard of Cornwall ([#1], page 176).
 
-The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land ([#3], Rothelin, chapter 22, 1239), but the actual work was postponed until the very end - most of the French had already left on their way back when it started.
+The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land ([#3], Rothelin, chapter 22, 1239 and chapter 31, 1239-1240), but the actual work was postponed until the very end - most of the French had already left on their way back when it started.
 
-According to Eracles ([#3], chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrival in the Holy Land is dated October 8 1240 with a mention that by this time Thibault IV had already left for Europe.
+According to Eracles ([#3], chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrival in the Holy Land is dated October 8 1240 with a mention that by this time, Thibault IV had already left for Europe.
 
-According to the Rothelin manuscript ([#3], Rothelin, chapter 33, 1240), it was the French army who rebuilt the castle, with Richard of Cornwall arriving when the work was almost finished.
+According to the Rothelin manuscript ([#3], Rothelin, chapter 33, 1240), it was the French army who started the work on the castle, with Richard of Cornwall arriving while the construction was still in progress.
 
-Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left and that Thibault IV departed before October 8 1240.
+Gestes des Chiprois ([#2], page 123) also attributes the work to Richard of Cornwall.
+
+It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it.
+
+In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left and that Thibault IV departed before October 8 1240.
 
 #### Guy of Acre
 
@@ -183,7 +187,7 @@ Frederick II was a very controversial figure during his time. Europe's most powe
 
 The political context of this will is even more intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
-At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles written in the East - Eracles and Gestes des Chyprois - as well as the Rothelin manuscript - main primary sources for this paper - were firmly in the Papal camp. ([#1], page 161).
+At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles written in the East - Eracles and Gestes des Chiprois - as well as the Rothelin manuscript - main primary sources for this paper - were firmly in the Papal camp. ([#1], page 161).
 
 #### Death
 
