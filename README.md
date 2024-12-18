@@ -330,7 +330,11 @@ Clearly, Count Guy IV of Forez is the only Forez who can be linked to Kondofrey.
 
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
-Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
+Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? Or Bulgaria?
+
+During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations?
+
+In theory, there can be as much as 18 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
