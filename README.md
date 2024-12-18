@@ -26,6 +26,18 @@ This paper has two main goals:
 
 * Use this data to try to link one the crusading knights to the village of Kondodrey.
 
+## Medieval travel times
+
+As throughout this paper, there will be a number of attempts to extrapolate deduce travel by occasional mentions of various figures at different locations, it should start with a note on medieval travel times. The subject has been extensively researched in [18]. It shall be noted that while sailing out of land's sight was theoretically possible, it was a very rare and expensive skill and might not have been available to everyone. The first historical record of a mechanical compass in Europe is from 1190 [19] in *De naturis rerum*. As the shortest route between Italy and the Holy Land requires extensive use of open sea navigation, it is very likely that most - if not all - crusaders did not take this route. It shall also be noted that sailing in the Mediterranean is with the prevailing winds when traveling East - towards the Holy Land - and against the prevailing winds when traveling West. Sailing against the prevailing winds can easily double the travel time. Realistic average sailing speed is estimated to be about 30 nautical miles per day against the wind and up to 60 nautical miles per day with favorable wind ([18], pages 492-500). The number of stops is usually the leading factor influencing this speed, and a large army is expected to be needing lots of stops in order to be frequently resupplied. There are recorded instances of speeds up to 100 nautical miles per day for messengers traveling day and night without stopping ([18], page 498).
+
+### Estimated travel times by sea
+
+Route | Direct route | Coastal route | Travel time
+--- | --- | --- | ---
+Marseille to Acre | 1500nm | 2000nm | 25 to 60 days
+Acre to Marseille | 1500nm | 2000nm | 40 to 100 days
+Acre to Constantinople | 850nm | 1000nm | 20 to 50 days
+
 ## The Crusading Family of Forez
 
 The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
@@ -345,3 +357,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [16] Historia Diplomatica Frederici secundi, H. Plon / 1852-61
 
 [17] The Fourth Crusade: The Neglected Majority, Speculum, Vol. 49, No. 3 (Jul., 1974), pp. 441-465 (25 pages)
+
+[18] Origins of the European economy : communications and commerce AD 300-900 / Michael McCormick
+
+[19] Mediterranean Contributions to the Medieval Mariner's Compass / Barbara M. Kreutz, Technology and Culture, Vol. 14, No. 3 (Jul., 1973), pp. 367-383
