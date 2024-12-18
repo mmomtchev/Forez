@@ -58,7 +58,7 @@ This is the first study of the Forez family since the chronicles of Jean-Marie d
 
 1152 - 1203
 
-Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 1202 and reached Acre in Palestine. He died of illness during a military campaign near Jerusalem and his remains were transported back to Acre. There is little doubt about the circumstances of his death and his place of burial is well known - in the church "The Knights of Saint-John of Jerusalem".
+Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 1202 and reached Acre in Palestine. He died of illness during a military campaign near Jerusalem and his remains were transported back to Acre. There is little doubt about the circumstances of his death and his place of burial is well known - in the church of Hospitaller commandery of Saint-Jean-d'Acre.
 
 Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death ([2], page 5). 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
 
@@ -154,7 +154,7 @@ There are different conflicting accounts when it comes to the construction of th
 
 The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land ([3], Rothelin, chapter 22, 1239 and chapter 31, 1239-1240), but the actual work was postponed until the very end - most of the French had already left on their way back when it started.
 
-According to Eracles ([3], chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrival in the Holy Land is dated October 8 1240 with a mention that by this time, Thibault IV had already left for Europe.
+According to Eracles ([3], Eracles, chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrival in the Holy Land is dated October 8 1240 with a mention that by this time, Thibault IV had already left for Europe.
 
 According to the Rothelin manuscript ([3], Rothelin, chapter 33, 1240), it was the French army who started the work on the castle, with Richard of Cornwall arriving while the construction was still in progress.
 
@@ -162,7 +162,9 @@ Gestes des Chiprois ([2], page 123) also attributes the work to Richard of Cornw
 
 It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants.
 
-In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left and that Thibault IV departed before October 8 1240.
+In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left, that Thibault IV departed in 1240 but before October 8 1240 and that at least some French knights were still present in October 8 1240.
+
+The last crusaders to leave from Ascalon - and the Holy Land - were Duke Hugues IV of Burgundy and Earl Richard of Cornwall - and this happened May 3 1241 ([3], Rothelin, chapter 36, 1240).
 
 #### Guy of Acre
 
@@ -204,7 +206,7 @@ This is a sign that Frederick II may have been Guy's host and that he died while
 
 Frederick II was a very controversial figure during his time. Europe's most powerful monarch, he was an unruly and eccentric souverain to his very rare friends, a dangerous heretic to his enemies and a visionary far ahead of his time to modern scholars. Despite him offering free use of his ports to the crusaders, both the French ([1], page 162) and the English ([1], page 148) avoided dealing with him. The Knights Templar completely refused to cooperate with him during his own crusades because of his excommuncation and military conflict with the Pope. Thus any potential relation between Guy of Forez and him is definitely worth noting.
 
-The political context of this will is even more intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
+The political context of this will is even more intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. The Holy Roman Emperor is excommuncated and starts his military campaign against the Pope around the same time the crusaders start to leave on their way back to Europe. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
 At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles written in the East - Eracles and Gestes des Chiprois - as well as the Rothelin manuscript - main primary sources for this paper - were firmly in the Papal camp. ([1], page 161).
 
@@ -322,7 +324,7 @@ Clearly, Count Guy IV of Forez is the only Forez who can be linked to Kondofrey.
 
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
-Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
+Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? In theory, there can be as much as 18 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
