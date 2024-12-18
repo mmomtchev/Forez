@@ -226,6 +226,10 @@ As Guy IV of Forez is the only Forez who is also count of Nevers, this is clearl
 
 According to [11], page 167, it is Princess Mahault who organizes the transport of his coffin from Italy, but this is probably a work of fiction.
 
+#### Return route of Earl Richard of Cornwall
+
+Chronica Majora never mentions Count Guy of Forez - being focused mostly on English history - but contains a detailed account of the return trip of Earl Richard of Cornwall who, on his way back from the crusade, landed in Trapani and was received as an important guest of Frederick II who organized a celebration in his honor. It also mentions Earl Richard traveling to Rome in order to negotiate a truce with the Pope - a treaty which failed to materialize ([21], page 370). This is a very good indication that returning crusaders might have played a role in negotiations for Frederick II was ostracized by the rest of the Christian world. Chronia Majora is the only pro-Emperor primary source.
+
 ### Guigues V, Count of Forez
 
 1220-1222 - 1259
