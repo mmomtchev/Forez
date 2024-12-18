@@ -110,9 +110,9 @@ He takes part in the organization of the Barons Crusade and it is eager to follo
 
 #### Death according to de la Mure
 
-According to Jean-Marie de la Mure, he dies on August 12 1239. In his chronicles from 1675, de la Mure asserts that Guy IV never had the chance to depart on the Crusade, as he died shortly before its departure. On the other side, in the 1860 revised edition of his manuscript, this most likely wrong statement is attributed to an administrative act - the execution of his will - dated May 8 1240.
+According to Jean-Marie de la Mure, he dies on August 10 1239. In his chronicles from 1675, de la Mure asserts that Guy IV never had the chance to depart on the Crusade, as he died shortly before its departure. On the other side, in the 1860 revised edition of his manuscript, this most likely wrong statement is attributed to an administrative act - the execution of his will - dated May 8 1240.
 
-The presence of another will, dated August 12 1241 - the same date, but two years later - suggests that his is simply an error. August 12 1241 is also the date inscribed on his tomb in the Montbrison church. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that Guy IV was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
+The presence of another will, dated August 10 1241 - the same date, but two years later - suggests that his is simply an error. August 10 1241 is also the date inscribed on his tomb in the Montbrison church. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that Guy IV was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
 
 All this means that Guy IV did depart on the Barons Crusade and died on its way back.
 
@@ -166,7 +166,7 @@ In all cases, there are no direct mentions of Guy of Forez as being present duri
 
 #### Guy of Acre
 
-De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land he traveled back to France with him. De la Mure mentions him - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume, but it is not clear if this is the same one (!!*reference*). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). The most likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. However this is based on circumstantial evidence - which is the similarity of the background of Alfonso of Brienne to Guy of Acre and the fact that no other person has been identified as Guy of Acre.
+De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land, he traveled back to France with him. De la Mure mentions him - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume of Brienne, who existed but died in 1200 ([14], page 1241 10 août). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). The most likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. However this is based on circumstantial evidence - which is the similarity of the background of Alfonso of Brienne to Guy of Acre and the fact that no other person has been identified as Guy of Acre. There are no mentions of Guy of Acre in the currently preserved part of the will - however this document was complete and well preserved at the time of de la Mure's writing.
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
@@ -196,7 +196,9 @@ The will also contains a mention of Emperor Frederick II. His inheritors being c
 
 > In primo legavi domino imperatori Alemannie unum diamantum quem multum diligebam et unum cinctorium argenti dearauti
 
-*In the first place I bequeath to the Emperor of Germany one diamond, which I loved very much, on a silver ring of gold*
+*In the first place I bequeath to the Emperor of Germany one diamond, which I loved very much, on a ring of silver and gold\**
+
+*\*the exact nature of this jewel is debatable*
 
 This is a sign that Frederick II may have been Guy's host and that he died while being a guest at his court. Frederick II had agreed, before the start of the crusade, to allow all crusaders to use his ports in southern Italy ([1], page 159 traced back to [16]). Still, it is probably not enough to explain Guy of Forez passing his favorite ring to him.
 
@@ -208,13 +210,15 @@ At the moment of the Barons Crusade, Frederick II was also the main claimant of 
 
 #### Death
 
-The currently accepted date for this will is August 12 1241. However the official mess marking his death is on October 29. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([14], page 1241, 10 août).
+The beginning of his will reads:
 
-The original document from 1241 is not well preserved and some parts of it are missing. One can find a partial transcription in [12], page 46 which indeed starts with:
+> In nomine sancte et individue trinitiatis, ego Guido comes nivern[*ensis*] et foren[*sis*], in bona et sana memoria mea, feci legatum meum anno Domini [*millesimo*] CCXL, primo, mense au augusti in festo beati Laurentii, in civitate que dicitur Castella[*ne*]tum, in terra Apulie, quando iacebam in lecto egritudinis, presentibus fratre Guillelmo de Vichiaco capellano meo, et fratre Guilleilmo de Divion[*e*], socio ejusdem, ordinis Fratrum minorum, Stephano, clerico meo, domino Hugone de Cicun[*e*], milite, Bernando, came ratio meo, Renaldo Pantin[*o*], magistro serviente meo.
 
-> In nomine sancte et in[*dividue Trinitiatis, e*]go Guido comes Nivern[*ensis*] et Foren[*sis*]" 
+*In the name of the holy and individual Trinity, I, Guido, count of Nevers and Forez, in my good and sound memory, made my will in the year of our Lord one thousand two hundred and forty one, in the month of August on the feast of Saint Lawrence (August 10), in the city called Castellanetum, in the land of Apulia, when I lay on my dying bed, in the presence of Father Guillaume of Vichy, my chaplain, and Father Guillaume of Dijon, his companion, of the order of Friars Minor (the Franciscans), Stephan, my priest, Lord Hugues of Cicune, knight, Bernard, my comrade, Renaldo Pantino, my master servant.*
 
-(*extrapolated parts*)
+The will is dated August 10 1241. The official date of his death, as it appears on the sarcophagus in the church of Monbtrison, is October 29 1241. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([14], page 1241, 10 août).
+
+The original document from 1241 is not well preserved and some parts of it are missing. One can find a partial transcription in [12], page 46 and [14], page 1241, 10 août. The extrapolated parts are marked with *[]*.
 
 As Guy IV of Forez is the only Forez who is also count of Nevers, this is clearly his will. The will also mentions being written Apulia with the town of Castellaneta being extrapolated from the missing text by the authors of the 1867 edition. The will is written on cotton paper which was widely used in Naples during this period ([12], page 47).
 
