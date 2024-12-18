@@ -252,7 +252,7 @@ Most modern sources cite this illness as the cause of death of Guy IV and we als
 
 According to de la Mure, he leaves for the Seventh Crusade in 1248 led by the French King Louis IX, but has to turn back in Marseille at stays in France until at least 1249 when he departs again ([4], page 247-248). This is likely linked to the confusion about him taking part in the Barons Crusade. Once again, in his 1675 manuscript, de la Mure cites facts deduced from years and dates found on documents in the archives. According to the authors of the 1860 edition, some of these dates might be mistakes and it is possible that Guy V left with the main force led by the King.
 
-What is also interesting is that a similar event is described by Matthew Paris in his Chronica Majora (*!!find a reference to the original*) - but during the Barons' Crusade. The crusaders assemble in Lyon, and then a papal messenger urges them go back until they are summoned again for the crusade - some choose to do so, while others refuse. No pro-papal sources mention this incident. It is not clear if this is the source for de la Mure's confusion.
+What is also interesting is that a similar event is described by Matthew Paris in his Chronica Majora ([21], page 242) - but during the Barons' Crusade. The crusaders assemble in Lyon, and then a papal messenger urges them go back until they are summoned again for the crusade - some choose to do so, while others refuse. No pro-papal sources mention this incident. It is not clear if this is the source for de la Mure's confusion.
 
 #### Maimed
 
@@ -351,6 +351,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [14] Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
 
 [15] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 1951 edition of the 1208-1212 manuscripts
+
+[21] English History / Matthew Paris, 1852 translation of the 1251 manuscript
 
 # Modern Sources
 
