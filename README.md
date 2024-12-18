@@ -208,7 +208,7 @@ Frederick II was a very controversial figure during his time. Europe's most powe
 
 The political context of this will is even more intruguing: at this very moment he is at war with Pope Gregory IX and his army is besieging Rome. The Holy Roman Emperor is excommuncated and starts his military campaign against the Pope around the same time the crusaders start to leave on their way back to Europe. Pope Gregory IX, the driving force of the Barons Crusade - and Guy of Forez financier, is Frederick's worst enemy. He had him excommunicated on four different occasions despite the fact that he had been a crusader himself - during the Fifth and the Sixth Crusades. He even declares him *Preambulus Antichristi* - predecessor of the Antichrist. Pope Gregory dies just two weeks later, on August 22 1241 and Frederick II lifts the siege and returns to Sicily. If Guy of Forez and Frederick II ever met personally, this must have happened at least some time before the will was written - or Guy must have accompanied Frederick II on his military campaign against the Pope - both of which seem difficult to explain.
 
-At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. The only two surviving chronicles written in the East - Eracles and Gestes des Chiprois - as well as the Rothelin manuscript - main primary sources for this paper - were firmly in the Papal camp. ([1], page 161).
+At the moment of the Barons Crusade, Frederick II was also the main claimant of the title King of Jerusalem - but was not present there. As he was excommunicated just a few months prior to the start of the crusade, this caused much controversy and division throughout the Catholic world. From the primary sources cited in this article - Eracles and Gestes des Chiprois - as well as the Rothelin manuscript - are firmly in the Papal camp ([1], page 161), while Chronica Majora by Matthew Paris sides with the Emperor.
 
 #### Death
 
@@ -251,6 +251,8 @@ Most modern sources cite this illness as the cause of death of Guy IV and we als
 #### Seventh Crusade
 
 According to de la Mure, he leaves for the Seventh Crusade in 1248 led by the French King Louis IX, but has to turn back in Marseille at stays in France until at least 1249 when he departs again ([4], page 247-248). This is likely linked to the confusion about him taking part in the Barons Crusade. Once again, in his 1675 manuscript, de la Mure cites facts deduced from years and dates found on documents in the archives. According to the authors of the 1860 edition, some of these dates might be mistakes and it is possible that Guy V left with the main force led by the King.
+
+What is also interesting is that a similar event is described by Matthew Paris in his Chronica Majora (*!!find a reference to the original*) - but during the Barons' Crusade. The crusaders assemble in Lyon, and then a papal messenger urges them go back until they are summoned again for the crusade - some choose to do so, while others refuse. No pro-papal sources mention this incident. It is not clear if this is the source for de la Mure's confusion.
 
 #### Maimed
 
