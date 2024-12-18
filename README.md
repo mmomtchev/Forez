@@ -214,7 +214,7 @@ The beginning of his will reads:
 
 > In nomine sancte et individue trinitiatis, ego Guido comes nivern[*ensis*] et foren[*sis*], in bona et sana memoria mea, feci legatum meum anno Domini [*millesimo*] CCXL, primo, mense au augusti in festo beati Laurentii, in civitate que dicitur Castella[*ne*]tum, in terra Apulie, quando iacebam in lecto egritudinis, presentibus fratre Guillelmo de Vichiaco capellano meo, et fratre Guilleilmo de Divion[*e*], socio ejusdem, ordinis Fratrum minorum, Stephano, clerico meo, domino Hugone de Cicun[*e*], milite, Bernando, came ratio meo, Renaldo Pantin[*o*], magistro serviente meo.
 
-*In the name of the holy and individual Trinity, I, Guido, count of Nevers and Forez, in my good and sound memory, made my will in the year of our Lord one thousand two hundred and forty one, in the month of August on the feast of Saint Lawrence (August 10), in the city called Castellanetum, in the land of Apulia, when I lay on my dying bed, in the presence of Father Guillaume of Vichy, my chaplain, and Father Guillaume of Dijon, his companion, of the order of Friars Minor (the Franciscans), Stephan, my priest, Lord Hugues of Cicune, knight, Bernard, my comrade, Renaldo Pantino, my master servant.*
+*In the name of the holy and individual Trinity, I, Guido, count of Nevers and Forez, in my good and sound memory, made my will in the year of our Lord one thousand two hundred and forty one, in the month of August on the feast of Saint Lawrence (August 10), in the city called Castellanetum, in the land of Apulia, when I lay on my dying bed, in the presence of Father Guillaume of Vichy, my chaplain, and Father Guillaume of Dijon, his companion, of the order of Friars Minor (the Franciscans), Stephan, my clerk, Lord Hugues of Cicune, knight, Bernard, my comrade, Renaldo Pantino, my master servant.*
 
 The will is dated August 10 1241. The official date of his death, as it appears on the sarcophagus in the church of Monbtrison, is October 29 1241. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([14], page 1241, 10 août).
 
@@ -222,7 +222,7 @@ The original document from 1241 is not well preserved and some parts of it are m
 
 As Guy IV of Forez is the only Forez who is also count of Nevers, this is clearly his will. The will also mentions being written Apulia with the town of Castellaneta being extrapolated from the missing text by the authors of the 1867 edition. The will is written on cotton paper which was widely used in Naples during this period ([12], page 47).
 
-According to 11, page 167, it is Princess Mahault who organizes the transport of his coffin from Italy.
+According to [11], page 167, it is Princess Mahault who organizes the transport of his coffin from Italy, but this is probably a work of fiction.
 
 ### Guigues V, Count of Forez
 
