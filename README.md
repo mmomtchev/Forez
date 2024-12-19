@@ -54,23 +54,33 @@ In this paper, we will focus on the three (and not two) most famous knights, and
 
 This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him - especially the the *Rothelin continuation of the History of William of Tyre* written at the end of the 13th century in the Holy Lands - which were not brought back to Europe until much later.
 
-### Count Guigues (Guy) III of Forez
+### Count Guigues (Guy) III of Forez and Lyon
 
 1152 - 1203
 
-Count Guy III of Forez was one of the leaders of the Fourth Crusade. He left in 1202 and reached Acre in Palestine. He died of illness during a military campaign near Jerusalem and his remains were transported back to Acre. There is little doubt about the circumstances of his death and his place of burial is well known - in the church of Hospitaller commandery of Saint-Jean-d'Acre.
+Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance.
 
-Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son. However most crusader sources cite 1203 or 1204 as the year of his death ([2], page 5). 1203 would be the most probable year, given the military campaigns during the Fourth Crusade and the outbreak of plague that followed.
+#### Marriage to Alix (Alice) of Suilly
+
+Guy III married Alix of Suilly. The exact year of this marriage is not clear ([4], page 183). This marriage produces a son, Guy, the future Guy IV of Forez, and three daughters - Marquise of Forez, Guigone of Forez and Eléonor of Forez.
 
 #### The Fourth Crusade
 
-The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. The campaign to Constantinople is by far the more famous. The split ratio between the two forces is still a matter of debate [17].
+Count Guy III of Forez was one of the leaders of the Fourth Crusade. The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. The campaign to Constantinople is by far the more famous. The split ratio between the two forces is still a matter of debate [17].
 
 The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented but his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign. Villehardouin was the only leader who escaped from the crushing defeat by the Bulgarian Tzar Kaloyan at Adrianople in 1205 which ended the crusade.
 
-Count Guy III of Forez was one of the main participants of the organizational meeting between the French knights at the Cîteaux Abbey 
+Count Guy III of Forez was one of the main participants of the organizational meeting between the French knights at the Cîteaux Abbey in September 1200 or 1201 ([22], verse 45).
 
-Parts of the army that went to the Holy Land left from Marseille and other parts went from Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision which drew Villehardouin's ire. They left from Marseille in July or August 1202 ([17]).
+Parts of the army that went to the Holy Land left from Marseille while the bulk of the crusader force assembled in Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision which drew Villehardouin's ire. They left from Marseille in July or August 1202 ([17]) and reached Acre.
+
+#### Death
+
+He died of illness during a military campaign near Jerusalem and his remains were transported back to Acre. There is little doubt about the circumstances of his death and his place of burial is well known - in the church of Hospitaller commandery of Saint-Jean-d'Acre.
+
+Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son.
+
+He is not mentioned at all in Eracles or the Rothelin manuscript which is consistent with him dying shortly after his arrival.
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
