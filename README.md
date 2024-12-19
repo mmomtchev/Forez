@@ -50,6 +50,8 @@ The Barons' Crusade itself contains a very precise record of army travel times b
 
 The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
 
+Two successive houses held the County of Forez - a first one 
+
 In this paper, we will focus on the three (and not two) most famous knights, and we will try to settle a number of problems and cases of mistaken identity between them. Traditionally these have been attributes to problems with the numbering scheme, but it seems that most of the confusion is due to the change of command during the Barons Crusade - a fact that it not mentioned in any modern sources - including the very exhaustive *The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005 [1]*.
 
 This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him - especially the the *Rothelin continuation of the History of William of Tyre* written at the end of the 13th century in the Holy Lands - which were not brought back to Europe until much later.
@@ -59,6 +61,10 @@ This is the first study of the Forez family since the chronicles of Jean-Marie d
 1152 - 1203
 
 Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance.
+
+#### Nicknamed Brenda
+
+[23] mentions a nickname Brenda ([23], page 1603). The information in [23] seems to be full of errors and mistaken identities between Guy III, Guy IV and Guy V. The line for Guy III has Guy IV's birthyear and Guy III's wife and children. This source is discounted as inaccurate. The nickname Brenda does not appear anywhere else.
 
 #### Marriage to Alix (Alice) of Suilly
 
@@ -417,3 +423,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [19] Mediterranean Contributions to the Medieval Mariner's Compass / Barbara M. Kreutz, Technology and Culture, Vol. 14, No. 3 (Jul., 1973), pp. 367-383
 
 [20] Scurvy Past and Present / Alfred Hess, 2016
+
+[23] Trésor de chronologie, d'histoire et de géographie pour l'étude et l'emploi des documents du moyen-âge / Louis de Mas Latrie, 1889
