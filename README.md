@@ -64,9 +64,11 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 #### The Fourth Crusade
 
-The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. Although it is the military campaign to Constantinople that usually receives most of the attention, the military campaign to the Holy Land is where the bulk of the crusader force went [17]. 
+The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. Although it is the military campaign to Constantinople that usually receives most of the attention, the military campaign to the Holy Land is where the bulk of the crusader force went [17].
 
-Parts of the army that went to the Holy Land left from Marseille and other parts went from Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group (!!find Villehaurdouin reference). They left from Marseille in July or August 1202 and reached Acre in about 15 days ([17]).
+The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented however his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign.
+
+Parts of the army that went to the Holy Land left from Marseille and other parts went from Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision for which he is damned by Villehardouin. They left from Marseille in July or August 1202 and reached Acre in about 15 days ([17]).
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -368,9 +370,9 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 [14] Chartes du Forez antérieures au XIVe siècle. XV, Les Dîmes en Forez, Volume XI / le comte Guy de Courtin de Neufbourg et Marguerite Gonon, 1957
 
-[15] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 1951 edition of the 1208-1212 manuscripts
-
 [21] English History / Matthew Paris, 1852 translation of the 1251 manuscript
+
+[22] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 2004 translation of the 1208-1212 manuscripts
 
 # Modern Sources
 
