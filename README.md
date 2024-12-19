@@ -64,11 +64,13 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 #### The Fourth Crusade
 
-The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. Although it is the military campaign to Constantinople that usually receives most of the attention, the military campaign to the Holy Land is where the bulk of the crusader force went [17].
+The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. The campaign to Constantinople is by far the more famous. The split ratio between the two forces is still a matter of debate [17].
 
-The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented however his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign.
+The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented but his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign. Villehardouin was the only leader who escaped from the crushing defeat by the Bulgarian Tzar Kaloyan at Adrianople in 1205 which ended the crusade.
 
-Parts of the army that went to the Holy Land left from Marseille and other parts went from Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision for which he is damned by Villehardouin. They left from Marseille in July or August 1202 and reached Acre in about 15 days ([17]).
+Count Guy III of Forez was one of the main participants of the organizational meeting between the French knights at the Cîteaux Abbey 
+
+Parts of the army that went to the Holy Land left from Marseille and other parts went from Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision which drew Villehardouin's ire. They left from Marseille in July or August 1202 ([17]).
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -79,6 +81,10 @@ Parts of the army that went to the Holy Land left from Marseille and other parts
 Count Guy IV was still a young child when his father set on the Fourth Crusade. His regent and tutor was his uncle, Renaud of Forez, archbishop of Lyon and younger brother of his father Guy III. According to de la Mure, he tutored him from 1205 to 1212 ([4], pages 203-204). However, in additional documents uncovered for the 1860 edition of the chronicles, indicate that he may have become of full legal age as late as 1217. This is the only direct source attesting his birth year - which must be either 1196 or 1199 ([4], pages 203-204).
 
 It is his uncle who incited him to build the church Notre-Dame-d'Espérance in Montbrison and to make Montbrison the capital of the Forez county ([4], page 205).
+
+#### General in the King's Army in 1214
+
+De la Mure mentions that Count Guy IV of Forez was entrusted with leading an army unit by King Philippe II Auguste during his conflict with Count Ferrand of Flanders - culminating with the famous battle of Bouvines in 1214. Guy IV must have been no more than 20 years old at this time. De la Mure cites 1215 as the year, but the battle of Bouvines was in 1214 ([4], page 206). This account cannot be verified from other sources.
 
 #### First marriage in 1216
 
