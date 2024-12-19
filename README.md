@@ -1,5 +1,7 @@
 # Knights Bearers of the Cross of Forez: Lineage, Crusades and a little known village in Bulgaria
 
+### *Clearing a centuries-old confusion between Guy III, Guy IV and Guy V of Forez and speculating on a possible link to the village of Kondofrey in Bulgaria*
+
 ## Preface
 
 "*Kondofrey* (*Кондофрей*)"! What a weird name! I still remember passing through this village when I was a kid, each time we paid a visit to my great grandmother in the next village. If you don't speak Bulgarian, it might not be that obvious, but to a native speaker, there can't be any doubt about the foreign nature of the name. Then, much later in life, when I was already speaking French, my mother, who was also fluent, told me that there was a local legend about a crusader knight, named Count of Frey - *Comte de Frey* - who was the actual founder of the village.
@@ -50,7 +52,7 @@ The Barons' Crusade itself contains a very precise record of army travel times b
 
 The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
 
-Two successive houses held the County of Forez - a first one, descending from Lyon - which held it until 1107 - and a second one - descending from Grenoble and Grésivaudan.
+Two successive houses held the County of Forez - a first one, the house of Forez from Lyon - which held it until 1107 - and a second one - the house of Ablon from Grenoble and Grésivaudan.
 
 In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675.
 
@@ -58,9 +60,13 @@ Also, it is worth noting that another source of confusion stems from the fact th
 
 This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him - especially the the *Rothelin continuation of the History of William of Tyre* written at the end of the 13th century in the Holy Lands - which were not brought back to Europe until much later.
 
-### Count Willelme of Lyon and Forez, nicknamed Willelme the Old
+### Count Willelme (Gillin / Vuidelin) of Lyon and Forez, nicknamed Willelme the Old
 
-Willelme was one of the leaders of the First Crusade of Godfrey of Bouillon. He is not directly related to the other Forez knights who were from the second Forez house.
+De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person.
+
+He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is not directly related to the other Forez knights who were from the second Forez house.
+
+(*!! check William of Tyre, he may be mentioned*)
 
 ### Count Guigues (Guy) III of Forez and Lyon
 
@@ -76,15 +82,17 @@ Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the la
 
 Guy III married Alix of Suilly. The exact year of this marriage is not clear ([4], page 183). This marriage produces a son, Guy, the future Guy IV of Forez, and three daughters - Marquise of Forez, Guigone of Forez and Eléonor of Forez.
 
+Some sources mention a previous marriage without children, which is absent from all examined primary sources.
+
 #### The Fourth Crusade
 
 Count Guy III of Forez was one of the leaders of the Fourth Crusade. The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. The campaign to Constantinople is by far the more famous. The split ratio between the two forces is still a matter of debate [17].
 
-The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented but his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign. Villehardouin was the only leader who escaped from the crushing defeat by the Bulgarian Tzar Kaloyan at Adrianople in 1205 which ended the crusade.
+The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented but his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign. Villehardouin was the only leader who escaped from the crushing defeat by the Bulgarian Tzar Kaloyan at Adrianople in 1205.
 
 Count Guy III of Forez was one of the main participants of the organizational meeting between the French knights at the Cîteaux Abbey in September 1200 or 1201 ([22], verse 45).
 
-Parts of the army that went to the Holy Land left from Marseille while the bulk of the crusader force assembled in Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision which drew Villehardouin's ire. They left from Marseille in July or August 1202 ([17]) and reached Acre.
+Parts of the army that went to the Holy Land left from Marseille while the bulk of the crusader force assembled in Venice. The group from Marseille was sailing on the Flemish fleet. Count Guy III of Forez took part in the military campaign in the Holy Land in the Marseille group ([22], verse 50) - decision which drew Villehardouin's ire. They left from Marseille in July or August 1202 ([17]) and reached Acre probably in September or October.
 
 #### Death
 
@@ -220,7 +228,7 @@ This confirms his previous will of 1239, just before setting on the crusade, tha
 
 The master of the Templars is certainly Armand of Périgord. Analyzing the authenticity of the relic is beyond the scope of this article, but it is certainly debatable. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. There are recorded occasions of the Knights Templar gifting splinters to very important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. On the other side, it is entirely possible that the Templars preserved a number of splinters before its loss and that they held Guy of Forez in very high esteem. As the item can be traced back at least to the Knights Templar in Jaffa - and possibly - to the relic carried during the Battle of Montgisard, its authenticiy is definitely far above the average for splinters of the True Cross found throughout Western Europe.
 
-The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [4] which we discount as being errenous.
+The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - which might be the French word *précieux* (precious) - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [4] which we discount as being errenous.
 
 #### Mention of Frederick II in his will
 
@@ -374,7 +382,7 @@ The choice of staying in Apulia also appears puzzling - Sicily should have been 
 
 In theory, there can be as much as 18 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
-Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift.
+Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. Also, Apulia was used as a point of departure to Palestine during the Fourth Crusade.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
