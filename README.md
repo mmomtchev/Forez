@@ -228,7 +228,7 @@ According to [11], page 167, it is Princess Mahault who organizes the transport 
 
 #### Return route of Earl Richard of Cornwall
 
-Chronica Majora never mentions Count Guy of Forez - being focused mostly on English history - but contains a detailed account of the return trip of Earl Richard of Cornwall who, on his way back from the crusade, landed in Trapani and was received as an important guest of Frederick II who organized a celebration in his honor. It also mentions Earl Richard traveling to Rome in order to negotiate a truce with the Pope - a treaty which failed to materialize ([21], page 370). This is a very good indication that returning crusaders might have played a role in negotiations for Frederick II was ostracized by the rest of the Christian world. Chronia Majora is the only pro-Emperor primary source.
+Chronica Majora never mentions Count Guy of Forez - being focused mostly on English history - but contains a detailed account of the return trip of Earl Richard of Cornwall who, on his way back from the crusade, landed in Trapani and was received as an important guest of Frederick II who organized a celebration in his honor. It also mentions Earl Richard traveling to Rome in order to negotiate a truce with the Pope - a treaty which failed to materialize ([21], page 370). This is a very good indication that returning crusaders might have played a role in negotiations for Frederick II was ostracized by the rest of the Christian world. Chronica Majora is the only pro-Emperor primary source.
 
 ### Guigues V, Count of Forez
 
@@ -256,7 +256,7 @@ Most modern sources cite this illness as the cause of death of Guy IV and we als
 
 According to de la Mure, he leaves for the Seventh Crusade in 1248 led by the French King Louis IX, but has to turn back in Marseille at stays in France until at least 1249 when he departs again ([4], page 247-248). This is likely linked to the confusion about him taking part in the Barons Crusade. Once again, in his 1675 manuscript, de la Mure cites facts deduced from years and dates found on documents in the archives. According to the authors of the 1860 edition, some of these dates might be mistakes and it is possible that Guy V left with the main force led by the King.
 
-What is also interesting is that a similar event is described by Matthew Paris in his Chronica Majora ([21], page 242) - but during the Barons' Crusade. The crusaders assemble in Lyon, and then a papal messenger urges them go back until they are summoned again for the crusade - some choose to do so, while others refuse. No pro-papal sources mention this incident. It is not clear if this is the source for de la Mure's confusion.
+What is also interesting is that a similar event is described by Matthew Paris in his Chronica Majora - but it happens during the Barons' Crusade. It is not clear if this is the real reason for de la Mure's confusion.
 
 #### Maimed
 
@@ -285,6 +285,8 @@ Tensions among the leaders of the Barons Crusade were very high. Many of the kni
 The army to the Holy Land is assembled in Marseille - a fact mentioned both by Eracles and [7].
 
 Guy IV of Forez traveled in Thibault IV's group, but tensions between them led to further fragmentation of the crusader force once in the Holy Land. They used to be close allies, but because Guy of Forez's marriage in 1226 and Thibault's rebellion against the king, they fought a brief war in 1229.
+
+As the conflict between Emperor Frederick II and Pope Gregoxy IX continued to develop throughout 1239, and with the prospect of a large European-wide war on the horizon, both of them tried to stop the crusade at the last moment. This fact is curiously absent from the pro-papal sources - Rothelin and Eracles - and it is mentionned only by Matthew Paris in his Chronica Majora ([21], page 242). This causes further divisions among the crusaders, with some deciding to still depart, while others return to their homes before departing at a later date. In Rothelin and Eracles (*!!citations*) it is a large storm which scatters the crusader fleet and causes the French knights to arrive one by one in Acre. It is not clear if Guy IV returns home or not, but there is a very curious mention in de la Mure's account of Guy V's departure on the Seventh Crusade which mentions that he comes back from Marseille before leaving again. Given his consistent confusion of the two counts, this might be an indication that this was indeed the case.
 
 ### The Diversion to Constantinople
 
