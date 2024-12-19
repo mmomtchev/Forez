@@ -338,7 +338,7 @@ From this point on, only speculation is possible. Is it possible that Guy IV de 
 
 Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? Or Bulgaria?
 
-During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations?
+During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations? Tzar Ivan Asen II also died around this time - in May or June 1241 - leaving his seven years old son with a regency council - which may explain why the talks failed.
 
 The choice of staying in Apulia also appears puzzling - Sicily should have been the choice for a transit through Italy - and this is where the Emperor's court was also situated. The ports in Apulia were the ports for crossing the Adriatic into Bulgaria.
 
