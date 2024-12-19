@@ -340,7 +340,11 @@ Are we missing some significant event from the last year of his life involving E
 
 During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations?
 
+The choice of staying in Apulia also appears puzzling - Sicily should have been the choice for a transit through Italy - and this is where the Emperor's court was also situated. The ports in Apulia were the ports for crossing the Adriatic into Bulgaria.
+
 In theory, there can be as much as 18 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
+
+Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
