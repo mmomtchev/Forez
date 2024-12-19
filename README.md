@@ -50,11 +50,17 @@ The Barons' Crusade itself contains a very precise record of army travel times b
 
 The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
 
-Two successive houses held the County of Forez - a first one 
+Two successive houses held the County of Forez - a first one, descending from Lyon - which held it until 1107 - and a second one - descending from Grenoble and Grésivaudan.
 
-In this paper, we will focus on the three (and not two) most famous knights, and we will try to settle a number of problems and cases of mistaken identity between them. Traditionally these have been attributes to problems with the numbering scheme, but it seems that most of the confusion is due to the change of command during the Barons Crusade - a fact that it not mentioned in any modern sources - including the very exhaustive *The Barons' Crusade : a call to arms and its consequences / Michael Lower - 2005 [1]*.
+In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675.
+
+Also, it is worth noting that another source of confusion stems from the fact that the most notable Forez - Count Guy IV of Forez and Nevers - was count of both Forez and Nevers - and is referred as count of Nevers in most crusaders sources. Nevers is a different - and also very prominent - crusading family.
 
 This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him - especially the the *Rothelin continuation of the History of William of Tyre* written at the end of the 13th century in the Holy Lands - which were not brought back to Europe until much later.
+
+### Count Willelme of Lyon and Forez, nicknamed Willelme the Old
+
+Willelme was one of the leaders of the First Crusade of Godfrey of Bouillon. He is not directly related to the other Forez knights who were from the second Forez house.
 
 ### Count Guigues (Guy) III of Forez and Lyon
 
@@ -100,7 +106,7 @@ It is his uncle who incited him to build the church Notre-Dame-d'Espérance in M
 
 #### General in the King's Army in 1214
 
-De la Mure mentions that Count Guy IV of Forez was entrusted with leading an army unit by King Philippe II Auguste during his conflict with Count Ferrand of Flanders - culminating with the famous battle of Bouvines in 1214. Guy IV must have been no more than 20 years old at this time. De la Mure cites 1215 as the year, but the battle of Bouvines was in 1214 ([4], page 206). This account cannot be verified from other sources.
+De la Mure mentions that Count Guy IV of Forez was entrusted with leading an army unit by King Philippe II Auguste during a minor battle, part of his conflict with Count Ferrand of Flanders - culminating with the famous battle of Bouvines in 1214. Guy IV must have been no more than 20 years old at this time. De la Mure cites 1215 as the year, but the battle of Bouvines was in 1214 ([4], page 206). This account cannot be verified from other sources.
 
 #### First marriage in 1216
 
