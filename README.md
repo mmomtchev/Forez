@@ -58,13 +58,17 @@ Also, it is worth noting that another source of confusion stems from the fact th
 
 This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him -  [2], [3], [7], [21] and [22] - which were not available to him.
 
-### Count Willelme (Gillin / Vuidelin) of Lyon and Forez, nicknamed Willelme the Old
+### Count Willelme (Gillin / Vuidelin / Guillaume) III of Lyon and Forez, nicknamed Willelme the Old
 
-De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person.
+???? - 1097
 
-He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's grand-daughter and Guy I of Forez's grand-mother.
+De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person ([4], page 106).
 
-(*!! check William of Tyre, he may be mentioned*)
+He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's sister and Guy I of Forez's grand-mother.
+
+Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
+
+He is succeeded by his sister, which effectively ends the first house of Forez.
 
 ### Count Guigues (Guy) III of Forez and Lyon
 
@@ -144,7 +148,7 @@ He takes part in a number of small feudal conflicts during the 1229 against his 
 
 #### Song in his honor
 
-A song by the 13th century troubadour Eustache Le Peintre refers him and was likely related to his departure on a crusade ([23], page 258). The last couplet of what appears to be a love song is:
+A song by the 13th century troubadour Eustache Le Peintre refers him and was likely related to his departure on a crusade ([24], page 258). The last couplet of what appears to be a love song is:
 
 > Va t'en chançon, sans nul atendement
 > droit au bon conte, ou toute honor s'aairre,
@@ -332,7 +336,7 @@ After returning from the crusade, he is married to Alix of Chaceney in 1250 but 
 
 #### Death
 
-He dies without issue in 1251 and he is succeeded by his brother, Renaud I of Forez ([4], page 254).
+He dies without issue in 1259 and he is succeeded by his brother, Renaud I of Forez ([4], page 254).
 
 ## The Barons Crusade
 
@@ -436,7 +440,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 [22] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 2004 translation of the 1208-1212 manuscripts
 
-[23] Le canzoni di Eustache le Peintre [Texte imprimé] / Maria Luisa Gambini, 1997
+[24] Le canzoni di Eustache le Peintre [Texte imprimé] / Maria Luisa Gambini, 1997
 
 # Modern Sources
 
@@ -467,3 +471,5 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [20] Scurvy Past and Present / Alfred Hess, 2016
 
 [23] Trésor de chronologie, d'histoire et de géographie pour l'étude et l'emploi des documents du moyen-âge / Louis de Mas Latrie, 1889
+
+[25] L'art de vérifier les dates des faits historiques, des chartes, des chroniques et autres anciens monuments, depuis la naissance de Notre-Seigneur - Volume X / François Clement, 1784
