@@ -56,13 +56,13 @@ In this paper, we will focus on the crusading knights, and we will try to settle
 
 Also, it is worth noting that another source of confusion stems from the fact that the most notable Forez - Count Guy IV of Forez and Nevers - was count of both Forez and Nevers - and is referred as count of Nevers in most crusaders sources. Nevers is a different - and also very prominent - crusading family.
 
-There are two previous studies of the Forez family - the first one is the chronicles of Jean-Marie de la Mure in 1675, republished with annotated corrections in 1830 [4] and the second one is *L’Art de vérifier les dates* from 1784 by Benedictine monks [26]. De la Mure did not have access to any crusader chronicles while the Benedictines cite the Villehardouin - Fourth Crusade and Joinville - Seventh Crusade - chronicles. Both works contain a significant number of mistakes, omissions or confusions between the successive counts named Guigues.
+There are two previous studies of the Forez family - the first one is the chronicles of Jean-Marie de la Mure from 1675, republished with annotated corrections in 1830 [4] and the second one is *L’Art de vérifier les dates* from 1784 by Benedictine monks [26]. De la Mure did not have access to any crusader chronicles while the Benedictines cite the Villehardouin - Fourth Crusade - and Joinville - Seventh Crusade - chronicles. Both works contain a significant number of mistakes, omissions or confusions between the successive counts named Guigues.
 
-This paper uses a number of additional documents that were not available to them -  [2], [3], [7], [21] and [22].
+This paper uses a number of additional documents that were not available to them - [2], [3], [7], [21] and [22].
 
 ### Count Willelme (Gillin / Vuidelin / Guillaume) III of Lyon and Forez, nicknamed Willelme the Old
 
-???? - 1097
+**10?? - 1097**
 
 De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person ([4], page 106).
 
@@ -78,7 +78,7 @@ He is briefly succeeded by his two sons who die without children. The title is t
 
 ### Count Guigues (Guy) III *Branda* of Forez and Lyon
 
-1152 - 1203
+**1152 - 1203**
 
 Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance.
 
@@ -118,7 +118,7 @@ He is not mentioned at all in Eracles or the Rothelin manuscript which is consis
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
-1196 or 1199 - 1241
+**1196 or 1199 - 1241**
 
 #### Early life
 
@@ -158,7 +158,7 @@ He takes part in a number of small feudal conflicts during the 1229 against his 
 
 #### Song in his honor
 
-A song by the 13th century troubadour Eustache Le Peintre refers him and was likely related to his departure on a crusade ([24], page 258). The last couplet of what appears to be a love song is:
+A song by the 13th century troubadour Eustache Le Peintre - *Amours, coment porroie chançon faire* - refers him and was likely related to his departure on a crusade ([24], page 258). The last couplet of what appears to be a love song is:
 
 > Va t'en chançon, sans nul atendement
 > droit au bon conte, ou toute honor s'aairre,
@@ -310,7 +310,7 @@ Chronica Majora never mentions Count Guy of Forez - being focused mostly on Engl
 
 ### Guigues V, Count of Forez
 
-1220-1222 - 1259
+**1220-1222 - 1259**
 
 Guigues V was groomed for a military commander by his father. He accompanied his father during his campaigns in France "as soon as his age allowed him to bear arms" ([4], page, 244). Still, he must have been about 13 to 14 years old during this campaign and it is unlikely to have had significant combat experience before the Barons Crusade.
 
@@ -338,7 +338,7 @@ What is also interesting is that a similar event is described by Matthew Paris i
 
 #### Maimed
 
-He loses a leg during a battle at Damietta in 1249 or 1250 and is captured by the Saracesn. He is ransomed and has to return to Europe ([4], page 250 and [25], page 495).
+He loses a leg during a battle at Damietta in 1249 or 1250 and is captured by the Saracens. He is ransomed and has to return to Europe ([4], page 250 and [25], page 495).
 
 *!!check Joinville chronicles, he must be mentioned*
 
