@@ -408,7 +408,7 @@ The village appeared in historical records for the first time in the 13th centur
 
 A Count of Forez took part in all of these crusades: Guy III during the Fourth Crusade, both Guy IV and Guy V - according to this new theory - during the Barons Crusade and only Guy V during the Seventh Crusade.
 
-The only one to have died from illness while traveling was Guy IV. Guy III died next to Jerusalem and it is buried in the church in Acre. Guy V returned to France where he is buried. Guy IV's coffin was famously carried (still left to check the church records in Montbrison!!!) from Italy, which makes him a very probable candidate.
+The only one to have died from illness while traveling was Guy IV. Guy III died next to Jerusalem and it is buried in the church in Acre. Guy V returned to France where he is buried. Guy IV's coffin was famously carried from Italy, which makes him a very probable candidate. Willelme III also passes through the exact region of Kondofrey on his way to the Holy Land, which is also worth noting. He, supposedly, dies in battle during the siege of Nicaea, but this statement cannot be traced back to a primary source.
 
 ### Possible theories
 
@@ -424,7 +424,7 @@ From this point on, only speculation is possible. Is it possible that Guy IV de 
 
 Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? Or Bulgaria?
 
-During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations? Tzar Ivan Asen II also died around this time - in May or June 1241 - leaving his seven years old son with a regency council - which may explain why the talks failed.
+During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations? Tzar Ivan Asen II also died around this time - in May or June 1241 - leaving his seven years old son with a regency council. His death marks the beginning of a slow decline of the Second Bulgarian Empire from which it will never recover. Bulgaria loses its status as a military super-power in the region - which may explain why the talks failed.
 
 The choice of staying in Apulia also appears puzzling - Sicily should have been the choice for a transit through Italy - and this is where the Emperor's court was also situated. The ports in Apulia were the ports for crossing the Adriatic into Bulgaria.
 
@@ -458,7 +458,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 [22] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 2004 translation of the 1208-1212 manuscripts
 
-[24] Le canzoni di Eustache le Peintre [Texte imprimé] / Maria Luisa Gambini, 1997
+[24] Le canzoni di Eustache le Peintre / Maria Luisa Gambini, 1997
 
 # Modern Sources
 
