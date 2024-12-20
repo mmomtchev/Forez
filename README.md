@@ -20,6 +20,12 @@ This paper has two main goals:
 
 * Use this data to try to link one the crusading knights to the village of Kondodrey
 
+## Overview of the primary sources and methodology
+
+It turns out that the main primary source used by most modern scholars is the seminal work of Jean-Marie de la Mure - a semi-modern work dating from 1675, with a corrected edition from 1860 [4]. It is precisely this text that is the real origin of the confusion between Guy III, Guy IV and Guy V. De la Mure work is based mostly on archival administrative documents - the royal charters - extracted from Trésor des Chartes du Roi - *Thesaurus Chartarum* - the Royal Treasury of Charters - created by King Philippe II Auguste of France in 1204 [12], [14]. Today this collection of documents is part of the French National Archives. When going back beyond this date, the amount of available data is drastically reduced. In particular, there are very few preserved documents from Forez dating before the 1220s.
+
+While these royal charters tell the story about what happened in France, they do not contain any data from the crusades themselves. This paper tries to match a number of manuscripts to the available administrative acts [2], [3], [7], [21] and [22].
+
 ## Medieval travel times
 
 As throughout this paper, there will be a number of attempts to extrapolate deduce travel by occasional mentions of various figures at different locations, it should start with a note on medieval travel times. The subject has been extensively researched in [18].
@@ -50,7 +56,7 @@ In this paper, we will focus on the crusading knights, and we will try to settle
 
 Also, it is worth noting that another source of confusion stems from the fact that the most notable Forez - Count Guy IV of Forez and Nevers - was count of both Forez and Nevers - and is referred as count of Nevers in most crusaders sources. Nevers is a different - and also very prominent - crusading family.
 
-This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him - especially the the *Rothelin continuation of the History of William of Tyre* written at the end of the 13th century in the Holy Lands - which were not brought back to Europe until much later.
+This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him -  [2], [3], [7], [21] and [22] - which were not available to him.
 
 ### Count Willelme (Gillin / Vuidelin) of Lyon and Forez, nicknamed Willelme the Old
 
@@ -146,7 +152,7 @@ The presence of another will, dated August 10 1241 - the same date, but two year
 
 All this means that Guy IV did depart on the Barons Crusade and died on its way back.
 
-This theory is also confirmed by another independent source - the Eracles chronicles. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [5]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
+This theory is also confirmed by another independent source - the Eracles chronicles. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [3]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
 
 It is very likely that de la Mure concluded himself that Guigues never left on the crusade according to the erroneous year of death - 1239. He must have proceeded to write an account, which currently seems to be completely fictitious, of his son, Guigues V, joining the crusade at a later date (see the detailed discussion below).
 
