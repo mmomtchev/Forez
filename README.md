@@ -50,7 +50,7 @@ The Barons' Crusade itself contains a very precise record of army travel times b
 
 The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
 
-Two successive houses held the County of Forez - a first one, the house of Forez from Lyon - which held it until 1107 - and a second one - the house of Ablon from Grenoble and Grésivaudan.
+Two successive houses held the County of Forez - a first one, the house of Forez from Lyon - which held it until 1107 - and a second one - the house of Ablon from Grenoble and Grésivaudan. The house of Ablon inherits Forez through a marriage between Guigues-Raymond of Ablon and Ide of Forez in 1085.
 
 In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675.
 
@@ -62,7 +62,7 @@ This is the first study of the Forez family since the chronicles of Jean-Marie d
 
 De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person.
 
-He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is not directly related to the other Forez knights who were from the second Forez house.
+He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's grand-daughter and Guy I of Forez's grand-mother.
 
 (*!! check William of Tyre, he may be mentioned*)
 
