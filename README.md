@@ -202,6 +202,8 @@ In all cases, there are no direct mentions of Guy of Forez as being present duri
 
 The last crusaders to leave from Ascalon - and the Holy Land - were Duke Hugues IV of Burgundy and Earl Richard of Cornwall - and this happened on May 3 1241 ([3], Rothelin, chapter 36, 1240).
 
+This mean that Guy IV of Forez departed after September 1240 but no later than May 3 1241.
+
 #### Guy of Acre
 
 De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land, he traveled back to France with him. De la Mure mentions him - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume of Brienne, who existed but died in 1200 ([14], page 1241 10 août). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). The most likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. However this is based on circumstantial evidence - which is the similarity of the background of Alfonso of Brienne to Guy of Acre and the fact that no other person has been identified as Guy of Acre. There are no mentions of Guy of Acre in the currently preserved part of the will - however this document was complete and well preserved at the time of de la Mure's writing.
