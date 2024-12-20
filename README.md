@@ -66,25 +66,31 @@ De la Mure's account of Willelme is particularly confusing. According to the 167
 
 He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's sister and Guy I of Forez's grand-mother.
 
-Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
+He marries Vandelmonde of Beaujeu and has two sons.
 
-He is succeeded by his sister, which effectively ends the first house of Forez.
+Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
 
-### Count Guigues (Guy) III of Forez and Lyon
+*!!he must be mentioned by William of Tyre*
+
+He is briefly succeeded by his two sons who die without children. The title is then inherited by his sister, which effectively ends the first house of Forez ([25], page 487).
+
+### Count Guigues (Guy) III *Branda* of Forez and Lyon
 
 1152 - 1203
 
 Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance.
 
-#### Nicknamed Brenda
+#### Nicknamed Brenda or Branda
 
-[23] mentions a nickname Brenda ([23], page 1603). The information in [23] seems to be full of errors and mistaken identities between Guy III, Guy IV and Guy V. The line for Guy III has Guy IV's birthyear and Guy III's wife and children. This source is discounted as inaccurate. The nickname Brenda does not appear anywhere else.
+[23] mentions a nickname Brenda ([23], page 1603). The information in [23] seems to be full of errors and mistaken identities between Guy III, Guy IV and Guy V. The line for Guy III has Guy IV's birth year and Guy III's wife and children. This source is discounted as inaccurate. However the nickname Branda also appears in [25], page 493.
 
-#### Marriage to Alix (Alice) of Suilly
+#### First marriage to Asiuraa
 
-Guy III married Alix of Suilly. The exact year of this marriage is not clear ([4], page 183). This marriage produces a son, Guy, the future Guy IV of Forez, and three daughters - Marquise of Forez, Guigone of Forez and Eléonor of Forez.
+His first marriage ends with a divorce for unknown reasons. Eléonor of Forez might be born out of this marriage ([25], page 493).
 
-Some sources mention a previous marriage without children, which is absent from all examined primary sources.
+#### Second marriage to Alix (Alice) of Suilly
+
+Guy III married Alix of Suilly. The exact year of this marriage is not clear ([4], page 183). This marriage produces a son, Guy, the future Guy IV of Forez, and three daughters - Marquise of Forez, Guigone of Forez and Eléonor of Forez. It is not certain of which marriage Eléonor is born.
 
 #### The Fourth Crusade
 
@@ -105,6 +111,8 @@ He died of illness during a military campaign near Jerusalem and his remains wer
 Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186) and this is the date inscribed in the church of Montbrison built by his son.
 
 He is not mentioned at all in Eracles or the Rothelin manuscript which is consistent with him dying shortly after his arrival.
+
+*!!check Villehardouin!! mentioned as having died while traveling in [25], page 493*
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -258,7 +266,7 @@ This confirms his previous will of 1239, just before setting on the crusade, tha
 
 The master of the Templars is certainly Armand of Périgord. Analyzing the authenticity of the relic is beyond the scope of this article, but it is certainly debatable. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. There are recorded occasions of the Knights Templar gifting splinters to very important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. On the other side, it is entirely possible that the Templars preserved a number of splinters before its loss and that they held Guy of Forez in very high esteem. As the item can be traced back at least to the Knights Templar in Jaffa - and possibly - to the relic carried during the Battle of Montgisard, its authenticiy is definitely far above the average for splinters of the True Cross found throughout Western Europe.
 
-The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - which might be the French word *précieux* (precious) - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [4] which we discount as being errenous.
+The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - which might be the French word *précieux* (precious) - or it might be related to the castle Pressieu - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [4] which we discount as being errenous.
 
 #### Mention of Frederick II in his will
 
@@ -328,7 +336,9 @@ What is also interesting is that a similar event is described by Matthew Paris i
 
 #### Maimed
 
-He loses a leg during a battle in the Holy Land in 1250 and has to return to Europe ([4], page 250).
+He loses a leg during a battle at Damietta in 1249 or 1250 and is captured by the Saracesn. He is ransomed and has to return to Europe ([4], page 250 and [25], page 495).
+
+*!!check Joinville chronicles, he must be mentioned*
 
 #### Marriage
 
@@ -473,3 +483,6 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [23] Trésor de chronologie, d'histoire et de géographie pour l'étude et l'emploi des documents du moyen-âge / Louis de Mas Latrie, 1889
 
 [25] L'art de vérifier les dates des faits historiques, des chartes, des chroniques et autres anciens monuments, depuis la naissance de Notre-Seigneur - Volume X / François Clement, 1784
+
+[26] The First Crusaders' Journey Across The Balkan Peninsula / Steven Runciman
+Byzantion, Vol. 19, Actes Du Viie Congrès Des Études Byzantines Bruxelles 1948. — I (1949), pp. 207-221
