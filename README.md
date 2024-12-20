@@ -198,7 +198,7 @@ Gestes des Chiprois ([2], page 123) also attributes the work to Richard of Cornw
 
 It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants.
 
-In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left, that Thibault IV departed in 1240 but before October 8 1240 and that at least some French knights were still present in October 8 1240.
+In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most French knights had left, that Thibault IV departed in 1240. He departed after June 16 1240, since this when Ayyub's forces entered Cairo which resulted the truce between him and Thibault ([1], page 173). He departed before October 8 1240, since this is when Richard of Cornwall arrived. And finally, we know that at least some French knights were still present in October 8 1240.
 
 The last crusaders to leave from Ascalon - and the Holy Land - were Duke Hugues IV of Burgundy and Earl Richard of Cornwall - and this happened May 3 1241 ([3], Rothelin, chapter 36, 1240).
 
@@ -378,7 +378,7 @@ During the buildup to the crusade, there were negotiations of an eventual allian
 
 The choice of staying in Apulia also appears puzzling - Sicily should have been the choice for a transit through Italy - and this is where the Emperor's court was also situated. The ports in Apulia were the ports for crossing the Adriatic into Bulgaria.
 
-In theory, there can be as much as 18 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
+In theory, there can be as much as 12 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
 Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. Also, Apulia was used as a point of departure to Palestine during the Fourth Crusade.
 
