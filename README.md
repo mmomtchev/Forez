@@ -140,6 +140,22 @@ The only account of the personality of Guy IV that has reached us comes from the
 
 He takes part in a number of small feudal conflicts during the 1229 against his neighbors - including Prince Thibault IV of Champagne - the future leader of the Barons Crusade. Previously, they had been close allies. He is considered an accomplished military commander.
 
+#### Song in his honor
+
+A song by the 13th century troubadour Eustache Le Peintre refers him and was likely related to his departure on a crusade ([23], page 258). The last couplet of what appears to be a love song is:
+
+> Va t'en chançon, sans nul atendement
+> droit au bon conte, ou toute honor s'aairre,
+> qui de Forois est sire essanplaire;
+> di que ce chant de nouvel li present.
+
+*Go, oh song, without delay,*
+*to the good count, in whom all honor resides,*
+*who is from Forez and inspiration to us,*
+*tell him that this song is sung again.*
+
+The only evidence that this refers to Guy IV is the fact he seems to be absent and the time period during which the song was written.
+
 #### The Barons Crusade
 
 He takes part in the organization of the Barons Crusade and it is eager to follow the steps of his father who he barely knew. However there might have been other, more Earthly reasons for his decision. As was the case for many crusader knights, the privileges of the special legal status that they enjoyed also played a major role. Some sources mention a possible - and very serious - sentence of excommunication for harboring heretics ([2], page 726, [3], page 416, to check!!!). Other sources cite large debts, for which a crusader did not have to pay interest ([3], page 546). The debt theory is further corroborated by administrative acts mentioned by de la Mure ([4], page 246). There are however no traces of any sentence of excommunication in the original sources.
@@ -409,6 +425,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [21] English History / Matthew Paris, 1852 translation of the 1251 manuscript
 
 [22] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 2004 translation of the 1208-1212 manuscripts
+
+[23] Le canzoni di Eustache le Peintre [Texte imprimé] / Maria Luisa Gambini, 1997
 
 # Modern Sources
 
