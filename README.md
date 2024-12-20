@@ -68,7 +68,7 @@ He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a me
 
 He marries Vandelmonde of Beaujeu and has two sons.
 
-Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot. The route they take is Belgrade - Nis - Sofia - Philippopolis - Adrianople which takes them if not right through Kondofrey at least very close. The ill-fated People's Crusade led by Peter the Hermit precedes the main professional army. There are lots of incidents and small engagements with the locals along the route [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
+Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot. The route they take is Belgrade - Nis - Sofia - Philippopolis - Adrianople which takes them if not right through Kondofrey, then at least very close. The ill-fated People's Crusade led by Peter the Hermit precedes the main professional army. There are lots of incidents and small engagements with the locals along the route [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
 
 *!!he must be mentioned by William of Tyre*
 
@@ -410,7 +410,13 @@ The only one to have died from illness while traveling was Guy IV. Guy III died 
 
 ### Possible theories
 
-Clearly, Count Guy IV of Forez is the only Forez who can be linked to Kondofrey. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. However his most likely route does not pass through Bulgaria.
+### Count Willelme III of Forez during the First Crusade
+
+Count Willelme III is, at least in theory, a possible candidate since his known route passes - if not right through Kondofrey - at least very close. Still, his biography does not match the legend at all - unless there are major mistakes about his ultimate fate.
+
+### Count Guy IV of Forez during the Barons' Crusade
+
+Clearly, Count Guy IV of Forez is the most probable Forez who can be linked to Kondofrey. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. However his most likely route does not pass through Bulgaria.
 
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
