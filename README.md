@@ -206,7 +206,7 @@ There are different conflicting accounts when it comes to the construction of th
 
 The construction of a castle in Ascalon was one of the first decisions by the leaders of the crusade after setting foot in the Holy Land ([3], Rothelin, chapter 22, 1239 and chapter 31, 1239-1240), but the actual work was postponed until the very end - most of the French had already left on their way back when it started.
 
-According to Eracles ([3], Eracles, chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrival in the Holy Land is dated October 8 1240 with a mention that by this time, Thibault IV had already left for Europe.
+According to Eracles ([3], Eracles, chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrived after Thibault IV had already left for Europe.
 
 According to the Rothelin manuscript ([3], Rothelin, chapter 33, 1240), it was the French army who started the work on the castle, with Richard of Cornwall arriving while the construction was still in progress.
 
@@ -214,11 +214,19 @@ Gestes des Chiprois ([2], page 123) also attributes the work to Richard of Cornw
 
 It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants.
 
-In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most other French knights departed in September 1240 ([1], page 175). We also know that at least some French knights were still present on October 8 1240.
+In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most other French knights departed in September 1240 ([1], page 175). We also know that at least some French knights were still present on when Richard of Cornwall arrived.
 
-The last crusaders to leave from Ascalon - and the Holy Land - were Duke Hugues IV of Burgundy and Earl Richard of Cornwall - and this happened on May 3 1241 ([3], Rothelin, chapter 36, 1240).
+When it comes to the exact dates of arrival and departure of Richard of Corwnall, Janeth Shirley gives October 8 1240 and May 3 1241 ([3], Rothelin, cahpter 26 1240). However this seems to be her own estimation as there are no exact dates in the original manuscript.
 
-This mean that Guy IV of Forez departed after September 1240 but no later than May 3 1241.
+Matthew Paris in his Chronica Majora confirms that Richard of Corwnwall arrived after Thibault had left but gives Michaelmas Day 1240 as his date of arrive - this would be September 29 ([21], page 308). He also states that he leaves from the Holy Land on the Festival of the Finding of the Holy Cross - August 18 - and he arrives in Trapani, Sicily on Saint John the Baptist day - September 8 ([21], page 366). This interesting as it gives another, real, estimation of the sea travel times of the era.
+
+The reason for the huge disrepancy between Rothelin and Chronica Majora are not very clear.
+
+The last crusaders to leave from Ascalon - and the Holy Land - were Duke Hugues IV of Burgundy and Earl Richard of Cornwall.
+
+What is also worth noting is that Richard of Corwnall stay in Ascalon is very detailed in Chronica Majora and it mentions a number of French knights ([21], pages 362-368). Guy IV is not one them and it is very likely that he would have been mentioned if he was at Ascalon. After Thibault's departure for France, he is one of the most senior leaders left.
+
+This mean that Guy IV of Forez departed after September 1240 but could have left anytime before his will in Apulia dated August 10 1241.
 
 #### Guy of Acre
 
@@ -328,7 +336,7 @@ He dies without issue in 1251 and he is succeeded by his brother, Renaud I of Fo
 
 The Barons Crusade is a relatively lesser known crusade that is considered to be a failure by most scholars. Militarily, it was very well prepared and consisted of a very sizeable and capable armed force. However because of various organizational problems, it failed to achieve any goals. It is studied very extensively by Lower in his 2005 book.
 
-The bulk of the crusader force was composed of French knights joined by some English knights.
+Preparations for the crusade started in November 17 1234 when Pope Gregory IX issued the papal bull *Rachel suum videns*. The bulk of the crusader force was composed of French knights joined by some English knights.
 
 It consists of two separate and largely independent military campaigns - one to the Holy Lands and another one to the Latin Empire in Constantinople. Both armies shared the same funding and left about the same time. The diversion to Constantinople was largely the brainchild of Pope Gregory IX and it was a follow-up to the very controversial Fourth Crusade which ended with the sacking of Constantinople in 1204. Pope Gregory IX continued with the policy of trying to reunite Christianity - by defeating the Orthodox Christians on the battlefield and imposing a Catholic Patriarch. It was him the driving force for diverting funds from the Holy Lands and trying to coerce the various European knights to switch their vows from Jerusalem to Constantinople.
 
