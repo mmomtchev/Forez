@@ -56,7 +56,9 @@ In this paper, we will focus on the crusading knights, and we will try to settle
 
 Also, it is worth noting that another source of confusion stems from the fact that the most notable Forez - Count Guy IV of Forez and Nevers - was count of both Forez and Nevers - and is referred as count of Nevers in most crusaders sources. Nevers is a different - and also very prominent - crusading family.
 
-This is the first study of the Forez family since the chronicles of Jean-Marie de la Mure in 1675 and uses a number of documents that were not available to him -  [2], [3], [7], [21] and [22] - which were not available to him.
+There are two previous studies of the Forez family - the first one is the chronicles of Jean-Marie de la Mure in 1675, republished with annotated corrections in 1830 [4] and the second one is *L’Art de vérifier les dates* from 1784 by Benedictine monks [26]. De la Mure did not have access to any crusader chronicles while the Benedictines cite the Villehardouin - Fourth Crusade and Joinville - Seventh Crusade - chronicles. Both works contain a significant number of mistakes, omissions or confusions between the successive counts named Guigues.
+
+This paper uses a number of additional documents that were not available to them -  [2], [3], [7], [21] and [22].
 
 ### Count Willelme (Gillin / Vuidelin / Guillaume) III of Lyon and Forez, nicknamed Willelme the Old
 
