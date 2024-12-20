@@ -68,7 +68,7 @@ He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a me
 
 He marries Vandelmonde of Beaujeu and has two sons.
 
-Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
+Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse. On their way to the Holy Land, the First Crusade crosses the Balkans on foot. The route they take is Belgrade - Nis - Sofia - Philippopolis - Adrianople which takes them if not right through Kondofrey at least very close. The ill-fated People's Crusade led by Peter the Hermit precedes the main professional army. There are lots of incidents and small engagements with the locals along the route [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
 
 *!!he must be mentioned by William of Tyre*
 
