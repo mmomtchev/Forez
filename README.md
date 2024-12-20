@@ -86,7 +86,9 @@ Some sources mention a previous marriage without children, which is absent from 
 
 Count Guy III of Forez was one of the leaders of the Fourth Crusade. The Fourth Crusade is the first crusade to target Constantinople - the Barons Crusade is the next one. It remains the most controversial crusade, shifting the focus from the Holy Land - controlled by Muslims - to the Byzantine Empire - who are Orthodox Christians. The crusade consists of two separate miliary campaigns: one directed to Constantinople and another one in the Holy Land. The campaign to Constantinople is by far the more famous. The split ratio between the two forces is still a matter of debate [17].
 
-The Fourth Crusade is the only one to be directly chronicled by one of its leaders. It is well documented but his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign. Villehardouin was the only leader who escaped from the crushing defeat by the Bulgarian Tzar Kaloyan at Adrianople in 1205.
+The military campaign to Cosntantinople during the Fourth Crusade is very well documented as it is chronicled by one of its leaders - Villehardouin - but his chronicles are famous for being particularly one-sided and focused on the Constantinople campaign. Villehardouin was the only leader who escaped from the crushing defeat by the Bulgarian Tzar Kaloyan at Adrianople in 1205.
+
+There is almost no primary data on the military campaign to Palestine.
 
 Count Guy III of Forez was one of the main participants of the organizational meeting between the French knights at the Cîteaux Abbey in September 1200 or 1201 ([22], verse 45).
 
