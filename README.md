@@ -4,29 +4,21 @@
 
 ## Preface
 
-"*Kondofrey* (*Кондофрей*)"! What a weird name! I still remember passing through this village when I was a kid, each time we paid a visit to my great grandmother in the next village. If you don't speak Bulgarian, it might not be that obvious, but to a native speaker, there can't be any doubt about the foreign nature of the name. Then, much later in life, when I was already speaking French, my mother, who was also fluent, told me that there was a local legend about a crusader knight, named Count of Frey - *Comte de Frey* - who was the actual founder of the village.
+"*Kondofrey* (*Кондофрей*)"! What a weird name! I still remember passing through this village when I was a kid, each time we paid a visit to my great grandmother in the next village. If you don't speak Bulgarian, it might not be that obvious, but to a native speaker, there can't be any doubt about the foreign nature of the name.
 
-30 years later, and with a keen interest in the history of the Crusades, and in the middle of a huge judicial scandal, with lots of spare time on my hands, I remembered that story and set on a journey to try to match it to French history. Someone who had a count level title was simply bound to have left a written trace - especially a knight during the Crusades. My first naive attempt turned out to be a dead end - Fray or Frey was a very popular name in Northern France and Belgium - but it was a commoner name and there was no way a count was ever named de Fray or de Frey as no such county ever existed.
+30 years later, and with a keen interest in the history of the Crusades, and with lots of spare time, I remembered that story and decided to try to match it to French history. A count who went on a crusade had surely left a written trace somewhere. My first naive attempt turned out to be a dead end - Fray or Frey was a very popular name in Northern France and Belgium - but it was a commoner name and there was no way a count was ever named de Fray or de Frey as no such county ever existed.
 
-To my great surprise, there were already two scientific papers by serious researchers in peer-reviewed journals discussing the local legend and the eventual origin of the name. Thomas Tomov had already done most of the ground-breaking work - including exhausting the very limited Bulgarian sources. As it was obvious that the name was transmitted orally - and was probably deformed - he had compiled an exhaustive list of all crusader knights whose name sounded vaguely similar - then he had proceeded to eliminate every single one of them.
+To my great surprise, there were already two scientific papers by serious researchers in peer-reviewed journals discussing the local legend and the eventual origin of the name. Thomas Tomov had already done most of the ground-breaking work - including exhausting the very limited Bulgarian sources. 
 
-I went rapidly through his list - Friaize, Flandre, ... Forez. Forez! *Comte of Forez*! As a native speaker of Bulgarian who had lived for most of his adult life in France, the similarity of the pronunciation to the Bulgarian Kondofre was striking. In fact, a Bulgarian, unfamiliar with the French mute E sound, simply couldn't pronounce it better than this.
+I went rapidly through his list - Friaize, Flandre, ... Forez. Forez! *Comte of Forez*! As a native speaker of Bulgarian who had lived for most of his adult life in France, the similarity of the pronunciation to the Bulgarian Kondofre was striking.
 
-Alas, it was impossible to match him - part of the Fourth Crusade - or his son - part of the Barons Crusade - to the legend given their biographies.
-
-Still, unable to believe this similarity to be a simple coincidence, I started researching it and rapidly found a number of discrepancies in all modern sources. A second-level commander of a lesser known Crusade - the Barons Crusade - no researcher had ever studied him in detail. There was also confusion in most sources about the numbering scheme used.
-
-Trying to clarify it led to my first discovery - that the biographies of Guy IV and Guy V were widely inconsistent and full of contradictions - a fact this paper traces back to de la Mure's work from 1675 - the only previous attempt to establish clear biographies for the Forez family. This confusion - of which most modern sources were aware - was previously attributes to using different numbering schemes - as Guigues IV was the fifth Count of Forez. Although this might have contributed, the origin of this confusion seems to be de la Mure's work. In order to avoid any further misidentification, this paper sticks to the French tradition to number according to the previous title holders having the same name.
+Alas, it was impossible to match him - part of the Fourth Crusade - or his son - part of the Barons Crusade - to the legend given their biographies. Trying to find more information about him, led to my first discovery - that the biographies of Guy IV and Guy V were widely inconsistent and full of contradictions.
 
 This paper has two main goals:
 
-* Completely rebuild the genealogy of the Forez family during the period of the Crusades entirely from primary sources and serve as a definite reference on this subject.
+* Completely rebuild the genealogy of the Forez family during the period of the Crusades entirely from primary sources and serve as a definite reference on this subject
 
-  Scarce primary data, at least three different numbering schemes and years of cross-citing have led to extreme confusion in all modern sources.
-
-  This paper uses Jean-Marie de la Mure work as a framework. As a priest with access to the church records in the very church the Forez family built during this period, he is likely to be the best source when it comes to their births, marriages and deaths. As when it comes to the crusades themselves, for which de la Mure did not have any written sources, his account tends to be very light and with a large number of significant mistakes. Proper crusader sources are overlaid onto his framework, trying to identify each individual Count of Forez.
-
-* Use this data to try to link one the crusading knights to the village of Kondodrey.
+* Use this data to try to link one the crusading knights to the village of Kondodrey
 
 ## Medieval travel times
 
