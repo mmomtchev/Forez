@@ -114,7 +114,9 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 He is not mentioned at all in Eracles or the Rothelin manuscript which is consistent with him dying shortly after his arrival.
 
-*!!check Villehardouin!! mentioned as having died while traveling in [25], page 493*
+He is also mentioned in Chronique d'Ernoul as having died almost immediately after disembarking in Acre ([26], page 340).
+
+[25] states that he died while traveling - citing Villehardouin's chronicles ([25], page 493). This is not very accurate as Villehardouin's chronicles do not contain any information about the military campaign to the Holy Land after their departure from Marseille.
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
@@ -465,6 +467,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [22] La conquête de Constantinople / texte de Geoffroi de Villehardouin, 2004 translation of the 1208-1212 manuscripts
 
 [24] Le canzoni di Eustache le Peintre / Maria Luisa Gambini, 1997
+
+[27] Chronique d'Ernoul / Ernoul, Bernard le Trésorier, 1871 edition of the 
 
 # Modern Sources
 
