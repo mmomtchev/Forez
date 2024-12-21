@@ -84,15 +84,15 @@ Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the la
 
 #### Nicknamed Brenda or Branda
 
-[23] mentions a nickname Brenda ([23], page 1603). The information in [23] seems to be full of errors and mistaken identities between Guy III, Guy IV and Guy V. The line for Guy III has Guy IV's birth year and Guy III's wife and children. This source is discounted as inaccurate. However the nickname Branda also appears in [25], page 493.
+[23] mentions a nickname Brenda ([23], page 1603). The information in [23] seems to be full of errors and mistaken identities between Guy III, Guy IV and Guy V. The line for Guy III has Guy IV's birth year and Guy III's wife and children. Those mistakes can be traced back to [25]. The nickname Branda also appears in [25], page 493.
 
 #### First marriage to Asiuraa
 
-His first marriage ends with a divorce for unknown reasons. Eléonor of Forez might be born out of this marriage ([25], page 493).
+His first marriage ends with a divorce for unknown reasons. Although the primary sources are not very clear, Eléonor of Forez is certainly born out of this marriage ([25], page 493) because her grandson is at the center of a inheritance dispute with Guy V of Forez (*!!find the archive document*).
 
 #### Second marriage to Alix (Alice) of Suilly
 
-Guy III married Alix of Suilly. The exact year of this marriage is not clear ([4], page 183). This marriage produces a son, Guy, the future Guy IV of Forez, and three daughters - Marquise of Forez, Guigone of Forez and Eléonor of Forez. It is not certain of which marriage Eléonor is born.
+Guy III married Alix of Suilly. The exact year of this marriage is not clear ([4], page 183). This marriage produces a son, Guy, the future Guy IV of Forez, and three daughters - Marquise of Forez and Guigone of Forez.
 
 #### The Fourth Crusade
 
