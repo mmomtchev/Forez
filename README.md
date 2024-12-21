@@ -72,7 +72,7 @@ He marries Vandelmonde of Beaujeu and has two sons.
 
 Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse ([25], page 487). On their way to the Holy Land, the group led by Godfrey of Bouillon crosses the Balkans on foot. The route they take is Belgrade - Nish - Sardica (Sofia) - Philippopolis (Plovdiv) - Adrianople (Edirne) which takes them if not right through Kondofrey, then at least very close. The ill-fated People's Crusade led by Peter the Hermit precedes the main professional army. There are lots of incidents and small engagements with the locals along the route. Generally, the passing of the professional army is much smoother - both because the soldiers tend to be more disciplined and because by the time they pass, most government officials have already understood that special preparations must be made for the passing of an army of this magnitude - even if it is friendly. However the group led by Raymond of Toulouse chooses a different route and crosses the Adriatic into modern day Albania before continuing to Thessaloniki [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
 
-*!!he must be mentioned by William of Tyre*
+He is mentioned twice in William of Tyre's *Historia* - once in the list of the departing nobles ([28], page 95) and once during the account of the siege of Nicaea. He is killed by an arrow during the second assault of the castle walls ([28], page 158).
 
 He is briefly succeeded by his two sons who die without children. The title is then inherited by his sister, which effectively ends the first house of Forez ([25], page 487).
 
@@ -469,6 +469,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [24] Le canzoni di Eustache le Peintre / Maria Luisa Gambini, 1997
 
 [27] Chronique d'Ernoul / Ernoul, Bernard le Trésorier, 1871 edition of the XIIIth century manuscript
+
+[28] A History of Deeds Done Beyond the Sea / William of Tyre, 1943 edition of the XIIth century manuscript
 
 # Modern Sources
 
