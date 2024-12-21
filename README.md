@@ -468,7 +468,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 [24] Le canzoni di Eustache le Peintre / Maria Luisa Gambini, 1997
 
-[27] Chronique d'Ernoul / Ernoul, Bernard le Trésorier, 1871 edition of the 
+[27] Chronique d'Ernoul / Ernoul, Bernard le Trésorier, 1871 edition of the XIIIth century manuscript
 
 # Modern Sources
 
