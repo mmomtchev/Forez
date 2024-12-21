@@ -74,7 +74,7 @@ Willelme sets on the First Crusade under the leadership of Count Raymond of Toul
 
 He is mentioned twice in William of Tyre's *Historia* - once in the list of the departing nobles ([28], page 95) and once during the account of the siege of Nicaea. He is killed by an arrow during the second assault of the castle walls ([28], page 158).
 
-He is briefly succeeded by his two sons who die without children. The title is then inherited by his sister, which effectively ends the first house of Forez ([25], page 487).
+He is briefly succeeded by his two sons who die without children. The title is then inherited by his sister, which effectively ends the first house of Forez ([28], page 487).
 
 ### Count Guigues (Guy) III *Branda* of Forez and Lyon
 
