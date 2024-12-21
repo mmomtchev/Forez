@@ -236,7 +236,7 @@ When it comes to the exact dates of arrival and departure of Richard of Corwnall
 
 Matthew Paris in his Chronica Majora confirms that Richard of Corwnwall arrived after Thibault had left but gives Michaelmas Day 1240 as his date of arrive - this would be September 29 ([21], page 308). He also states that he leaves from the Holy Land on the Festival of the Finding of the Holy Cross - August 18 - and he arrives in Trapani, Sicily on Saint John the Baptist day - September 8 ([21], page 366). This interesting as it gives another, real, estimation of the sea travel times of the era.
 
-The reason for the huge disrepancy between Rothelin and Chronica Majora are not very clear.
+The reason for the huge disrepancy between Rothelin and Chronica Majora are not very clear. Chronica Majora is quite inconsistent when it comes to the death of the Pope - it is mentioned as a separate, later, event than the negoatiations between him and Richard of Corwnwell ([21], page 382). The date that appears is the one known to modern scholars - August 22 1241. This means that Earl Richard probably traveled earlier, because of the two events, the date of the Pope's death is certainly the more reliable one.
 
 The last crusaders to leave from Ascalon - and the Holy Land - were Duke Hugues IV of Burgundy and Earl Richard of Cornwall.
 
