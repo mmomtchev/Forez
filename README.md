@@ -66,7 +66,7 @@ This paper uses a number of additional documents that were not available to them
 
 De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person ([4], page 106).
 
-He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's sister and Guy I of Forez's grand-mother.
+He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's sister and Guy I of Forez's mother.
 
 He marries Vandelmonde of Beaujeu and has two sons.
 
