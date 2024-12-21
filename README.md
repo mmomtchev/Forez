@@ -78,7 +78,7 @@ He is briefly succeeded by his two sons who die without children. The title is t
 
 ### Count Guigues (Guy) III *Branda* of Forez and Lyon
 
-**1152 - 1203**
+**1152 - 1202**
 
 Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance.
 
@@ -433,6 +433,10 @@ In theory, there can be as much as 10 months - but as little as simply the sea t
 Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. Also, Apulia was used as a point of departure to Palestine during the Fourth Crusade.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
+
+# Lineage
+
+![Lineage](https://raw.githubusercontent.com/mmomtchev/Forez/refs/heads/main/Forez-Lineage.svg)
 
 # Conclusion
 
