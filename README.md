@@ -114,7 +114,7 @@ Jean-Marie de la Mure cites November 28 1202 as date of his death ([4], page 186
 
 He is not mentioned at all in Eracles or the Rothelin manuscript which is consistent with him dying shortly after his arrival.
 
-He is also mentioned in Chronique d'Ernoul as having died almost immediately after disembarking in Acre ([26], page 340).
+He is also mentioned in Chronique d'Ernoul as having died almost immediately after disembarking in Acre ([27], page 340).
 
 [25] states that he died while traveling - citing Villehardouin's chronicles ([25], page 493). This is not very accurate as Villehardouin's chronicles do not contain any information about the military campaign to the Holy Land after their departure from Marseille.
 
