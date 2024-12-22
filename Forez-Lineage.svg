@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.4142136"
-     inkscape:cx="339.0577"
-     inkscape:cy="504.87424"
+     inkscape:cx="350.3714"
+     inkscape:cy="186.67619"
      inkscape:window-width="1392"
      inkscape:window-height="803"
      inkscape:window-x="0"
@@ -492,7 +492,8 @@
        fill="#cfe2f3"
        d="m 245.5,26 h 113.38582 v 75.59055 H 245.5 Z"
        fill-rule="evenodd"
-       id="path3-8" /><path
+       id="path3-8"
+       style="fill:#ffffff" /><path
        stroke="#000000"
        stroke-width="1"
        stroke-linejoin="round"
@@ -503,12 +504,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
        x="250.50443"
-       y="43.236748"
+       y="69.428085"
        id="text1-4"><tspan
          sodipodi:role="line"
          id="tspan1-0"
          x="250.50443"
-         y="43.236748">Vandelmonde</tspan></text><path
+         y="69.428085">Vandelmonde</tspan></text><path
        fill="#cfe2f3"
        d="m 436.5,27 h 113.38582 v 75.59055 H 436.5 Z"
        fill-rule="evenodd"
