@@ -178,17 +178,15 @@ Clearly, Count Guy IV of Forez is the most likely candidate to be the one that t
 
 He takes part in the organization of the Barons Crusade and it is eager to follow the steps of his father who he barely knew. However there might have been other, more Earthly reasons for his decision. As was the case for many crusader knights, the privileges of the special legal status that they enjoyed also played a major role. Some sources mention a possible - and very serious - sentence of excommunication for harboring heretics ([2], page 726, [3], page 416, to check!!!). Other sources cite large debts, for which a crusader did not have to pay interest ([3], page 546). The debt theory is further corroborated by administrative acts mentioned by de la Mure ([4], page 246). There are however no traces of any sentence of excommunication in the original sources.
 
-#### Death according to de la Mure
-
 According to Jean-Marie de la Mure, he dies on August 10 1239. In his chronicles from 1675, de la Mure asserts that Guy IV never had the chance to depart on the Crusade, as he died shortly before its departure. On the other side, in the 1860 revised edition of his manuscript, this most likely wrong statement is attributed to an administrative act - the execution of his will - dated May 8 1240.
 
-The presence of another will, dated August 10 1241 - the same date, but two years later - suggests that his is simply an error. August 10 1241 is also the date inscribed on his tomb in the Montbrison church. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that Guy IV was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
+There are factual documents - from "Trésor des Chartes du Roi" - which dispute him claims of Guy IV dying right before the crusade.
 
-All this means that Guy IV did depart on the Barons Crusade and died on its way back.
+The presence of another will, dated August 10 1241 - the same date, but two years later - suggests that his is simply an error. The authors of the 1860 edition also cite a number of administrative acts from another archive - "Trésor des Chartes du Roi" - which contain a number of financial transactions made by his wife - and which indicate that Guy IV was absent during this period. The first mention of his death is in 1241 and the first administrative acts of Guy V are from 1242. ([4], pages 239-241).
 
 This theory is also confirmed by another independent source - the Eracles chronicles. Book 33, chapter 44 mentions that a new great crusade had departed from France and was awaited in the Holy Land and proceeds to enumerate the knights taking part: *"The count of Forez who was count of Nevers in right of his wife"*. [3]. Janet Shirley identifies this count as Guigues V, count of Forez (1203-1241) and Nevers (1239-1241) - and this is clearly Guigues IV according to this paper's numbering.
 
-It is very likely that de la Mure concluded himself that Guigues never left on the crusade according to the erroneous year of death - 1239. He must have proceeded to write an account, which currently seems to be completely fictitious, of his son, Guigues V, joining the crusade at a later date (see the detailed discussion below).
+It is very likely that de la Mure concluded himself that Guigues never left on the crusade according to the erroneous year of death - 1239. De la Mure's work was written about 400 years after the events of the Barons Crusade. The main source of his work was the church and the administrative records - which are currently part of the French national archives and - certainly - orally transmitted tales. There were no written records about what happened in the East that were available to him. This can explain the fact that otherwise real events that happened during the Seventh Crusade are misattrbuted to the Barons Crusade. He must have proceeded to write an account, which currently seems to be completely fictitious, of his son, Guigues V, joining the crusade at a later date.
 
 #### Departing from France
 
@@ -326,8 +324,6 @@ He must be 18 to 20 years old at the time of his father death.
 
 After the death of Guy IV of Forez, Princess Mahault of Courtenay retired from secular life and spent the rest of her days at the Fontevraud Abbey as a nun. She died there in 1257. She had a son, who died very young without marrying and a daughter from her first marriage - Agnes of Donzy - who died at the age of 24. She passed her title to Mahault of Borbon-Dampierre - her great grand-daughter ([11], page 205). **Thus, the title Count of Nevers left the Forez family and the only Forez to ever hold it was Guy IV, by right of his marriage with his third wife.**
 
-#### Illness in Apulia according to de la Mure
-
 According to Jean-Marie de la Mure, the one to fall sick in Apulia is Guy V and not Guy IV - and he does die from it, he returns in Europe alive. Still, while sick, he writes his will - this the will from 1241 that is subject to much controversy when it comes to its author - Guy IV or Guy V. However according to the 1860 edition, this will is actually written by Guy IV ([4], page 245).
 
 According to de la Mure Guy V returns to Europe in 1242 ([4], page 246).
@@ -383,26 +379,6 @@ Both military campaigns are not very successful - despite the fact that the crus
 The relations very between Tzar Ivan Asen II and Pope Gregory IX during the buildup to the Barons Crusade are very complex and unstable. It shall only be noted that if Emperor Frederick II was Christianity worst heretic for the Pope, then Tzar Ivan Asen II was a close second. The Bulgarians had translated the Holy Bible, were preaching in Old Slavonic, and were using their newly created Cyrillic alphabet to write it down. They had incorporated many pagan traditions and beliefs into their new form of Christianity and were also the birthplace of Christinity's most dangerous heresy - Bogomilism. The Pope considered excommuncating him, but this act would have remained largely symbolical, since Ivan Asen II was not in a communion with the Pope. In theory, the head of Christian Orthodoxy was the Patriarch in Constantinople, however the Bulgarian Orthodox Church was autocephalic since 919. Thus, no one really was in position to excommunicate the Bulgarian Tzar. The very idea of a national autocephalic church was another very dangerous idea for the Pope.
 
 The shared conflict between the two monarchs with the Pope made them natural allies. This conflict was largely ideological - something very unusual for conflicts between Christians during this era - these tended to be mostly about titles, lands and inheritance. There were talks of an alliance between the two during the years preceding the crusade. But unlike Emperor Frederick II, Tzar Ivan Asen II was much more willing to make concessions and to mend his relations with the Pope - and allowing the crusader army safe passage was certainly part of this policy.
-
-## Identity of the knight who left on the Barons Crusade
-
-### Guy V (aka de la Mure's version)
-
-It is very difficult to imagine de la Mure, priest in the church of Montbrison, built by Guy IV, being mistaken on the identity of the knight who went on a crusade - between Guy IV and his son Guy V.
-
-Still, every other source is either influenced by him or states the contrary.
-
-There seems to be a particularly enduring confusion, starting with him, between Guy IV and Guy V.
-
-There are factual documents - from "Trésor des Chartes du Roi" - which dispute him claims of Guy IV dying right before the crusade.
-
-The fact that most crusader sources refer to Guy as a count of Forez and Nevers - or sometimes exclusively as count of Nevers - is particularly important as Guy V was never count of Nevers.
-
-De la Mure's work was written about 400 years after the events of the Barons Crusade. The main source of his work was the church and the administrative records - which are currently part of the French national archives and - certainly - orally transmitted tales. There were no written records about what happened in the East that were available to him. This can explain the fact that otherwise real events that happened during the Seventh Crusade are misattrbuted to the Barons Crusade.
-
-### Guy IV (most modern sources' version)
-
-If one eliminates de la Mure's account of the Barons Crusade - as well as all other sources influenced by him - than the result is unanimous without any conflicts.
 
 ## The village of Kondofrey
 
