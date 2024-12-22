@@ -50,11 +50,11 @@ The Barons' Crusade itself contains a very precise record of army travel times b
 
 The counts of Forez were one of the most active crusading families of the Middle Ages. They took part in the First Crusade, the Fourth Crusade, the Barons Crusade and the Seventh Crusade.
 
-Two successive houses held the County of Forez - a first one, the house of Forez from Lyon - which held it until 1107 - and a second one - the house of Ablon from Grenoble and Grésivaudan. The house of Ablon inherits Forez through a marriage between Guigues-Raymond of Ablon and Ide of Forez in 1085. This new lineage is sometimes considered to be a cadet branch of the house of Ablon and can be named either Ablon-Forez or simply Forez - but it remains a distinct Forez from the previous one.
+Two successive houses held the County of Forez - a first one, the house of Forez from Lyon - which held it until 1107 - and a second one - the house of Albon from Grenoble and Grésivaudan. The house of Albon inherits Forez through a marriage between Guigues-Raymond of Albon and Ide of Forez in 1085. This new lineage is sometimes considered to be a cadet branch of the house of Albon and can be named either Albon-Forez or simply Forez - but it remains a distinct Forez from the previous one.
 
 The coat of arms of the first house of Forez - Forez from Lyon - is a black lion on a golden shield ([4], page 74).
 
-The coat of arms of Ablon-Forez is a golden dolphin on a red shield ([4], page 207).
+The coat of arms of Albon-Forez is a golden dolphin on a red shield ([4], page 207).
 
 In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675.
 
