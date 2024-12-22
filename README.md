@@ -66,6 +66,10 @@ This paper uses a number of additional documents that were not available to them
 
 De la Mure's account of Willelme is particularly confusing. According to the 1675 edition, there are two successive counts, Gillin (Vuildelin) and Willelme, but the authors of the 1860 conclude that this must be the same person ([4], page 106).
 
+He inherits the title from his father, Artaud V in 1085 ([25], page 487).
+
+*!! check the donations to the Montbrison hospital founded by him, these might be the oldest documents from Forez*
+
 He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's sister and Guy I of Forez's mother.
 
 He marries Vandelmonde of Beaujeu and has two sons.
@@ -117,6 +121,8 @@ He is not mentioned at all in Eracles or the Rothelin manuscript which is consis
 He is also mentioned in Chronique d'Ernoul as having died almost immediately after disembarking in Acre ([27], page 340).
 
 [25] states that he died while traveling - citing Villehardouin's chronicles ([25], page 493). This is not very accurate as Villehardouin's chronicles do not contain any information about the military campaign to the Holy Land after their departure from Marseille.
+
+Although many modern source emit doubts about him dying in 1203 - during the outbreak of plague - or even 1204, all the primary sources agree that he died almost immediately after arriving.
 
 ### Count Guigues (Guy) IV of Forez and Nevers (after 1226)
 
