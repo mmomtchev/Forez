@@ -60,7 +60,7 @@ There are two previous studies of the Forez family - the first one is the chroni
 
 This paper uses a number of additional documents that were not available to them - [2], [3], [7], [21] and [22].
 
-### Count Willelme (Gillin / Vuidelin / Guillaume) III of Lyon and Forez, nicknamed Willelme the Old
+### Count Willelme (Gillin / Vuidelin / Guillaume) III of Lyon and Forez, nicknamed Willelme the Old (Guillaume l'Ancien)
 
 **10?? - 1097**
 
@@ -68,19 +68,27 @@ De la Mure's account of Willelme is particularly confusing. According to the 167
 
 He inherits the title from his father, Artaud V in 1085 ([25], page 487).
 
-*!! check the donations to the Montbrison hospital founded by him, these might be the oldest documents from Forez*
+#### Family
+
+He marries Vandelmonde of Beaujeu and has two sons - Guillaume and Eustache.
+
+He is briefly succeeded by his two sons who die without children. The title is then inherited by his sister, which effectively ends the first house of Forez ([28], page 487).
+
+#### Montbrison hospital
+
+He founds one of the first hospitals in France in 1090 with 15 beds. Guy IV moves it next to the Notre-Dame-d'Espérance church which is still being constructed in 1220. This building is still preserved in Montbrison.
+
+*!!check the hospital for his coat of arms!!*
+
+#### First Crusade
 
 He is one of the leaders of the First Crusade of Godfrey of Bouillon. He is a member of the first house. The other three successive crusading knights descend from him on their maternal side through Ide of Forez. Ide of Forez is Willelme's sister and Guy I of Forez's mother.
-
-He marries Vandelmonde of Beaujeu and has two sons.
 
 Willelme sets on the First Crusade under the leadership of Count Raymond of Toulouse ([25], page 487). On their way to the Holy Land, the group led by Godfrey of Bouillon crosses the Balkans on foot. The route they take is Belgrade - Nish - Sardica (Sofia) - Philippopolis (Plovdiv) - Adrianople (Edirne) which takes them if not right through Kondofrey, then at least very close. The ill-fated People's Crusade led by Peter the Hermit precedes the main professional army. There are lots of incidents and small engagements with the locals along the route. Generally, the passing of the professional army is much smoother - both because the soldiers tend to be more disciplined and because by the time they pass, most government officials have already understood that special preparations must be made for the passing of an army of this magnitude - even if it is friendly. However the group led by Raymond of Toulouse chooses a different route and crosses the Adriatic into modern day Albania before continuing to Thessaloniki [26]. Most of the next crusaders will travel by sea. At this time the Tzardom of Bulgaria is part of the Byzantine Empire. He is killed during the siege of Nicaea in 1097 ([25], page 487).
 
 He is mentioned twice in William of Tyre's *Historia* - once in the list of the departing nobles ([28], page 95) and once during the account of the siege of Nicaea. He is mortally wounded by an arrow during the second assault of the castle walls ([28], page 158).
 
-He is briefly succeeded by his two sons who die without children. The title is then inherited by his sister, which effectively ends the first house of Forez ([28], page 487).
-
-### Count Guigues (Guy) III *Branda* / *d'Outremer* of Forez and Lyon
+### Count Guigues (Guy) III *d'Outremer* / *Branda* of Forez and Lyon
 
 **1152 - 1202**
 
