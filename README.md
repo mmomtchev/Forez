@@ -418,11 +418,13 @@ The only one to have died from illness while traveling was Guy IV. Guy III died 
 
 ### Count Willelme III of Forez during the First Crusade
 
-Count Willelme III is, at least in theory, a possible candidate since parts of the First Crusade pass - if not right through Kondofrey - at least very close. Also Kondofrey sits at the route between Sardica (Sofia) and Thessaloniki - where two different groups of the crusade pass. Still, his biography does not match the legend at all - and will require lots of modifications to his currently accepted biography.
+Count Willelme III is, at least in theory, a possible candidate since parts of the First Crusade pass - if not right through Kondofrey - at least very close. Also Kondofrey sits at the route between Sardica (Sofia) and Thessaloniki - where two different groups of the crusade pass. His biography does not match the legend at all, but a legend is not a very reliable source of information.
+
+The relations between the local authorities - the Byzantine Empire - and the crusaders during the First Crusade can only be defined as shaky. As initially, no one expected them to succeed in their endeavour, they did not receive any significant help from the very empire they had come to help. Their religious zeal - which resulted the razing of a number of villages accused of being heretical - did not help either. At one point, two of the army groups - the one led by Gofrey of Bouillon and the one led by Renauld of Toulouse - sought to establish a line of communication. One of the options they considered was waging war on the Byzantine emperor himself. The emperor had sent them escorts - whose missions was both to ensure that their passage happened smoothly - and to keep an eye on them. Their messengers were promptly intercepted by the Byzantines and dealt with (*!!find the reference in the First Crusade*). Such an attempt could explain why a crusader unit might have traveled from Serdica to Thessaloniki. Still, given the extreme distrust of the local authorities, it is unlikely that this could have resulted in the naming of a local place.
 
 ### Count Guy IV of Forez during the Barons' Crusade
 
-Clearly, Count Guy IV of Forez is the most probable Forez who can be linked to Kondofrey. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. However his most likely route does not pass through Bulgaria.
+Clearly, Count Guy IV of Forez is the most probable Forez who can be linked to Kondofrey. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. The Barons' Crusade is the only crusade during which the crusaders were considered a military ally by the local authorities - which would have been Tzar Ivan Asen II. However his most likely route does not pass through Bulgaria.
 
 From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
 
@@ -434,7 +436,9 @@ The choice of staying in Apulia also appears puzzling - Sicily should have been 
 
 In theory, there can be as much as 10 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
-Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. Also, Apulia was used as a point of departure to Palestine during the Fourth Crusade.
+Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. 
+
+Apulia was used as a point of departure to Palestine during the Fourth Crusade. And while Sicily is definitely the better choice for a transit to France, the ports of Apulia are much easier to reach when coming from the Holy Land for a ship not equipped with a compass - which was a rare novely at this time.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
 
