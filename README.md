@@ -354,11 +354,13 @@ What is also interesting is that a similar event is described by Matthew Paris i
 
 #### Maimed
 
-He loses a leg during a battle at Damietta in 1249 or 1250 and is captured by the Saracens. He is ransomed and has to return to Europe ([4], page 250 and [25], page 495).
+He suffers a serious leg injury ([4], page 250 and [25] page 495) shortly shortly after the unopposed capture of Damietta in Egypt during the very first weeks of the crusade ([3], Eracles, book 34, chapter 1, 1248-1250 and [29], chapter 35).
 
-This statement is somewhat dubious since Damietta surrendered without a fight according to Eracles ([3], Eracles, book 34, chapter 1, 1248-1250).
+As the army is preparing to cross the Nile river, they are attacked by the Saracens. Count Guy V of Forez is a cavalry leader in the group of Count Charles I of Anjou, future king of Sicily. He leads a cavalry charge when he is unhorsed. He has to be carried back to the camp by the other knights ([29], chapter 42). Damietta is captured on June 4 1249, this incident happens a few weeks later.
 
-*!!check Joinville chronicles, he must be mentioned*
+Unable to recover, he is forced to return immediately to France.
+
+His return trip to France is not documented.
 
 #### Marriage
 
@@ -469,6 +471,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [27] Chronique d'Ernoul / Ernoul, Bernard le Trésorier, 1871 edition of the XIIIth century manuscript
 
 [28] A History of Deeds Done Beyond the Sea / William of Tyre, 1943 edition of the XIIth century manuscript
+
+[29] Histoire de saint Louis / Jean de Joinville, 1868 translation of the XIIIth century manuscript
 
 # Modern Sources
 
