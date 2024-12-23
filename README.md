@@ -192,7 +192,7 @@ Clearly, Count Guy IV of Forez is the most likely candidate to be the one that t
 
 #### The Barons Crusade
 
-He takes part in the organization of the Barons Crusade and it is eager to follow the steps of his father who he barely knew. However there might have been other, more Earthly reasons for his decision. As was the case for many crusader knights, the privileges of the special legal status that they enjoyed also played a major role. Some sources mention a possible - and very serious - sentence of excommunication for harboring heretics ([2], page 726, [3], page 416, to check!!!). Other sources cite large debts, for which a crusader did not have to pay interest ([3], page 546). The debt theory is further corroborated by administrative acts mentioned by de la Mure ([4], page 246). There are however no traces of any sentence of excommunication in the original sources.
+He takes part in the organization of the Barons Crusade and it is eager to follow the steps of his father who he barely knew. However there might have been other, more Earthly reasons for his decision. As was the case for many crusader knights, the privileges of the special legal status that they enjoyed also played a major role. Some sources mention a possible - and very serious - sentence of excommunication for harboring heretics ([2], page 726, [3], page 416). Other sources cite large debts, for which a crusader did not have to pay interest ([3], page 546). The debt theory is further corroborated by administrative acts mentioned by de la Mure ([4], page 246). There are however no traces of any sentence of excommunication in the original sources.
 
 According to Jean-Marie de la Mure, he dies on August 10 1239. In his chronicles from 1675, de la Mure asserts that Guy IV never had the chance to depart on the Crusade, as he died shortly before its departure. On the other side, in the 1860 revised edition of his manuscript, this most likely wrong statement is attributed to an administrative act - the execution of his will - dated May 8 1240.
 
@@ -230,7 +230,7 @@ All of these sources confirm the expected conflict between Guy of Forez and Thib
 
 This can also be interpreted as another sign that this must be in fact the old Forez - Guy IV. It is difficult to imagine a 19-year old count successfully challenging the military command of a king. Thibault IV was selected as a military leader of the crusade because he was the only knight holding a king-level title ([10], page 312) - being also king of Navarre. History remembers him as a great poet, but both his military campaigns ended in disaster. Still, challenging his leadership would have been possible only for a very experienced military commander.
 
-[11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which seems to be a work of fiction and not mentioned in any examined primary sources.
+[11], page 166 contains an account of Guy of Forez being taken prisoner and then ransomed in 1240, which seems to be a work of fiction and not mentioned in any examined primary sources. Or, it may be influenced by a similar event during Guy V life during the Seventh Crusade ([25], page 495) which also appears to be fictious - see the section the Seventh Crusade.
 
 #### Supervising the construction of the Ascalon fortress
 
@@ -264,7 +264,11 @@ This mean that Guy IV of Forez departed after September 1240 but could have left
 
 #### Guy of Acre
 
-De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land, he traveled back to France with him. De la Mure mentions him - once during the Barons Crusade and once during the Seventh Crusade. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250). The will of Guy IV mentions a certain Guillaume of Brienne, who existed but died in 1200 ([14], page 1241 10 août). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). The most likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. However this is based on circumstantial evidence - which is the similarity of the background of Alfonso of Brienne to Guy of Acre and the fact that no other person has been identified as Guy of Acre. There are no mentions of Guy of Acre in the currently preserved part of the will - however this document was complete and well preserved at the time of de la Mure's writing.
+De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land, he traveled back to France with him. De la Mure mentions him twice - once as being adopted during the Barons Crusade and once as being adopted during the Seventh Crusade. The second account is certainly wrong as Guy V never sets foot in Acre. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250).
+
+The will of Guy IV mentions a certain Guillaume of Brienne, who existed but died in 1200 ([14], page 1241 10 août). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). One likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso.
+
+There are no mentions of Guy of Acre in the currently preserved part of the will - however this document was complete and well preserved at the time of de la Mure's writing. Was he mentioned in the currently missing last part of his will? Or did de la Mure make an error? Why or who is Guillaume of Brienne mentioned in the will? There are only speculations.
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
@@ -358,6 +362,8 @@ He suffers a serious leg injury ([4], page 250 and [25] page 495) shortly shortl
 
 As the army is preparing to cross the Nile river, they are attacked by the Saracens. Count Guy V of Forez is a cavalry leader in the group of Count Charles I of Anjou, future king of Sicily. He leads a cavalry charge when he is unhorsed. He has to be carried back to the camp by the other knights ([29], chapter 42). Damietta is captured on June 4 1249, this incident happens a few weeks later.
 
+The account of him being taken prisoner and later ransomed ([25], page 495) is not corroborated by the Joinville chronicles ([29]).
+
 Unable to recover, he is forced to return immediately to France.
 
 His return trip to France is not documented.
@@ -437,6 +443,10 @@ Of course, there might be alternative explanations - maybe Guy IV of Forez was a
 Apulia was used as a point of departure to Palestine during the Fourth Crusade. And while Sicily is definitely the better choice for a transit to France, the ports of Apulia are much easier to reach when coming from the Holy Land for a ship not equipped with a compass - which was a rare novely at this time.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
+
+### Guy of Acre
+
+While Guy of Acre might also appear to be a very good candidate - since he is the only Forez who remains unaccounted for - his identity or even his very existence is a subject of debate. His nobility rank is also not very clear. He does not appear in any primary sources - he is mentioned only by de la Mure. Even if he is assumed to exist, it still appears very unlikely that he separated from Guy IV and traveled on his own to Bulgaria. 
 
 # Lineage
 
