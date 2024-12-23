@@ -358,9 +358,11 @@ According to de la Mure, he leaves for the Seventh Crusade in 1248 led by the Fr
 
 What is also interesting is that a similar event is described by Matthew Paris in his Chronica Majora - but it happens during the Barons' Crusade. It is not clear if this is the real reason for de la Mure's confusion.
 
+King Louis IX of France leaves from France on August 25 1248 and arrives in Cyprus on September 17 1248 - a total sailing time of 22 days. They winter in Cyprus and do not leave for Egypt until May 13 1249.
+
 #### Maimed
 
-He suffers a serious leg injury ([4], page 250 and [25] page 495) shortly shortly after the unopposed capture of Damietta in Egypt during the very first weeks of the crusade ([3], Eracles, book 34, chapter 1, 1248-1250 and [29], chapter 35).
+Guy V suffers a serious leg injury ([4], page 250 and [25] page 495) shortly shortly after the unopposed capture of Damietta in Egypt during the very first weeks of the crusade ([3], Eracles, book 34, chapter 1, 1248-1250 and [29], chapter 35).
 
 As the army is preparing to cross the Nile river, they are attacked by the Saracens. Count Guy V of Forez is a cavalry leader in the group of Count Charles I of Anjou, future king of Sicily. He leads a cavalry charge when he is unhorsed. He has to be carried back to the camp by the other knights ([29], chapter 42). Damietta is captured on June 4 1249, this incident happens a few weeks later.
 
