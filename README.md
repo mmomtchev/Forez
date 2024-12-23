@@ -104,7 +104,7 @@ Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the la
 
 #### First marriage to Asiuraa
 
-His first marriage ends with a divorce for unknown reasons. Although the primary sources are not very clear, Eléonor of Forez is certainly born out of this marriage ([25], page 493) because her grandson is at the center of a inheritance dispute with Guy V of Forez (*!!find the archive document*).
+His first marriage ends with a divorce for unknown reasons. Although the primary sources are not very clear, Eléonor of Forez is certainly born out of this marriage ([25], page 493) because her son - Guillaume of Baffie is at the center of a inheritance dispute with Guy V of Forez ([4], page 245). He challenges the legality of the divorce between Guy III and Asiuraa, claiming that Eléonor is the only legitimate successor of Guy III. The king decides that Guillaume of Baffie is to renounce his claims on the County of Forez and he is to receive the castles of Pressieu, Jullieu, Villedieu and Cromels. This is certainly the same Guillaume of Pressieu mentioned in [15].
 
 #### Second marriage to Alix (Alice) of Suilly
 
@@ -292,7 +292,7 @@ This confirms his previous will of 1239, just before setting on the crusade, tha
 
 The master of the Templars is certainly Armand of Périgord. Analyzing the authenticity of the relic is beyond the scope of this article, but it is certainly debatable. The relic that the Knights Templar called the *True Cross* is one of Christianity's most precious and most controversial relics. There are recorded occasions of the Knights Templar gifting splinters to very important crusaders - such as the one gifted to King Sigurd I of Norway in 1110 - all of these happened before the main relic was lost after the Battle of Hattin in 1187. Its whereabouts - or ultimate fate - are still unknown to this date. On the other side, it is entirely possible that the Templars preserved a number of splinters before its loss and that they held Guy of Forez in very high esteem. As the item can be traced back at least to the Knights Templar in Jaffa - and possibly - to the relic carried during the Battle of Montgisard, its authenticiy is definitely far above the average for splinters of the True Cross found throughout Western Europe.
 
-The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [15]. The official notice refers it as having been gifted to the Saint-Thomas convent by a certain Guy of Pressieu - which might be the French word *précieux* (precious) - or it might be related to the castle Pressieu - after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [4] which we discount as being errenous.
+The relic - and its current casing dating from the XIXth century is currently indexed as item IM42002138 in the General Catalogue of the Cultural Legacy of the Auvergne-Rhône-Alpes region in France [15]. The official notice refers it as having been gifted to the Saint-Thomas convent by Guy of Pressieu after being brought during the Seventh Crusade by Guy IV of Forez. The source cited is de la Mure [4] which we discount as being errenous. Guillaume of Pressieu is the title pretender of Guy V - it is unclear how the relic came to be into his possession - or whether this was the case at all.
 
 #### Mention of Frederick II in his will
 
