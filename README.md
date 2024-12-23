@@ -56,13 +56,15 @@ The coat of arms of the first house of Forez - Forez from Lyon - is a black lion
 
 The coat of arms of Albon-Forez is a golden dolphin on a red shield ([4], page 207).
 
-In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675.
+In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675 and *L'art de vérifier les dates...* ([25]), a major and widely cited work from the 18th century.
 
 Also, it is worth noting that another source of confusion stems from the fact that the most notable Forez - Count Guy IV of Forez and Nevers - was count of both Forez and Nevers - and is referred as count of Nevers in most crusaders sources. Nevers is a different - and also very prominent - crusading family.
 
-There are two previous studies of the Forez family - the first one is the chronicles of Jean-Marie de la Mure from 1675, republished with annotated corrections in 1830 [4] and the second one is *L’Art de vérifier les dates* from 1784 by Benedictine monks [26]. De la Mure did not have access to any crusader chronicles while the Benedictines cite the Villehardouin - Fourth Crusade - and Joinville - Seventh Crusade - chronicles. Both works contain a significant number of mistakes, omissions or confusions between the successive counts named Guigues.
+There are two previous studies of the Forez family - the first one is the chronicles of Jean-Marie de la Mure from 1675, republished with annotated corrections in 1830 [4] and the second one is *L’Art de vérifier les dates...* from 1784 by Benedictine monks [25]. De la Mure did not have access to any crusader chronicles while the Benedictines cite the Villehardouin - Fourth Crusade - and Joinville - Seventh Crusade - chronicles. Both works contain a significant number of mistakes, omissions or confusions between the successive counts named Guigues.
 
-This paper uses a number of additional documents that were not available to them - [2], [3], [7], [21] and [22].
+**This paper tries to stick to the numbering scheme used in Forez's own family church.**
+
+This paper uses a number of additional documents that were not available to them - [2], [3], [7], [21], [22], [27], [28] and [29].
 
 ### Count Willelme (Gillin / Vuidelin / Guillaume) III of Lyon and Forez, nicknamed Willelme the Old (Guillaume l'Ancien)
 
@@ -318,7 +320,7 @@ The beginning of his will reads:
 
 *In the name of the holy and individual Trinity, I, Guido, count of Nevers and Forez, in my good and sound memory, made my will in the year of our Lord one thousand two hundred and forty one, in the month of August on the feast of Saint Lawrence (August 10), in the city called Castellanetum, in the land of Apulia, when I lay on my dying bed, in the presence of Father Guillaume of Vichy, my chaplain, and Father Guillaume of Dijon, his companion, of the order of Friars Minor (the Franciscans), Stephan, my clerk, Lord Hugues of Cicune, knight, Bernard, my comrade, Renaldo Pantino, my master servant.*
 
-The will is dated August 10 1241. The official date of his death, as it appears on the sarcophagus in the church of Monbtrison, is October 29 1241. It is not clear whether this is the actual date of his death or it is the date when his coffin reached back to Montbrison ([14], page 1241, 10 août).
+The will is dated August 10 1241. The official date of his death, as it appears on the sarcophagus in the church of Monbtrison, is October 29 1241. It is not clear what this date means - whether it is the actual date of his death, the date his coffin reaches Montbrison, or something else ([14], page 1241, 10 août).
 
 The original document from 1241 is not well preserved and some parts of it are missing. One can find a partial transcription in [12], page 46 and [14], page 1241, 10 août. The extrapolated parts are marked with *[]*.
 
@@ -454,9 +456,9 @@ While Guy of Acre might also appear to be a very good candidate - since he is th
 
 # Conclusion
 
-Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it definitely establishes Guy IV as another very strong potential candidate.
+Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it adds new potential candidates - the most probable of which is Guy IV.
 
-It also clarifies the existing confusion about the numbering scheme for Counts of Forez, by linking mentions in all primary sources to a well-identified member of the Forez family - or discounting them as fictitious with an eventual theory on how this mistake was made in the first place.
+It also clarifies the existing confusion about the numbering scheme for Counts of Forez, by linking mentions in all primary sources to a well-identified member of the Forez family - or discounting them as fictitious.
 
 # Primary Sources
 
