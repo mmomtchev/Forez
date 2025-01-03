@@ -372,6 +372,8 @@ What is also interesting is that a similar event is described by Matthew Paris i
 
 King Louis IX of France leaves from France on August 25 1248 and arrives in Cyprus on September 17 1248 - a total sailing time of 22 days. They winter in Cyprus and do not leave for Egypt until May 13 1249.
 
+It is precisely from this voyage that the first known mention in Europe of scurvy has been preserved ([29], chapter 60). There are very few routes in the Mediterranean which are long enough for scurvy to develop - which is at least 4 weeks without any fresh produce - even when sailing at 4 knots. A direct crossing from Marseille to Cyprus, without resupplying, is one such route. Or this might also have been caused by the army not having access to fresh produce even before embarking on their sea voyage.
+
 #### Maimed
 
 Guy V suffers a serious leg injury ([4], page 250 and [25] page 495) shortly shortly after the unopposed capture of Damietta in Egypt during the very first weeks of the crusade ([3], Eracles, book 34, chapter 1, 1248-1250 and [29], chapter 35).
