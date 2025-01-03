@@ -20,6 +20,14 @@ This paper has two main goals:
 
 * Use this data to try to link one the crusading knights to the village of Kondodrey
 
+## Naming and numbering schemes
+
+As most of the confusion surrounding the Forez family can be attributed to using different numbering schemes, this paper sets a number of rules concerning naming and numbering:
+
+* Use the vulgar name most likely to have been used during the lifetime of the considered individual, giving alternative names, including English translations in parentheses
+* Always translate prepositions (French *de* to English *of*) except when the preposition is important (as for William de Forz) 
+* Use the numbering scheme most likely to have been used at their time - for the Forez family this is the numbering used in their family tomb in the church of Montbrison
+
 ## Overview of the primary sources and methodology
 
 It turns out that the main primary source used by most modern scholars is the seminal work of Jean-Marie de la Mure - a semi-modern work dating from 1675, with a corrected edition from 1860 [4]. It is precisely this text that is the real origin of the confusion between Guy III, Guy IV and Guy V. De la Mure work is based mostly on archival administrative documents - the royal charters - extracted from Trésor des Chartes du Roi - *Thesaurus Chartarum* - the Royal Treasury of Charters - created by King Philippe II Auguste of France in 1204 [12], [14]. Today this collection of documents is part of the French National Archives. When going back beyond this date, the amount of available data is drastically reduced. In particular, there are very few preserved documents from Forez dating before the 1220s.
@@ -451,6 +459,16 @@ In any case, if Kondofre was indeed named after Count of Forez, it would likely 
 ### Guy of Acre
 
 While Guy of Acre might also appear to be a very good candidate - since he is the only Forez who remains unaccounted for - his identity or even his very existence is a subject of debate. His nobility rank is also not very clear. He does not appear in any primary sources - he is mentioned only by de la Mure. Even if he is assumed to exist, it still appears very unlikely that he separated from Guy IV and traveled on his own to Bulgaria. 
+
+### Alternative theories
+
+As none of the Forez knights is the perfect match needed to consider the debate closed, a number of alternative theories should be considered.
+
+* If the name has been mangled phonetically - and the first part *kond* - is indeed indicative of a count level title in a Latin-derived vulgar language - most probably a French dialect - then making an exhaustive list is not a very difficult task. In fact, aside from the French Forez familiy - which is the only perfect phonetic match - the only other very close case would be the English Forz family which was of French origin and kept their French-style naming scheme - *Count William de Forz* instead of *Count William of Forz*. Only one Forz ever set on a crusade - it was Count William de Forz, 3rd Earl of Albermarle during the Barons' Crusade. The very limited amount of official sources on him state that he died at sea on his way there in March 26 1242 but this is not very consistent with the currently available information and might be an error, as by this date all English forces had already returned.
+
+* If the name has been mangled phonetically - and the first part *kond* is simply part of the name - then Kontofre remains the only plausible choice [6].
+
+* If the name has been mangled by (successive) transcription(s) using different alphabets and languages - including Slavonic and Greek - then an exhaustive search becomes a far more challenging task. In this case Godefrey of Bouillon - who is known to have passed through the region - is also worth considering.
 
 # Lineage
 
