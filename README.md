@@ -64,6 +64,10 @@ The coat of arms of the first house of Forez - Forez from Lyon - is a black lion
 
 The coat of arms of Albon-Forez is a golden dolphin on a red shield ([4], page 207).
 
+It is also worth noting that during the time of the First Crusade, Forez was not part of the Kingdom of France - it was part of the Kingdom of Burgundy which was itself part of the Holy Roman Empire. In 1167, Guigues II swore allegiance to the French king and Forez became part of France.
+
+Forez is located right at the border between the *langue d'oil* and *langue *d'oc* language families. The vulgar language spoken by the local population was Franco-Provençal which is part of the *langue d'oil* family - however Occitan may also have been prevalent in the southern parts. The native language of the Forez family themselves is not certain, but it is likely that the first house may have been speaking Franco-Provençal, while the second one - given their origins - may have been speaking Occitan language - *langue d'oc*.
+
 In this paper, we will focus on the crusading knights, and we will try to settle a number of problems and cases of mistaken identity between Guy III, Guy IV and Guy V, all of the second house, who went respectively on the Fourth Crusade, the Barons' Crusade and the Seventh Crusade. Traditionally these have been attributes to problems with the numbering scheme, but it seems that the confusion is centuries old and can be traced back to de la Mure's chronicles from 1675 and *L'art de vérifier les dates...* ([25]), a major and widely cited work from the 18th century.
 
 Also, it is worth noting that another source of confusion stems from the fact that the most notable Forez - Count Guy IV of Forez and Nevers - was count of both Forez and Nevers - and is referred as count of Nevers in most crusaders sources. Nevers is a different - and also very prominent - crusading family.
@@ -104,7 +108,7 @@ He is mentioned twice in William of Tyre's *Historia* - once in the list of the 
 
 **1152 - 1202**
 
-Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance.
+Count Guy III, nicknamed Guigues from Overseas (*Guigues d'Outremer*) was the last Forez to be count of both Forez and Lyon. The county of Lyon was ceded to the church after the Pope intervened to stop his war against his brother, Renaud, the archbishop of Lyon. It was agreed that he was to keep both titles until his death. After this treaty, the Papal bull *Permutatio* of 1173, he began to style himself Count of Forez and Lyon - *Guido Comes Forensis atque Lugdunensis* - instead of Count of Lyon and Forez as his predecessors - marking the shift of importance. Lyon became property of the Catholic church.
 
 #### Nicknamed Brenda or Branda
 
