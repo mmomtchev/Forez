@@ -474,6 +474,8 @@ As none of the Forez knights is the perfect match needed to consider the debate 
 
 * If the name has been mangled by (successive) transcription(s) using different alphabets and languages - including Slavonic and Greek - then an exhaustive search becomes a far more challenging task. In this case Godefrey of Bouillon - who is known to have passed through the region - is also worth considering.
 
+A very strong argument against the *kond* part coming from *comte de* (French for Count of) is that it is unlikely that the Bulgarians did not understand it and did not use their local term *komita*. Any form of communication between the crusaders and the locals must have been in Latin.
+
 # Lineage
 
 ![Lineage](https://raw.githubusercontent.com/mmomtchev/Forez/refs/heads/main/Forez-Lineage.svg)
