@@ -474,7 +474,7 @@ As none of the Forez knights is the perfect match needed to consider the debate 
 
 * If the name has been mangled phonetically - and the first part *kond* is simply part of the name - then Kontofre remains the only plausible choice [6].
 
-* If the name has been mangled by (successive) transcription(s) using different alphabets and languages - including Slavonic and Greek - then an exhaustive search becomes a far more challenging task. In this case Godefrey of Bouillon - who is known to have passed through the region - is also worth considering.
+* If the name has been mangled by (successive) transcription(s) using different alphabets and languages - including Slavonic and Greek - then an exhaustive search becomes a far more challenging task. In this case Godefrey of Bouillon - who is known to have passed through the region - is also worth considering. All the large early crusades crossed the Balkans on foot - the First Crusade, the 1101 Follow-up, the Second and the Third Crusades.
 
 A very strong argument against the *kond* part coming from *comte de* (French for Count of) is that it is unlikely that the Bulgarians did not understand it and did not use their local term *komita*. All crusader leaders were certainly fluent in Latin and the many church officials who traveled with them spoke Latin and Greek. Latin must have been rarer among Bulgarian nobles, but Greek was widely spoken and Bulgarian church officials likely spoke Latin too. It is very likely that any communication between the crusaders forces and locals happened with the priests acting as translators and likely used either Greek or Latin.
 
