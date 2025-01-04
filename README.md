@@ -262,7 +262,7 @@ It shall be noted that all three sources say that Ascalon was fortified the same
 
 In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most other French knights departed in September 1240 ([1], page 175). We also know that at least some French knights were still present on when Richard of Cornwall arrived.
 
-When it comes to the exact dates of arrival and departure of Richard of Corwnall, Janeth Shirley gives October 8 1240 and May 3 1241 ([3], Rothelin, cahpter 26 1240). There are no exact dates in the original manuscript, but this statement can be traced back to [30], page 248.
+When it comes to the exact dates of arrival and departure of Richard of Corwnall, Janeth Shirley gives October 8 1240 and May 3 1241 ([3], Rothelin, cahpter 26 1240). There are no exact dates in the original manuscript, but this statement can be traced back at least to [30], page 248 or maybe another common shared source.
 
 Matthew Paris in his Chronica Majora confirms that Richard of Corwnwall arrived after Thibault had left but gives Michaelmas Day 1240 as his date of arrive - this would be September 29 ([21], page 308). He also states that he leaves from the Holy Land on the Festival of the Finding of the Holy Cross - August 18 - and he arrives in Trapani, Sicily on Saint John the Baptist day - September 8 ([21], page 366). This interesting as it gives another, real, estimation of the sea travel times of the era.
 
@@ -372,7 +372,9 @@ What is also interesting is that a similar event is described by Matthew Paris i
 
 King Louis IX of France leaves from France on August 25 1248 and arrives in Cyprus on September 17 1248 - a total sailing time of 22 days. They winter in Cyprus and do not leave for Egypt until May 13 1249.
 
-It is precisely from this voyage that the first known mention in Europe of scurvy has been preserved ([29], chapter 60). There are very few routes in the Mediterranean which are long enough for scurvy to develop - which is at least 4 weeks without any fresh produce - even when sailing at 4 knots. A direct crossing from Marseille to Cyprus, without resupplying, is one such route. Or this might also have been caused by the army not having access to fresh produce even before embarking on their sea voyage.
+It is precisely from this voyage that the first known mention in Europe of scurvy has been preserved ([29], chapter 60). The crusaders attribute this previously unknown sickness to be a poisoning from an unusual eel they ate shortly before - as the toxicity of bottom-feeding catch was well known at the time.
+
+There are very few routes in the Mediterranean which are long enough for scurvy to develop - which is at least 4 weeks without any fresh produce - even when sailing at 4 knots. A direct crossing from Marseille to Cyprus, without resupplying, is one such route. Or this might also have been caused by the army not having access to fresh produce even before embarking on their sea voyage.
 
 #### Maimed
 
