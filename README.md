@@ -432,7 +432,7 @@ The village appeared in historical records for the first time in the 13th centur
 
 Its name during the Medieval era was Kondofre (*[kondofre]*) [6] - which is as close as a Bulgarian speaker can get to Count of Forez - *Comte de Forez* *[kɔ̃ də fore]* - prompting the current paper.
 
-A Count of Forez took part in three crusades: Willelme duing the First Crusade, Guy III during the Fourth Crusade, Guy IV - during the Barons Crusade and Guy V - during the Seventh Crusade.
+A Count of Forez took part in four crusades: Willelme duing the First Crusade, Guy III during the Fourth Crusade, Guy IV - during the Barons Crusade and Guy V - during the Seventh Crusade.
 
 The only one to have died from illness while traveling was Guy IV. Guy III died next to Jerusalem and it is buried in the church in Acre. Guy V returned to France where he is buried. Guy IV's coffin was famously carried from Italy, which makes him a very probable candidate. Willelme III also passes through the exact region of Kondofrey on his way to the Holy Land, which is also worth noting. He, supposedly, dies in battle during the siege of Nicaea, but this statement cannot be traced back to a primary source.
 
