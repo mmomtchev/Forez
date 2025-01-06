@@ -254,9 +254,11 @@ The construction of a castle in Ascalon was one of the first decisions by the le
 
 According to Eracles ([3], Eracles, chapter 51, 1240), Richard of Cornwall's men built the castle at the request of the Knights Templar in Jaffa. Richard of Cornwall arrived after Thibault IV had already left for Europe.
 
-According to the Rothelin manuscript ([3], Rothelin, chapter 33, 1240), it was the French army who started the work on the castle, with Richard of Cornwall arriving while the construction was still in progress.
+According to the Rothelin manuscript ([3], Rothelin, chapter 33, 1240), it was the French army who started the work on the castle, with Richard of Cornwall arriving while the construction was well in progress.
 
 Gestes des Chiprois ([2], page 123) also attributes the work to Richard of Cornwall.
+
+In Alberic of Trois-Fontaines ([32], page 577), the French forces built the castle in the presence of Richard of Cornwall. In his text, this statement is immediately before the mention of Guy of Forez' death in Apulia.
 
 It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants.
 
@@ -452,19 +454,21 @@ The relations between the local authorities - the Byzantine Empire - and the cru
 
 ### Count Guy IV of Forez during the Barons' Crusade
 
-Clearly, Count Guy IV of Forez is the most probable Forez who can be linked to Kondofrey. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. The Barons' Crusade is the only crusade during which the crusaders were considered a military ally by the local authorities - which would have been Tzar Ivan Asen II. However his most likely route does not pass through Bulgaria.
+Clearly, Count Guy IV of Forez is the most prominent crusader of the Forez family. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. The Barons' Crusade is the only crusade during which the crusaders were considered a military ally by the local authorities - which would have been Tzar Ivan Asen II. However his most likely return route does not pass through Bulgaria and this exact route appears quite certain.
 
-From this point on, only speculation is possible. Is it possible that Guy IV de Forez decided to go back to France through Bulgaria? At this very moment, Bulgaria was friendly to the crusaders, but taking the land route had very few advantages - the most important of which was the cost and Guy IV was financially ruined.
+Although some speculation is still possible, this theory is at best far-fetched.
 
 Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? Or Bulgaria?
 
+There was definitely an information black-out in all pro-Papal sources concerning everything that could be interpreted as an act of goodwill by Frederick II, so if such an event did really happen, it is entirely plausible to assume that it would be absent from those sources.
+
 During the buildup to the crusade, there were negotiations of an eventual alliance between Tzar Ivan Asen II and Emperor Frederick II - talks which failed because of the crusade and the siding of Tzar Ivan Asen II with the crusaders. Could the evolving situation in Italy - with the Pope losing its war - have been the cause for a renewed round of negotiations? Tzar Ivan Asen II also died around this time - in May or June 1241 - leaving his seven years old son with a regency council. His death marks the beginning of a slow decline of the Second Bulgarian Empire from which it will never recover. Bulgaria loses its status as a military super-power in the region - which may explain why the talks failed.
 
-The choice of staying in Apulia also appears puzzling - Sicily should have been the choice for a transit through Italy - and this is where the Emperor's court was also situated. The ports in Apulia were the ports for crossing the Adriatic into Bulgaria.
+The choice of staying in Apulia may appear puzzling - Sicily should have been the choice for a transit through Italy - and this is where the Emperor's court was also situated. The ports in Apulia were the ports for crossing the Adriatic into Bulgaria.
 
 In theory, there can be as much as 10 months - but as little as simply the sea travel time from Acre to Apulia - between his last mention in Jaffa - present in both the Rothelin manuscript and the Eracles chronicles - and his mysterious will that is signed in Apulia. In all cases - if Guy's visit to the HRE had any political or diplomatic objectives - it must have been a failure - since this is the only explanation how it has remained hidden.
 
-Of course, there might be alternative explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. 
+Of course, there are alternative much more simple explanations - maybe Guy IV of Forez was among the last to leave from the Holy Land, maybe he was already too sick, and sailed slowly, making lots of stops before he simply decided to land in the nearest port in Italy - where he was being cared for by the Emperor - thus the personal gift. 
 
 Apulia was used as a point of departure to Palestine during the Fourth Crusade. And while Sicily is definitely the better choice for a transit to France, the ports of Apulia are much easier to reach when coming from the Holy Land for a ship not equipped with a compass - which was a rare novely at this time.
 
@@ -498,7 +502,7 @@ There is only one single pretender for the Forez title during this time period t
 
 # Conclusion
 
-Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it adds new potential candidates - the most probable of which is Guy IV of Forez.
+Although this paper fails to establish a definite link between the name of the village of Kondofrey and the Count of Forez, it adds many new potential candidates - the most probable of which is probably Roger de Flor.
 
 It also clarifies the existing confusion about the numbering scheme for Counts of Forez, by linking mentions in all primary sources to a well-identified member of the Forez family - or discounting them as fictitious.
 
