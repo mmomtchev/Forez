@@ -197,7 +197,7 @@ A song by the 13th century troubadour Eustache Le Peintre - *Amours, coment porr
 
 *Go, oh song, without delay,*
 *to the good count, in whom all honor resides,*
-*who is from Forez and an exemplary lord,*
+*who is an exemplary lord of Forez,*
 *tell him that this song is sung again.*
 
 Clearly, Count Guy IV of Forez is the most likely candidate to be the one that the song refers to. The *again* part indicates that he had already heard this song. Given the customs of the time, he might also have been the one who had it written in the first place.
