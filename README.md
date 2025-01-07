@@ -306,11 +306,13 @@ This mean that Guy IV of Forez departed after September 1240 but could have left
 
 #### Guy of Acre
 
-De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land, he traveled back to France with him. De la Mure mentions him twice - once as being adopted during the Barons Crusade and once as being adopted during the Seventh Crusade. The second account is certainly wrong as Guy V never sets foot in Acre. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250).
+De la Mure mentions the adoption of a certain Guy of Acre, a squire. Born in the Holy Land, he traveled back to France with him. De la Mure mentions him twice - once during the account the Barons' Crusade and once as being adopted during the Seventh Crusade - with an almost identical narrative. The second account is certainly wrong as Guy V never sets foot in Acre - he returns to France almost immediately after suffering an injury. This is a further indication for his confusion between Guy IV and Guy V ([4], page 231 and page 250).
 
-The will of Guy IV mentions a certain Guillaume of Brienne, who existed but died in 1200 ([14], page 1241 10 août). De la Mure, in his account of the Barons Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). One likely explanation is that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso.
+The will of Guy IV mentions a certain Guillaume of Brienne, who existed but died in 1200 ([14], page 1241 10 août). De la Mure, in his account of the Barons' Crusade, that he misattrbutes to Guy V, mentions that immediately after his return from the Holy Land, Guy of Forez granted a domain to Alfonso of Brienne ([4], page 246). Some later texts imply that this event took place during the Barons Crusade and that the adoptive parent is Guy IV who never returned from it, with Guy of Acre being the adoptive name of Alfonso. Another often cited link between the two is that Alix of Chaceney was from the house of Brienne.
 
 There are no mentions of Guy of Acre in the currently preserved part of the will - however this document was complete and well preserved at the time of de la Mure's writing. Was he mentioned in the currently missing last part of his will? Or did de la Mure make an error? Why or who is Guillaume of Brienne mentioned in the will? There are only speculations.
+
+While Alix of Chaceney probably can be linked to Guillaume of Brienne, Guy of Acre is certainly a very real person who is distinct from Alfonoso of Brienne. There is another document in the archives, a decision by the Judge of Forez, dating from September 1286 which defines the legal powers held by *Guillemet d'Acre*. The decision is prompted by a dispute about the custody of a female prisoner and states that Guy of Acre has the right to dispense corporal punishment in his domain, the castle of Magneux - Haute-Rive, but it is not allowed to dispense capital punishment - in which case the accused is to be transferred to the count himself. Guy of Acre is referred as *domicellus* - which is a landowner without a nobility title ([14], page 1286, septembre). This is a further indiciation that it was Guy IV is the only one who could have adopted him - as he would be far too old in 1286 if he was adopted by Guy III in 1201 during the Fourth Crusade.
 
 #### Recipient of a relic, piece of the True Cross from the Knights Templar
 
@@ -471,10 +473,6 @@ Of course, there are alternative much more simple explanations - maybe Guy IV of
 Apulia was used as a point of departure to Palestine during the Fourth Crusade. And while Sicily is definitely the better choice for a transit to France, the ports of Apulia are much easier to reach when coming from the Holy Land for a ship not equipped with a compass - which was a rare novely at this time.
 
 In any case, if Kondofre was indeed named after Count of Forez, it would likely been far more official than a simple case of the locals paying homage to a great foreign knight and military commander. It was much more likely an official royal charter by the Bulgarian Tzar himself to an important military ally - one that was maybe too sick to continue his journey.
-
-### Guy of Acre
-
-While Guy of Acre might also appear to be a very good candidate - since he is the only Forez who remains unaccounted for - his identity or even his very existence is a subject of debate. His nobility rank is also not very clear. He does not appear in any primary sources - he is mentioned only by de la Mure. Even if he is assumed to exist, it still appears very unlikely that he separated from Guy IV and traveled on his own to Bulgaria. 
 
 ### Alternative theories
 
