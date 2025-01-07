@@ -178,11 +178,9 @@ The construction of the church - major landmark of this town - starts in 1223 ([
 
 His third marriage is to Princess Mahault (Matilda) of Courtenay, countess of Nevers. Princess Mahault is 38 years old and this marriage produces one daughter. It is mostly political, as it allows to merge the two counties - Forez and Nevers - creating a very large feudal domain - and making Guy IV one of the most prominent French counts.
 
-According to [11], page 141, Guy IV of Forez would sometimes sign acts as Guy of Nevers (*try to find a more accurate, peer-reviewed reference for this fact than 11*).
-
 #### Personality
 
-The only account of the personality of Guy IV that has reached us comes from the King Louis himself ([11], page 133 *try to find the original source*). It was the King who arranged the marriage between Guy IV and Princess Mahault - because he considered that his blunt and direct personality would make a perfect match for the strong-willed Mahault who had a reputation for being a difficult wife. Mahault, a remarkable woman and a very significant character of her era, was one of the very few women who had taken part in a crusade herself - she had been in the Holy Land as part of the Fifth Crusade. The blessing of the King was very important, since this marriage between two powerful nobles had significant implications for the power status-quo in France, creating a new very powerful count. This description of Guy IV's personality is consistent with that of a military commander and not a court player or a diplomat.
+The account of the personality of Guy IV in [11], although logical, does not seem to be based on any written primary sources ([11], page 133). The account of his marriage to Mahault is mostly fictional. The marriage had been arranged by Lord Humbert of Beaujeu ([4], page 221). Mahault, a remarkable woman and a very prominent character of her era, was one of the very few women who had taken part in a crusade herself - she had been in the Holy Land as part of the Fifth Crusade. A marriage between two powerful counts surely needed some kind of approval by the King of France, since it had significant implications for the power balance in France, creating a new very powerful count. 
 
 #### Feudal wars of 1229
 
@@ -286,7 +284,7 @@ Gestes des Chiprois ([2], page 123) also attributes the work to Richard of Cornw
 
 In Alberic of Trois-Fontaines ([32], page 577), the French forces built the castle in the presence of Richard of Cornwall. In his text, this statement is immediately before the mention of Guy of Forez' death in Apulia.
 
-It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants.
+It shall be noted that all three sources say that Ascalon was fortified the same way that Richard of England had previously built it. The slight disrepancy can certainly be considered to be a classical problem of who did the most work, as the crusades were often a competition for glory between their participants. At least when it comes to Matthew Paris, his bias against the French and in favor of Richrd of Corwnall is noted among scholars ([32], page 289).
 
 In all cases, there are no direct mentions of Guy of Forez as being present during the construction work in Ascalon - even if it is probable. Thus, it is very difficult to date the depart of Guy IV from the Holy Land - everything that is certain is that it happened after Thibault IV and most other French knights departed in September 1240 ([1], page 175). We also know that at least some French knights were still present on when Richard of Cornwall arrived.
 
@@ -462,7 +460,7 @@ The relations between the local authorities - the Byzantine Empire - and the cru
 
 Clearly, Count Guy IV of Forez is the most prominent crusader of the Forez family. His name is a perfect phonetic match, he dies from illness on his way back from a crusade and he does so during the exact time period when the village appears in historical records. The Barons' Crusade is the only crusade during which the crusaders were considered a military ally by the local authorities - which would have been Tzar Ivan Asen II. However his most likely return route does not pass through Bulgaria and this exact route appears quite certain.
 
-Although some speculation is still possible, this theory is at best far-fetched.
+Although some speculation is still possible, this theory remains somewhat far-fetched.
 
 Are we missing some significant event from the last year of his life involving Emperor Frederick II of the Holy Roman Empire? Is this event strictly personal or was there also a political element to it? Could Guy IV have visited Constantinople on his way back? Or Bulgaria?
 
@@ -535,6 +533,8 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 [29] Histoire de saint Louis / Jean de Joinville, 1868 translation of the XIIIth century manuscript
 
 [32] Alberici monachi Trium Fontium Chronicon / Alberic de Troins-Fontaines, 1698 edition of the XIIIth century manuscript
+
+[33] Crusade and Christendom: Annotated Documents in Translation from Innocent III to the Fall of Acre, 1187-1291 / Jessalyn Bird, Edward Peters and James Powell, 2013
 
 # Modern Sources
 
