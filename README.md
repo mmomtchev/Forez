@@ -577,7 +577,7 @@ It also clarifies the existing confusion about the numbering scheme for Counts o
 
 [23] Trésor de chronologie, d'histoire et de géographie pour l'étude et l'emploi des documents du moyen-âge / Louis de Mas Latrie, 1889
 
-[25] L'art de vérifier les dates des faits historiques, des chartes, des chroniques et autres anciens monuments, depuis la naissance de Notre-Seigneur - Volume X / François Clement, 1784
+[25] L'art de vérifier les dates des faits historiques, des chartes, des chroniques et autres anciens monuments, depuis la naissance de Notre-Seigneur - Volume X / François Clement, 818
 
 [26] The First Crusaders' Journey Across The Balkan Peninsula / Steven Runciman
 Byzantion, Vol. 19, Actes Du Viie Congrès Des Études Byzantines Bruxelles 1948. — I (1949), pp. 207-221
